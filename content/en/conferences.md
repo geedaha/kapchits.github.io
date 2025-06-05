@@ -1,0 +1,18 @@
++++
+title = "Conferences"
+draft = false
++++
+
+Conferences
+Dr. Kapchits regularly presents at international conferences. Selected presentations:
+
+XX Moscow Congress of Africanists (March 15, 2025)
+Title: “Modern Trends in Somali Syntax”
+Abstract: Overview of recent syntactic models and field data.
+Video: [Embed YouTube link]
+International Symposium “Language, Culture, and Power” (May 21, 2019)
+Title: “Proverbs as Tools of Social Critique”
+Abstract: Analysis of political metaphors in Somali proverbs.
+Somali Studies Conference, London (July 12, 2018)
+Title: “Kinship Terms and Identity in Somali Diaspora”
+Abstract: How kinship designations structure community ties abroad.

@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>{{ .Site.Title }}</title></head>
+<body>
+  <h1>{{ .Site.Title }}</h1>
+  {{ .Content }}
+  <ul>
+    {{ range .Site.RegularPages.ByPublishDate.Reverse }}
+      <li><a href='{{ .RelPermalink }}'>{{ .Title }}</a> — {{ .Date.Format "2006" }}</li>
+    {{ end }}
+  </ul>
+  <footer>© {{ now.Format "2006" }} {{ .Site.Title }}</footer>
+</body>
+</html>

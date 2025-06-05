@@ -1,0 +1,7 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Kapchits"
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
