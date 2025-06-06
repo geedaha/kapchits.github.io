@@ -3,7 +3,6 @@
   repo: geedaha/kapchits
   branch: main
   auth_scope: repo
-  base_url: "https://api.github.com"
   auth_endpoint: "/.netlify/functions/oauth"
   squash_merges: false
 
