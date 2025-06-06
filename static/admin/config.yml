@@ -3,8 +3,9 @@
   repo: geedaha/kapchits
   branch: main
   auth_scope: repo
-  base_url: https://github.com
+  base_url: "https://github.com"
   auth_endpoint: "/api/oauth"
+
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
