@@ -1,5 +1,5 @@
-export async function onRequestPost({ request, env }) {
-  // Парсим тело запроса как JSON
+﻿export async function onRequestPost({ request, env }) {
+  // Читаем тело POST-запроса как JSON
   const body = await request.json();
   const code = body.code;
 
@@ -10,7 +10,7 @@ export async function onRequestPost({ request, env }) {
     );
   }
 
-  // Делаем запрос на GitHub для обмена code -> access_token
+  // Обмениваем code на access_token у GitHub
   const response = await fetch('https://github.com/login/oauth/access_token', {
     method: 'POST',
     headers: {
