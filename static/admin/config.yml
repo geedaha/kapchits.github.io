@@ -3,7 +3,8 @@
   repo: geedaha/kapchits
   branch: main
   auth_scope: repo
-  auth_endpoint: "/api/oauth"
+  base_url: https://kapchits.pages.dev   # ← ваш домен
+  auth_endpoint: api/oauth               # ← без начального слэша
 
 media_folder: 'static/uploads'
 public_folder: '/uploads'
