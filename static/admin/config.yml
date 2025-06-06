@@ -4,7 +4,7 @@
   branch: main
   auth_scope: repo
   base_url: "https://github.com"
-  auth_endpoint: "/api/oauth"
+  auth_endpoint: "/.netlify/functions/oauth"
 
 
 media_folder: "static/uploads"
