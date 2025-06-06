@@ -1,37 +1,8 @@
-﻿export async function onRequestPost({ request, env }) {
-  let body;
-  try {
-    body = await request.json();
-  } catch (e) {
-    return new Response(
-      JSON.stringify({ error: 'Invalid JSON' }),
-      { status: 400, headers: { 'Content-Type': 'application/json' } }
-    );
-  }
-
-  const code = body.code;
-  if (!code) {
-    return new Response(
-      JSON.stringify({ error: 'Missing code parameter' }),
-      { status: 400, headers: { 'Content-Type': 'application/json' } }
-    );
-  }
-
-  const response = await fetch('https://github.com/login/oauth/access_token', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Accept': 'application/json'
-    },
-    body: JSON.stringify({
-      client_id: env.GITHUB_CLIENT_ID,
-      client_secret: env.GITHUB_CLIENT_SECRET,
-      code: code
-    })
-  });
-
-  const data = await response.json();
-  return new Response(JSON.stringify(data), {
-    headers: { 'Content-Type': 'application/json' }
-  });
+﻿export default async function onRequest(context) {
+  const { request } = context;
+  // Всегда возвращаем JSON с методом, чтобы проверить, что функция вообще вызывается
+  return new Response(
+    JSON.stringify({ ok: true, method: request.method }),
+    { status: 200, headers: { 'Content-Type': 'application/json' } }
+  );
 }
