@@ -1,8 +1,24 @@
-﻿export async function onRequestPost({ request, env }) {
-  // Читаем тело POST-запроса как JSON
-  const body = await request.json();
-  const code = body.code;
+export default async function onRequest(context) {
+  const { request, env } = context;
 
+  if (request.method !== 'POST') {
+    return new Response(
+      JSON.stringify({ error: 'Method not allowed' }),
+      { status: 405, headers: { 'Content-Type': 'application/json' } }
+    );
+  }
+
+  let body;
+  try {
+    body = await request.json();
+  } catch (e) {
+    return new Response(
+      JSON.stringify({ error: 'Invalid JSON' }),
+      { status: 400, headers: { 'Content-Type': 'application/json' } }
+    );
+  }
+
+  const code = body.code;
   if (!code) {
     return new Response(
       JSON.stringify({ error: 'Missing code parameter' }),
@@ -10,7 +26,6 @@
     );
   }
 
-  // Обмениваем code на access_token у GitHub
   const response = await fetch('https://github.com/login/oauth/access_token', {
     method: 'POST',
     headers: {
