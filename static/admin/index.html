@@ -4,11 +4,22 @@
     <meta charset="utf-8" />
     <title>Admin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Явно указываем путь к конфигу CMS -->
+    <script>
+      window.CMS_MANUAL_INIT = true;
+      window.CMS_OPTIONS = {
+        config: '/admin/config.yml'
+      };
+    </script>
   </head>
   <body>
-    <!-- Netlify CMS root element -->
     <div id="nc-root"></div>
-    <!-- Загружаем Netlify CMS после того, как <body> уже существует -->
+    <!-- Загружаем Netlify CMS после того, как <body> готов -->
     <script defer src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script>
+      // Инициализируем CMS вручную
+      CMS.init();
+    </script>
   </body>
 </html>
