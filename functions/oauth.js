@@ -1,13 +1,12 @@
-export default async function onRequest(context) {
+﻿export default async function onRequest(context) {
   const { request, env } = context;
+
   if (request.method !== 'POST') {
     return new Response(
       JSON.stringify({ error: 'Method not allowed' }),
       { status: 405, headers: { 'Content-Type': 'application/json' } }
     );
   }
-  // далее тело обработки POST...
-}
 
   let body;
   try {
