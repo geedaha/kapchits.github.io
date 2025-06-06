@@ -3,19 +3,18 @@
   repo: geedaha/kapchits
   branch: main
   auth_scope: repo
-  auth_endpoint: "/.netlify/functions/oauth"
-  squash_merges: false
+  auth_endpoint: '/.netlify/functions/oauth'
 
-media_folder: "static/uploads"
-public_folder: "/uploads"
+media_folder: 'static/uploads'
+public_folder: '/uploads'
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    folder: "content"
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
