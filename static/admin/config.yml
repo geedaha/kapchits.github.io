@@ -1,11 +1,13 @@
 ﻿backend:
   name: github
-  repo: geedaha/kapchits      # ваш репозиторий
-  branch: main                # ветка с Hugo-сайтом
+  repo: geedaha/kapchits
+  branch: main
   auth_scope: repo
+  base_url: https://github.com
+  auth_endpoint: "/api/oauth"
 
-media_folder: "static/uploads"  # куда будут сохраняться загружаемые файлы
-public_folder: "/uploads"       # как эти файлы будут доступны на сайте
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 collections:
   - name: "pages"
