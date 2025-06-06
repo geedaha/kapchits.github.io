@@ -1,0 +1,19 @@
+﻿backend:
+  name: github
+  repo: geedaha/kapchits      # ваш репозиторий
+  branch: main                # ветка с Hugo-сайтом
+  auth_scope: repo
+
+media_folder: "static/uploads"  # куда будут сохраняться загружаемые файлы
+public_folder: "/uploads"       # как эти файлы будут доступны на сайте
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Date", name: "date", widget: "datetime" }

@@ -1,0 +1,6 @@
+﻿# Hugo & Netlify CMS
+/public/
+/resources/
+/.cache/
+/node_modules/
+/.env*
