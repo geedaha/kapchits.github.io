@@ -1,13 +1,4 @@
-﻿export default async function onRequest(context) {
-  const { request, env } = context;
-
-  if (request.method !== 'POST') {
-    return new Response(
-      JSON.stringify({ error: 'Method not allowed' }),
-      { status: 405, headers: { 'Content-Type': 'application/json' } }
-    );
-  }
-
+﻿export async function onRequestPost({ request, env }) {
   let body;
   try {
     body = await request.json();
