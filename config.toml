@@ -92,3 +92,4 @@ title = "Kapchits"
     name   = "About"
     url    = "/about/"
     weight = 170
+publishDir = "docs"
