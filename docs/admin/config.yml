@@ -1,0 +1,21 @@
+﻿backend:
+  name: github
+  repo: geedaha/kapchits
+  branch: main
+  auth_scope: repo
+  base_url: https://kapchits.pages.dev   # ← ваш домен
+  auth_endpoint: api/oauth               # ← без начального слэша
+
+media_folder: 'static/uploads'
+public_folder: '/uploads'
+
+collections:
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
