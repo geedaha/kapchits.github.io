@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Somalistics on Kapchits.Online</title>
-    <link>http://localhost:1313/en/somalistics/</link>
+    <link>https://www.kapchits.online/en/somalistics/</link>
     <description>Recent content in Somalistics on Kapchits.Online</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/somalistics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.kapchits.online/en/somalistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lexical Glossaries</title>
-      <link>http://localhost:1313/en/somalistics/lexical-glossaries/</link>
+      <link>https://www.kapchits.online/en/somalistics/lexical-glossaries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/somalistics/lexical-glossaries/</guid>
+      <guid>https://www.kapchits.online/en/somalistics/lexical-glossaries/</guid>
       <description>&lt;p&gt;Content about Somali lexical glossaries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Video Lectures</title>
-      <link>http://localhost:1313/en/somalistics/video-lectures/</link>
+      <link>https://www.kapchits.online/en/somalistics/video-lectures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/somalistics/video-lectures/</guid>
+      <guid>https://www.kapchits.online/en/somalistics/video-lectures/</guid>
       <description>&lt;p&gt;Embedded video lectures.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://www.kapchits.online/en/sitemap.xml</loc>
     
       <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/ru/sitemap.xml</loc>
+    <loc>https://www.kapchits.online/ru/sitemap.xml</loc>
     
       <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/so/sitemap.xml</loc>
+    <loc>https://www.kapchits.online/so/sitemap.xml</loc>
     
       <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     
