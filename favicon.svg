@@ -1,6 +1,6 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <!-- Белый фон -->
-  <rect width="32" height="32" fill="white"/>
+  <!-- Круглый белый фон -->
+  <circle cx="16" cy="16" r="16" fill="white"/>
   
   <!-- Эмодзи верблюд -->
   <text x="16" y="24" font-size="20" text-anchor="middle" dominant-baseline="baseline">🐪</text>
