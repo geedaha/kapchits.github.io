@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kapchits.Online</title>
+    <link>http://localhost:1313/en/tags/</link>
+    <description>Recent content in Tags on Kapchits.Online</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book-Fair</title>
+      <link>http://localhost:1313/en/tags/book-fair/</link>
+      <pubDate>Wed, 15 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/book-fair/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guardian</title>
+      <link>http://localhost:1313/en/tags/guardian/</link>
+      <pubDate>Wed, 15 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/guardian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hargeisa</title>
+      <link>http://localhost:1313/en/tags/hargeisa/</link>
+      <pubDate>Wed, 15 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/hargeisa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>International-Recognition</title>
+      <link>http://localhost:1313/en/tags/international-recognition/</link>
+      <pubDate>Wed, 15 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/international-recognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comparative-Linguistics</title>
+      <link>http://localhost:1313/en/tags/comparative-linguistics/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/comparative-linguistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kinship-Terms</title>
+      <link>http://localhost:1313/en/tags/kinship-terms/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/kinship-terms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oromo</title>
+      <link>http://localhost:1313/en/tags/oromo/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/oromo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Somali</title>
+      <link>http://localhost:1313/en/tags/somali/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/somali/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empirical-Research</title>
+      <link>http://localhost:1313/en/tags/empirical-research/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/empirical-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Somali-Proverbs</title>
+      <link>http://localhost:1313/en/tags/somali-proverbs/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/somali-proverbs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Variation-Analysis</title>
+      <link>http://localhost:1313/en/tags/variation-analysis/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/variation-analysis/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

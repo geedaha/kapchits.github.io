@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Kapchits.Online</title>
+    <link>http://localhost:1313/ru/contact/</link>
+    <description>Recent content in Contacts on Kapchits.Online</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Контакты</title>
+      <link>http://localhost:1313/ru/contact/contact/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/contact/contact/</guid>
+      <description>&lt;h1 id=&#34;контактная-информация&#34;&gt;Контактная информация&lt;/h1&gt;&#xA;&lt;h2 id=&#34;доктор-георгий-л-капчиц&#34;&gt;Доктор Георгий Л. Капчиц&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Академическая принадлежность:&lt;/strong&gt;&lt;br&gt;&#xA;Государственная радиокомпания &amp;ldquo;Голос России&amp;rdquo;&lt;br&gt;&#xA;Главная редакция информации&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Специализация исследований:&lt;/strong&gt;&lt;br&gt;&#xA;Сомалийская лингвистика, паремиология, фольклористика&lt;/p&gt;&#xA;&lt;h3 id=&#34;профессиональные-контакты&#34;&gt;Профессиональные контакты&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Электронная почта:&lt;/strong&gt; [Контактная информация будет предоставлена]&lt;br&gt;&#xA;&lt;strong&gt;Телефон:&lt;/strong&gt; [Контактная информация будет предоставлена]&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Почтовый адрес:&lt;/strong&gt;&lt;br&gt;&#xA;[Институциональный адрес будет предоставлен]&lt;br&gt;&#xA;Москва, Российская Федерация&lt;/p&gt;&#xA;&lt;h3 id=&#34;академическая-корреспонденция&#34;&gt;Академическая корреспонденция&lt;/h3&gt;&#xA;&lt;p&gt;Для академических запросов, исследовательского сотрудничества или научной корреспонденции, пожалуйста, укажите:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Вашу институциональную принадлежность&lt;/li&gt;&#xA;&lt;li&gt;Конкретные исследовательские интересы&lt;/li&gt;&#xA;&lt;li&gt;Цель обращения (консультация, сотрудничество, запрос информации)&lt;/li&gt;&#xA;&lt;li&gt;Соответствующий опыт в сомалистике или смежных областях&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;запросы-студентов&#34;&gt;Запросы студентов&lt;/h3&gt;&#xA;&lt;p&gt;Студенты, заинтересованные в исследовательском руководстве или академическом наставничестве, должны предоставить:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

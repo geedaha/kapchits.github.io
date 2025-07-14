@@ -1,0 +1,244 @@
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html,body { margin:0; padding:0; }
+
+body {
+  font:16px/1.1 sans-serif;
+  color:#222;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  margin-top: 120px; /* Отступ для полосок уведомления */
+}
+
+/* ====================================================================
+   DEVELOPMENT NOTICE STRIPS
+   ==================================================================== */
+
+.dev-notice {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  animation: slideDown 0.8s ease-out;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.notice-strip {
+  padding: 8px 16px;
+  line-height: 1.4;
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+.notice-strip:hover {
+  transform: scale(1.02);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* British Blue */
+.strip-en {
+  background-color: #012169;
+  color: white;
+}
+
+/* White */
+.strip-ru {
+  background-color: white;
+  color: black;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Deep Yellow */
+.strip-so {
+  background-color: #FFD700;
+  color: black;
+}
+
+.site-name {
+  font-weight: 700;
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-name:hover {
+  text-decoration: underline;
+}
+
+/* ====================================================================
+   LANGUAGE SWITCHER
+   ==================================================================== */
+  .lang-switch {
+    margin: 40px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .lang-switch a {
+    display: inline-block;
+    margin: 0 10px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #333;
+    border-radius: 50%;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .lang-switch a.active {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+
+  /* ====================================================================
+   HEADER
+   ==================================================================== */
+
+.header{
+  width:min(800px,80%);
+  padding:20px;
+  overflow:hidden;
+}
+
+.header img{
+  float:left;
+  margin:0 20px 20px 0;
+  width:200px;border-radius:4px;
+}
+
+.header .desc{font-size:.9rem;line-height:1.4;}
+
+.header::after{content:"";display:table;clear:both;}
+
+.divider{
+  width:60%;border-top:1px solid #ccc;margin:30px auto;
+}
+
+.divider_on_single {
+  width:40%;border-top:1px solid #ccc;margin:180px 30px 20px 30px;
+}
+
+/* ====================================================================
+   CONTENT BLOCKS
+   ==================================================================== */
+
+.proverb{text-align:center;max-width:640px;}
+.grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:25px;text-align:center;max-width:640px;
+}
+.grid a{text-decoration:none;color:#222;}
+
+footer{text-align:center;font-size:.9rem;margin:30px 0;}
+footer a{color:#222;text-decoration:underline;margin:0 5px;}
+
+/* ====================================================================
+   NAVIGATION (иконки и дерево)
+   ==================================================================== */
+
+.sec-nav{border-right:1px solid #999;padding-right:15px;}
+.lv1-link,.lv2-link{display:block;margin:6px 0;text-decoration:none;color:#222;}
+.lv2-link{font-size:14px;}
+.lv1-link.active,.lv2-link.active{font-weight:700;}
+.arrow{margin-left:4px;font-size:1.1em;vertical-align:middle;}
+
+/* ► отступы ветки Publications */
+.sec-nav.lv2 .indent-0{margin-left:0;}
+.sec-nav.lv2 .indent-1{margin-left:1.5rem;}
+.sec-nav.lv2 .indent-2{margin-left:3rem;}
+.sec-nav.lv2 .indent-3{margin-left:4.5rem;}
+
+/* ====================================================================
+   3-COLUMN LAYOUT  (LV-1 | LV-2 | CONTENT)
+   ==================================================================== */
+
+.section-wrap{           /* используется в baseof → <div class="section-wrap"> */
+  width:90%;
+  max-width:1200px;
+  margin:0 auto;
+  display:grid;
+  grid-template-columns:140px 220px 1fr;  /* lv1 | lv2 | контент */
+  gap:20px;
+}
+
+/* Для страниц без подменю (например, about.md) */
+.section-wrap.no-submenu {
+  grid-template-columns: 140px 1fr;  /* только lv1 | контент */
+}
+
+/* ► сбрасываем float, заданный inline в nav.html */
+.section-wrap .sec-nav{float:none!important;}
+
+.right-content{padding-left:5px;}
+
+/* ====================================================================
+   BREADCRUMBS
+   ==================================================================== */
+
+.breadcrumbs{
+  font-size:.97rem;margin-bottom:1.2rem;
+  color:#666;letter-spacing:.03em;
+}
+.breadcrumbs a{color:#007acc;text-decoration:none;transition:color .2s;}
+.breadcrumbs a:hover{color:#00507a;text-decoration:underline;}
+
+/* ====================================================================
+   RESPONSIVE ADJUSTMENTS FOR DEVELOPMENT NOTICE
+   ==================================================================== */
+
+@media (max-width: 768px) {
+  body {
+    margin-top: 100px;
+  }
+  
+  .notice-strip {
+    font-size: 12px;
+    padding: 6px 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    margin-top: 90px;
+  }
+  
+  .notice-strip {
+    font-size: 11px;
+    padding: 5px 8px;
+  }
+}
+
+/* ====================================================================
+   UTILITIES
+   ==================================================================== */
+
+.text-center{text-align:center;}
+
+/* ====================================================================
+   END
+   ==================================================================== */

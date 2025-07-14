@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper2 on Kapchits.Online</title>
+    <link>http://localhost:1313/ru/publications/articles/paper2/</link>
+    <description>Recent content in Paper2 on Kapchits.Online</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/publications/articles/paper2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About333</title>
+      <link>http://localhost:1313/ru/publications/articles/paper2/about333/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/publications/articles/paper2/about333/</guid>
+      <description>&lt;p&gt;333Biography and academic background of Dr. Kapchits&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
