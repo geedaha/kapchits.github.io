@@ -1043,12 +1043,6 @@ document.addEventListener('DOMContentLoaded', function() {
   const counterElement = document.getElementById('visitor-count');
   
   
-  if (localStorage.getItem('site-visitors') === '15420') {
-    localStorage.removeItem('site-visitors');
-    localStorage.removeItem('last-visit-date');
-  }
-  
-  
   let visitorCount = localStorage.getItem('site-visitors') || 0; 
   
   
