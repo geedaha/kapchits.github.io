@@ -351,7 +351,7 @@
     
     <div class="divider_on_single" style="width:60%;"></div>
 
-	
+    
     <footer>
       <p>© 2025 Dr. Kapchits</p>
       <p>
@@ -392,11 +392,10 @@
       </p>
       
       
-
-    </footer>
-
-    
-    
+      
+      
+      <div style="text-align: center; margin-top: 10px;">
+        
 
 <div class="visitor-counter">
   <div class="counter-content">
@@ -408,28 +407,25 @@
 
 <style>
 .visitor-counter {
-  position: fixed;
-  bottom: 10px;
-  left: 50%;
-  transform: translateX(-50%);
+  display: inline-block;
   background: rgba(255, 255, 255, 0.95);
   color: #333;
-  padding: 8px 12px;
+  padding: 6px 10px;
   border-radius: 6px;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 500;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
   transition: all 0.2s ease;
   cursor: default;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
+  margin-top: 10px;
 }
 
 .visitor-counter:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  transform: translateX(-50%) translateY(-1px);
+  transform: translateY(-1px);
 }
 
 .counter-content {
@@ -440,29 +436,18 @@
 }
 
 .counter-icon {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .counter-text {
   color: #666;
+  font-size: 11px;
 }
 
 .counter-number {
   font-weight: 600;
   color: #007acc;
-}
-
- 
-@media (max-width: 768px) {
-  .visitor-counter {
-    bottom: 8px;
-    font-size: 12px;
-    padding: 6px 10px;
-  }
-  
-  .counter-icon {
-    font-size: 13px;
-  }
+  font-size: 12px;
 }
 
  
@@ -533,6 +518,9 @@ function animateCounter(element, targetValue) {
   }, 33); 
 }
 </script>
+
+      </div>
+    </footer>
 
   </body>
 </html>
