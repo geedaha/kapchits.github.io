@@ -400,7 +400,7 @@
 
 <div class="visitor-counter">
   <div class="counter-content">
-    <span class="counter-icon">👥</span>
+    <span class="counter-icon">👁️</span>
     <span class="counter-text">Visitors:</span>
     <span class="counter-number" id="visitor-count">Loading...</span>
   </div>
@@ -410,46 +410,75 @@
 .visitor-counter {
   position: fixed;
   bottom: 20px;
-  right: 20px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 8px 16px;
-  border-radius: 20px;
-  font-size: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.95);
+  color: #333;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 13px;
   font-weight: 500;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   z-index: 1000;
-  transition: all 0.3s ease;
-  cursor: pointer;
+  transition: all 0.2s ease;
+  cursor: default;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 
 .visitor-counter:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transform: translateX(-50%) translateY(-1px);
 }
 
 .counter-content {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 5px;
+  white-space: nowrap;
 }
 
 .counter-icon {
-  font-size: 16px;
+  font-size: 14px;
+}
+
+.counter-text {
+  color: #666;
 }
 
 .counter-number {
-  font-weight: 700;
-  color: #FFD700;
+  font-weight: 600;
+  color: #007acc;
 }
 
  
 @media (max-width: 768px) {
   .visitor-counter {
-    bottom: 10px;
-    right: 10px;
+    bottom: 15px;
     font-size: 12px;
-    padding: 6px 12px;
+    padding: 6px 10px;
+  }
+  
+  .counter-icon {
+    font-size: 13px;
+  }
+}
+
+ 
+@media (prefers-color-scheme: dark) {
+  .visitor-counter {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .counter-text {
+    color: #ccc;
+  }
+  
+  .counter-number {
+    color: #66b3ff;
   }
 }
 </style>
@@ -458,6 +487,12 @@
 
 document.addEventListener('DOMContentLoaded', function() {
   const counterElement = document.getElementById('visitor-count');
+  
+  
+  if (localStorage.getItem('site-visitors') === '15420') {
+    localStorage.removeItem('site-visitors');
+    localStorage.removeItem('last-visit-date');
+  }
   
   
   let visitorCount = localStorage.getItem('site-visitors') || 0; 
