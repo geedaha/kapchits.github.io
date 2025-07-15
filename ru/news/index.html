@@ -15,14 +15,15 @@
 <link rel="manifest" href="/site.webmanifest">
 
 
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7ZG5PPPZ4W"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-7ZG5PPPZ4W');
 </script>
+
   </head>
   <body>
     
@@ -444,7 +445,7 @@
     
     <div class="divider_on_single" style="width:60%;"></div>
 
-    
+	
     <footer>
       <p>© 2025 Dr. Kapchits</p>
       <p>
@@ -487,5 +488,110 @@
       
 
     </footer>
+
+    
+    
+
+<div class="visitor-counter">
+  <div class="counter-content">
+    <span class="counter-icon">👥</span>
+    <span class="counter-text">Visitors:</span>
+    <span class="counter-number" id="visitor-count">Loading...</span>
+  </div>
+</div>
+
+<style>
+.visitor-counter {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  z-index: 1000;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.visitor-counter:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
+.counter-content {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.counter-icon {
+  font-size: 16px;
+}
+
+.counter-number {
+  font-weight: 700;
+  color: #FFD700;
+}
+
+ 
+@media (max-width: 768px) {
+  .visitor-counter {
+    bottom: 10px;
+    right: 10px;
+    font-size: 12px;
+    padding: 6px 12px;
+  }
+}
+</style>
+
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+  const counterElement = document.getElementById('visitor-count');
+  
+  
+  let visitorCount = localStorage.getItem('site-visitors') || 15420; 
+  
+  
+  const today = new Date().toDateString();
+  const lastVisit = localStorage.getItem('last-visit-date');
+  
+  if (lastVisit !== today) {
+    
+    visitorCount = parseInt(visitorCount) + 1;
+    localStorage.setItem('site-visitors', visitorCount);
+    localStorage.setItem('last-visit-date', today);
+    
+    
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'page_view', {
+        'custom_parameter': 'visitor_count_' + visitorCount
+      });
+    }
+  }
+  
+  
+  animateCounter(counterElement, parseInt(visitorCount));
+});
+
+function animateCounter(element, targetValue) {
+  let currentValue = targetValue - 100;
+  const increment = Math.ceil(100 / 30); 
+  
+  const timer = setInterval(() => {
+    currentValue += increment;
+    if (currentValue >= targetValue) {
+      currentValue = targetValue;
+      clearInterval(timer);
+    }
+    element.textContent = currentValue.toLocaleString();
+  }, 33); 
+}
+</script>
+
   </body>
 </html>
