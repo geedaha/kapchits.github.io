@@ -579,14 +579,14 @@
 <style>
 .visitor-counter {
   position: fixed;
-  bottom: 20px;
+  bottom: 60px;
   left: 50%;
   transform: translateX(-50%);
   background: rgba(255, 255, 255, 0.95);
   color: #333;
-  padding: 8px 12px;
+  padding: 6px 10px;
   border-radius: 6px;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 500;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -605,33 +605,43 @@
 .counter-content {
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 4px;
   white-space: nowrap;
 }
 
 .counter-icon {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .counter-text {
   color: #666;
+  font-size: 11px;
 }
 
 .counter-number {
   font-weight: 600;
   color: #007acc;
+  font-size: 12px;
 }
 
  
 @media (max-width: 768px) {
   .visitor-counter {
-    bottom: 15px;
-    font-size: 12px;
-    padding: 6px 10px;
+    bottom: 70px;
+    font-size: 11px;
+    padding: 5px 8px;
   }
   
   .counter-icon {
-    font-size: 13px;
+    font-size: 11px;
+  }
+  
+  .counter-text {
+    font-size: 10px;
+  }
+  
+  .counter-number {
+    font-size: 11px;
   }
 }
 
