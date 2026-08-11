@@ -439,3 +439,15 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
   .sec-content h2, .right-content h2{ font-size:1.25rem; }
   .sec-content, .right-content{ font-size:1rem; }
 }
+
+/* ---- Страницы тегов и категорий (шаблоны term/taxonomy, 11.08.2026) ---- */
+.term-list, .term-index{ list-style:none; padding:0; margin:1.2rem 0; }
+.term-list li{ margin:0 0 1.1rem; }
+.term-index li{ margin:0 0 .5rem; }
+.term-date{ color:#7b8794; font-size:.88rem; margin-left:.4rem; }
+.term-desc{ color:#4a5568; font-size:.93rem; line-height:1.5; margin-top:.2rem; max-width:70ch; }
+.term-count{
+  display:inline-block; min-width:1.4em; padding:0 .4em; margin-left:.35rem;
+  background:#eef2f6; border-radius:999px; color:#64748b;
+  font-size:.8rem; text-align:center;
+}

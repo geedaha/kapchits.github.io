@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Sat, 01 Dec 2001 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 16 Jul 2012 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.kapchits.online/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cultural-Events</title>
+				<link>https://www.kapchits.online/ru/categories/cultural-events/</link>
+				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/ru/categories/cultural-events/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>International-Press</title>
+				<link>https://www.kapchits.online/ru/categories/international-press/</link>
+				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/ru/categories/international-press/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Interviews</title>
+				<link>https://www.kapchits.online/ru/categories/interviews/</link>
+				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/ru/categories/interviews/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Conferences</title>
 				<link>https://www.kapchits.online/ru/categories/conferences/</link>

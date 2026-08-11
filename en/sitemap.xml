@@ -8,6 +8,19 @@
     <loc>https://www.kapchits.online/en/publications/articles/kinship-terms-in-somali-and-oromo-a-comparative-study/</loc>
     <lastmod>2008-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.kapchits.online/en/somalistics/lexicon/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/somalistics/lexicon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/somalistics/lexicon/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/en/publications/folklore/out-of-the-mouth-of-babes-and-sucklings/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -24,8 +37,6 @@
     <loc>https://www.kapchits.online/en/biography/cv/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/en/somalistics/lexicon/</loc>
-  </url><url>
     <loc>https://www.kapchits.online/en/research/scholars/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,7 +50,24 @@
                 href="https://www.kapchits.online/ru/research/scholars/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/en/research/conferences/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kapchits.online/en/somalistics/videos/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/somalistics/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/somalistics/videos/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/research/projects/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/contact/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
@@ -57,6 +85,42 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/contact/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/for-students/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/for-students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/for-students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/for-students/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/legal/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/legal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/legal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/legal/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/biography/</loc>
@@ -103,26 +167,18 @@
                 href="https://www.kapchits.online/ru/publications/folklore/"
                 />
   </url><url>
-    <loc>https://www.kapchits.online/en/for-students/</loc>
+    <loc>https://www.kapchits.online/en/research/kinship-terms/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.kapchits.online/en/for-students/"
+                href="https://www.kapchits.online/en/research/kinship-terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/for-students/"
+                href="https://www.kapchits.online/ru/research/kinship-terms/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/for-students/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/en/research/kinship-terms/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/publications/monographs/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
@@ -206,6 +262,16 @@
   </url><url>
     <loc>https://www.kapchits.online/en/somalistics/grammar/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/somalistics/grammar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/somalistics/grammar/"
+                />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/proverbs/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
@@ -213,6 +279,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.kapchits.online/en/publications/proverbs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/proverbs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -252,10 +323,10 @@
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/tags/book-fair/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/categories/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -273,25 +344,49 @@
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/categories/cultural-events/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/categories/cultural-events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/categories/cultural-events/"
+                />
   </url><url>
     <loc>https://www.kapchits.online/en/tags/guardian/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/en/news/guardian-hargeisa-book-fair/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/guardian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/guardian/"
+                />
   </url><url>
     <loc>https://www.kapchits.online/en/tags/hargeisa/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/categories/international-press/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/en/tags/international-recognition/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/categories/international-press/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/categories/international-press/"
+                />
   </url><url>
     <loc>https://www.kapchits.online/en/tags/</loc>
-    <lastmod>2012-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -306,6 +401,110 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/tags/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/news/guardian-hargeisa-book-fair/</loc>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/news/guardian-hargeisa-book-fair/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/news/guardian-hargeisa-book-fair/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/news/horn-africa-interview/</loc>
+    <lastmod>2012-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/news/horn-africa-interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/news/horn-africa-interview/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/hargeisa-book-fair/</loc>
+    <lastmod>2012-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/hargeisa-book-fair/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/hargeisa-book-fair/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/horn-newspaper/</loc>
+    <lastmod>2012-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/horn-newspaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/horn-newspaper/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/categories/interviews/</loc>
+    <lastmod>2012-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/categories/interviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/categories/interviews/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/proverbs/</loc>
+    <lastmod>2012-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/proverbs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/proverbs/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/somaliland/</loc>
+    <lastmod>2012-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/somaliland/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/somaliland/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/somalilandsun/</loc>
+    <lastmod>2012-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/somalilandsun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/somalilandsun/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/categories/anthropology/</loc>
@@ -344,6 +543,34 @@
     <loc>https://www.kapchits.online/en/tags/variation-analysis/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.kapchits.online/en/tags/diaspora/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/interview/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/somali-language/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/news/wardheer-interview/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/wardheernews/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/wardheernews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/wardheernews/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/zholkovsky/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kapchits.online/en/categories/conferences/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -381,23 +608,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/faq/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/en/legal/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/legal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/legal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/legal/"
                 />
   </url>
 </urlset>

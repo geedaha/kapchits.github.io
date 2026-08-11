@@ -20,6 +20,24 @@
                 href="https://www.kapchits.online/so/contact/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/so/legal/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/legal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/legal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/legal/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/so/news/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -62,6 +80,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.kapchits.online/en/publications/proverbs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/proverbs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -142,10 +165,10 @@
                 />
   </url><url>
     <loc>https://www.kapchits.online/so/tags/af-soomaali/</loc>
-    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/categories/</loc>
-    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -162,20 +185,17 @@
                 href="https://www.kapchits.online/so/categories/"
                 />
   </url><url>
-    <loc>https://www.kapchits.online/so/tags/kanada/</loc>
-    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.kapchits.online/so/tags/maahmaaho/</loc>
-    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/so/tags/ottawa/</loc>
-    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+    <loc>https://www.kapchits.online/so/tags/qurbaha/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/so/tags/qurbajoogta/</loc>
-    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+    <loc>https://www.kapchits.online/so/tags/sheekaxariir/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/tags/</loc>
-    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -192,6 +212,37 @@
                 href="https://www.kapchits.online/so/tags/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/so/tags/wardheernews/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/wardheernews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/wardheernews/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/wareysi/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/news/wareysi-wardheernews/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/categories/wareysiyo/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/kanada/</loc>
+    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/ottawa/</loc>
+    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/qurbajoogta/</loc>
+    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kapchits.online/so/news/booqasho-ottawa/</loc>
     <lastmod>2003-08-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -205,12 +256,6 @@
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/tags/raadiyow-moosko/</loc>
-    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/so/tags/wareysi/</loc>
-    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/so/categories/wareysiyo/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/faq/</loc>
@@ -228,23 +273,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/faq/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/so/legal/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/legal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/legal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/legal/"
                 />
   </url>
 </urlset>

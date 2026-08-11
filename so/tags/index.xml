@@ -10,14 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Sat, 09 Aug 2003 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 25 Jan 2006 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.kapchits.online/so/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Af-Soomaali</title>
 				<link>https://www.kapchits.online/so/tags/af-soomaali/</link>
-				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
 				<guid>https://www.kapchits.online/so/tags/af-soomaali/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Maahmaaho</title>
+				<link>https://www.kapchits.online/so/tags/maahmaaho/</link>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/maahmaaho/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Qurbaha</title>
+				<link>https://www.kapchits.online/so/tags/qurbaha/</link>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/qurbaha/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sheekaxariir</title>
+				<link>https://www.kapchits.online/so/tags/sheekaxariir/</link>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/sheekaxariir/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wardheernews</title>
+				<link>https://www.kapchits.online/so/tags/wardheernews/</link>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/wardheernews/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wareysi</title>
+				<link>https://www.kapchits.online/so/tags/wareysi/</link>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/wareysi/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -25,13 +60,6 @@
 				<link>https://www.kapchits.online/so/tags/kanada/</link>
 				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
 				<guid>https://www.kapchits.online/so/tags/kanada/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Maahmaaho</title>
-				<link>https://www.kapchits.online/so/tags/maahmaaho/</link>
-				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/tags/maahmaaho/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -60,13 +88,6 @@
 				<link>https://www.kapchits.online/so/tags/raadiyow-moosko/</link>
 				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
 				<guid>https://www.kapchits.online/so/tags/raadiyow-moosko/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Wareysi</title>
-				<link>https://www.kapchits.online/so/tags/wareysi/</link>
-				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/tags/wareysi/</guid>
 				<description></description>
 			</item>
 	</channel>
