@@ -508,6 +508,31 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
   .bio-portrait{ float:none; margin:0 auto 1.4rem; max-width:340px; }
 }
 
+/* ---- Человекочитаемая карта сайта (12.08.2026) ----------------------- */
+.map-level{ list-style:none; margin:0; padding:0; }
+.map-root{ margin:1.6rem 0 1.4rem; }
+.map-root > .map-item > a{ font-size:1.08rem; font-weight:600; }
+/* Вложенные уровни: отступ плюс направляющая слева, чтобы глубина читалась */
+.map-level .map-level{
+  margin:.35rem 0 .9rem;
+  padding-left:1.1rem;
+  border-left:1px solid #e6ebf0;
+}
+.map-item{ margin:0 0 .45rem; line-height:1.45; }
+.map-item > a{ font-weight:500; }
+.map-branch > a{ font-weight:600; }
+.map-note{
+  display:block;
+  color:#7b8794;
+  font-size:.85rem;
+  line-height:1.4;
+  max-width:66ch;
+}
+.map-count{ color:#9aa5b1; font-size:.88rem; margin-top:1.6rem; }
+@media (max-width:700px){
+  .map-level .map-level{ padding-left:.8rem; }
+}
+
 /* ---- Сканы страниц при расшифрованном тексте (12.08.2026) ------------ */
 .scan-pair{
   margin:1.4rem 0 2rem;
