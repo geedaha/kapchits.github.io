@@ -259,6 +259,24 @@
                 href="https://www.kapchits.online/so/for-students/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/en/photos/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/photos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/photos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/photos/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/en/categories/reviews/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link

@@ -443,3 +443,27 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
   background:#eef2f6; border-radius:999px; color:#64748b;
   font-size:.8rem; text-align:center;
 }
+
+/* ---- Фотогалерея (страницы photos, 11.08.2026) ---------------------- */
+.photo-gallery{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(240px,1fr));
+  gap:18px;
+  margin:1.4rem 0 2rem;
+  max-width:none;
+}
+.photo-gallery .photo-item{ margin:0; }
+.photo-gallery .photo-item a{
+  display:block; border:1px solid #d9e0e7; background:#fff; padding:4px;
+  line-height:0; border-radius:2px;
+}
+.photo-gallery .photo-item a:hover{ border-color:#2b95ff; }
+.photo-gallery .photo-item img{
+  display:block; width:100%; height:auto;
+}
+.photo-gallery figcaption{
+  margin-top:.4rem; color:#4a5568; font-size:.88rem; line-height:1.4;
+}
+@media (max-width:600px){
+  .photo-gallery{ grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:14px; }
+}
