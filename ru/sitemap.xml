@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kapchits.online/ru/somalistics/grammar/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/somalistics/grammar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/somalistics/grammar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/somalistics/grammar/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/ru/publications/folklore/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -211,24 +229,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/legal/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/ru/somalistics/grammar/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/somalistics/grammar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/somalistics/grammar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/somalistics/grammar/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/ru/</loc>
