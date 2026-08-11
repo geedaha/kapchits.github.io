@@ -1,8 +1,7 @@
 /* Показ случайной пословицы на главной странице.
  *
- * Данные лежат отдельно, в proverbs.js (константа PROVERBS) — так список
- * можно править, не трогая код. Оба файла подключаются в home.html,
- * сначала данные, потом этот файл.
+ * Данные (константа PROVERBS) Hugo генерирует из site/data/proverbs.json и
+ * подключает перед этим файлом. Правится файл данных, не этот и не тот.
  */
 (function () {
   if (typeof PROVERBS === "undefined" || !PROVERBS.length) return;
@@ -13,7 +12,11 @@
   var p = PROVERBS[Math.floor(Math.random() * PROVERBS.length)];
   var put = function (id, text) {
     var el = document.getElementById(id);
-    if (el) el.textContent = '“' + text + '”';
+    if (!el) return;
+    // Русская строка есть не у всех: пустую прячем, а не показываем кавычки ни с чем
+    if (!text) { el.hidden = true; return; }
+    el.hidden = false;
+    el.textContent = '“' + text + '”';
   };
   put("proverb-somali", p.somali);
   put("proverb-english", p.english);
