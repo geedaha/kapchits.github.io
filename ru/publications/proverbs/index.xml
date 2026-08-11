@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Исследования сомалийских пословиц on Kapchits.Online</title>
+		<title>Исследование сомалийских пословиц on Kapchits.Online</title>
 		<link>https://www.kapchits.online/ru/publications/proverbs/</link>
-		<description>Recent content in Исследования сомалийских пословиц on Kapchits.Online</description>
+		<description>Recent content in Исследование сомалийских пословиц on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
 		
 		
 		
 		
-			<lastBuildDate></lastBuildDate>
+			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.kapchits.online/ru/publications/proverbs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Пословицы, которые показываются на сайте</title>
+				<link>https://www.kapchits.online/ru/publications/proverbs/selection/</link>
+				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/ru/publications/proverbs/selection/</guid>
+				<description>&lt;p&gt;Одна из них появляется на &lt;a href=&#34;https://www.kapchits.online/ru/&#34;&gt;главной странице&lt;/a&gt; при каждой её загрузке. Здесь набор перечислен целиком.&lt;/p&gt;&#xA;&lt;p&gt;Шесть процитированы в работах, опубликованных на этом сайте, — там их можно прочесть в контексте. Остальные взяты из собрания «Hubsiimo hal baa la siistaa» (Москва, 2002), где собраны наиболее употребительные сомалийские пословицы, отобранные &lt;a href=&#34;https://www.kapchits.online/ru/publications/proverbs/&#34;&gt;паремиологическим экспериментом&lt;/a&gt;. Английские переводы авторские; русские строки — рабочий перевод с английского Капчица, а не его изданные русские версии.&lt;/p&gt;&#xA;&lt;div id=&#34;proverb-list&#34; class=&#34;proverb-list&#34;&gt;&#xA;&lt;p class=&#34;proverb-loading&#34;&gt;Загрузка…&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;script src=&#34;https://www.kapchits.online/assets/js/proverbs.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script&gt;&#xA;(function () {&#xA;  var box = document.getElementById(&#34;proverb-list&#34;);&#xA;  if (!box || typeof PROVERBS === &#34;undefined&#34;) return;&#xA;  var html = &#34;&#34;;&#xA;  for (var i = 0; i &lt; PROVERBS.length; i++) {&#xA;    var p = PROVERBS[i];&#xA;    html += &#39;&lt;figure class=&#34;proverb-item&#34;&gt;&#39;&#xA;          +   &#39;&lt;blockquote class=&#34;proverb-so&#34; lang=&#34;so&#34;&gt;&#39; + p.somali + &#39;&lt;/blockquote&gt;&#39;&#xA;          +   &#39;&lt;figcaption&gt;&#39;&#xA;          +     &#39;&lt;span class=&#34;proverb-ru&#34; lang=&#34;ru&#34;&gt;&#39; + p.russian + &#39;&lt;/span&gt;&#39;&#xA;          +     &#39;&lt;span class=&#34;proverb-en&#34; lang=&#34;en&#34;&gt;&#39; + p.english + &#39;&lt;/span&gt;&#39;&#xA;          +   &#39;&lt;/figcaption&gt;&#39;&#xA;          + &#39;&lt;/figure&gt;&#39;;&#xA;  }&#xA;  box.innerHTML = html;&#xA;})();&#xA;&lt;/script&gt;&#xA;&lt;p&gt;&lt;em&gt;Набор заменён в августе 2026 года. Из двадцати четырёх пословиц, показывавшихся здесь прежде, двадцать две не удалось найти нигде в корпусе Г. Л. Капчица — они были выдуманы. На сайте, посвящённом изучению сомалийских пословиц, это наименее допустимое место для вымысла, и набор был собран заново по засвидетельствованным источникам.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

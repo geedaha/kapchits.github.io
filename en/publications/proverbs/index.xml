@@ -10,8 +10,15 @@
 		
 		
 		
-			<lastBuildDate></lastBuildDate>
+			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.kapchits.online/en/publications/proverbs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The proverbs shown on this site</title>
+				<link>https://www.kapchits.online/en/publications/proverbs/selection/</link>
+				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/publications/proverbs/selection/</guid>
+				<description>&lt;p&gt;One of these appears on the &lt;a href=&#34;https://www.kapchits.online/en/&#34;&gt;front page&lt;/a&gt; each time it is loaded. The whole set is listed here.&lt;/p&gt;&#xA;&lt;p&gt;Six are quoted in papers published on this site, and can be read there in context. The rest come from &lt;em&gt;Hubsiimo hal baa la siistaa&lt;/em&gt; (Moscow, 2002), the collection of the most commonly used Somali proverbs established by the &lt;a href=&#34;https://www.kapchits.online/en/publications/proverbs/&#34;&gt;paremiological experiment&lt;/a&gt;. English translations are the author&amp;rsquo;s own; the Russian lines are working renderings of his English rather than his published Russian versions.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

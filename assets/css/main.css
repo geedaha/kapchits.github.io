@@ -503,3 +503,27 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
 @media (max-width:700px){
   .bio-portrait{ float:none; margin:0 auto 1.4rem; max-width:340px; }
 }
+
+/* ---- Список пословиц (страница selection, 11.08.2026) ---------------- */
+.proverb-list{ margin:1.6rem 0 2rem; }
+.proverb-loading{ color:#9aa5b1; font-style:italic; }
+.proverb-item{
+  margin:0 0 1.5rem;
+  padding:0 0 1.3rem;
+  border-bottom:1px solid #eef2f5;
+}
+.proverb-item:last-child{ border-bottom:none; }
+.proverb-so{
+  margin:0 0 .5rem;
+  padding:0 0 0 1rem;
+  border-left:3px solid #c8a96a;
+  background:none;
+  font-size:1.06rem;
+  font-style:italic;
+  color:#1f2933;
+  max-width:70ch;
+}
+.proverb-item figcaption{ padding-left:1rem; max-width:70ch; }
+.proverb-en, .proverb-ru{ display:block; line-height:1.5; }
+.proverb-en{ color:#33404f; }
+.proverb-ru{ color:#7b8794; font-size:.95rem; margin-top:.15rem; }

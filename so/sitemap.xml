@@ -38,6 +38,24 @@
                 href="https://www.kapchits.online/so/somalistics/grammar/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/so/publications/proverbs/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/proverbs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/proverbs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/proverbs/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/so/somalistics/lexicon/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -90,6 +108,24 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/research/kinship-terms/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/so/publications/proverbs/selection/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/proverbs/selection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/proverbs/selection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/proverbs/selection/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/so/research/conferences/</loc>
@@ -342,24 +378,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/news/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/so/publications/proverbs/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/publications/proverbs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/publications/proverbs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/publications/proverbs/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/so/publications/</loc>
