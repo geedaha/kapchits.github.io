@@ -20,6 +20,24 @@
                 href="https://www.kapchits.online/so/somalistics/grammar/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/ru/publications/monographs/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/monographs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/monographs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/monographs/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/ru/publications/folklore/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -301,24 +319,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/research/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/ru/publications/monographs/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/publications/monographs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/publications/monographs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/publications/monographs/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/ru/publications/</loc>
