@@ -90,5 +90,26 @@
 				<guid>https://www.kapchits.online/en/tags/variation-analysis/</guid>
 				<description></description>
 			</item>
+			<item>
+				<title>Congress</title>
+				<link>https://www.kapchits.online/en/tags/congress/</link>
+				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/congress/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali-Poetry</title>
+				<link>https://www.kapchits.online/en/tags/somali-poetry/</link>
+				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-poetry/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali-Studies</title>
+				<link>https://www.kapchits.online/en/tags/somali-studies/</link>
+				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-studies/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

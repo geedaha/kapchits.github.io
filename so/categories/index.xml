@@ -10,6 +10,22 @@
 		
 		
 		
+			<lastBuildDate>Sat, 09 Aug 2003 00:00:00 +0000</lastBuildDate>
+		
 			<atom:link href="https://www.kapchits.online/so/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Warbixinno</title>
+				<link>https://www.kapchits.online/so/categories/warbixinno/</link>
+				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/categories/warbixinno/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wareysiyo</title>
+				<link>https://www.kapchits.online/so/categories/wareysiyo/</link>
+				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/categories/wareysiyo/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

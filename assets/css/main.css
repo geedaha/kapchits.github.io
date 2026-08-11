@@ -178,23 +178,33 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
    ==================================================================== */
 
 .section-wrap{           /* используется в baseof → <div class="section-wrap"> */
-  width:90%;
+  width:92%;
   max-width:1200px;
   margin:0 auto;
   display:grid;
-  grid-template-columns:140px 220px 1fr;  /* lv1 | lv2 | контент */
+  /* ПО УМОЛЧАНИЮ две колонки: меню + контент.
+     Раньше здесь жёстко стояли три колонки (140px 220px 1fr), и на страницах
+     без подменю (напр. /ru/news/) контент попадал в узкую 220-пиксельную
+     колонку — та самая «тонкая колоночка». Теперь третья колонка появляется
+     только когда подменю реально отрисовано.
+     minmax(0,1fr) обязателен: иначе длинные слова и таблицы распирают грид. */
+  grid-template-columns:140px minmax(0,1fr);
   gap:20px;
+  align-items:start;
 }
 
-/* Для страниц без подменю (например, about.md) */
-.section-wrap.no-submenu {
-  grid-template-columns: 140px 1fr;  /* только lv1 | контент */
+/* Есть подменю → три колонки: lv1 | lv2 | контент */
+.section-wrap:has(.sec-nav.lv2){
+  grid-template-columns:140px 220px minmax(0,1fr);
+}
+
+/* Явный класс из шаблонов (подстраховка для браузеров без :has()) */
+.section-wrap.no-submenu{
+  grid-template-columns:140px minmax(0,1fr);
 }
 
 /* ► сбрасываем float, заданный inline в nav.html */
 .section-wrap .sec-nav{float:none!important;}
-
-.right-content{padding-left:5px;}
 
 /* ====================================================================
    BREADCRUMBS
@@ -242,3 +252,190 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
 /* ====================================================================
    END
    ==================================================================== */
+/* ====================================================================
+   READABILITY OF THE CONTENT AREA           (добавлено 11.08.2026)
+   Раньше на весь body действовал line-height:1.1 и не было ни одного
+   медиазапроса для сетки: длинные статьи читались тяжело, а на узких
+   экранах текст сжимался в тонкую колонку.
+   ==================================================================== */
+
+.sec-content,
+.right-content{
+  padding-left:5px;
+  min-width:0;                 /* не даёт контенту распирать грид */
+  line-height:1.65;
+  font-size:1.02rem;
+  color:#1f2933;
+  overflow-wrap:break-word;
+}
+
+/* Комфортная длина строки для сплошного текста */
+.sec-content > p,
+.right-content > p,
+.sec-content > ul,
+.right-content > ul,
+.sec-content > ol,
+.right-content > ol{
+  max-width:70ch;
+}
+
+.sec-content h1,
+.right-content h1{
+  font-size:1.9rem;
+  line-height:1.25;
+  margin:0 0 1.1rem;
+  font-weight:600;
+}
+
+.sec-content h2,
+.right-content h2{
+  font-size:1.4rem;
+  line-height:1.3;
+  margin:2.2rem 0 .8rem;
+  padding-bottom:.3rem;
+  border-bottom:1px solid #e2e8f0;
+  font-weight:600;
+}
+
+.sec-content h3,
+.right-content h3{
+  font-size:1.15rem;
+  line-height:1.35;
+  margin:1.6rem 0 .5rem;
+  font-weight:600;
+}
+
+.sec-content h4,
+.right-content h4{ font-size:1.02rem; margin:1.2rem 0 .4rem; font-weight:600; }
+
+.sec-content p,
+.right-content p{ margin:0 0 1.05rem; }
+
+.sec-content li,
+.right-content li{ margin-bottom:.4rem; }
+
+.sec-content a,
+.right-content a{ color:#0b62a4; text-decoration:none; border-bottom:1px solid rgba(11,98,164,.28); }
+.sec-content a:hover,
+.right-content a:hover{ color:#08456f; border-bottom-color:currentColor; }
+
+.sec-content hr,
+.right-content hr{ border:0; border-top:1px solid #e2e8f0; margin:2rem 0; }
+
+.sec-content img,
+.right-content img{ max-width:100%; height:auto; }
+
+/* ---- Цитаты: были просто отступом, теперь с левой линейкой ---------- */
+.sec-content blockquote,
+.right-content blockquote{
+  margin:1.4rem 0;
+  padding:.55rem 0 .55rem 1.15rem;
+  border-left:3px solid #b7c4d1;
+  background:linear-gradient(90deg,rgba(45,55,72,.035),transparent 65%);
+  color:#33404f;
+  max-width:70ch;
+}
+
+.sec-content blockquote p,
+.right-content blockquote p{ margin:0 0 .7rem; }
+.sec-content blockquote p:last-child,
+.right-content blockquote p:last-child{ margin-bottom:0; }
+
+/* Стихотворные цитаты: строки не должны склеиваться */
+.sec-content blockquote.verse,
+.right-content blockquote.verse{
+  font-style:italic;
+  border-left-color:#c8a96a;
+  background:linear-gradient(90deg,rgba(200,169,106,.09),transparent 65%);
+}
+
+/* ---- Таблицы ------------------------------------------------------- */
+.sec-content table,
+.right-content table{
+  border-collapse:collapse;
+  width:100%;
+  margin:1.3rem 0;
+  font-size:.95rem;
+  display:block;
+  overflow-x:auto;          /* широкие таблицы скроллятся внутри себя */
+}
+.sec-content th, .right-content th,
+.sec-content td, .right-content td{
+  border:1px solid #dfe5ec; padding:.5rem .7rem; text-align:left; vertical-align:top;
+}
+.sec-content th, .right-content th{ background:#f4f7fa; font-weight:600; }
+
+/* ---- Код ----------------------------------------------------------- */
+.sec-content code, .right-content code{
+  background:#f2f4f7; padding:.12em .35em; border-radius:3px; font-size:.92em;
+}
+.sec-content pre, .right-content pre{ overflow-x:auto; padding:.9rem 1rem; background:#f7f9fb; border-radius:6px; }
+.sec-content pre code, .right-content pre code{ background:none; padding:0; }
+
+/* ---- Сноски (footnotes) -------------------------------------------- */
+.sec-content .footnotes,
+.right-content .footnotes{
+  margin-top:2.5rem;
+  padding-top:1rem;
+  border-top:1px solid #e2e8f0;
+  font-size:.9rem;
+  color:#4a5568;
+  line-height:1.55;
+}
+.sec-content .footnotes ol,
+.right-content .footnotes ol{ padding-left:1.2rem; max-width:none; }
+.sec-content sup a,
+.right-content sup a{ border-bottom:none; font-weight:600; padding:0 .1em; }
+
+/* ====================================================================
+   RESPONSIVE LAYOUT
+   ==================================================================== */
+
+/* Ноутбуки: подменю ужимаем, контенту отдаём место */
+@media (max-width:1080px){
+  .section-wrap{ grid-template-columns:130px minmax(0,1fr); gap:16px; }
+  .section-wrap:has(.sec-nav.lv2){ grid-template-columns:130px 190px minmax(0,1fr); }
+  .section-wrap.no-submenu{ grid-template-columns:130px minmax(0,1fr); }
+}
+
+/* Планшеты: навигация уезжает наверх, контент — во всю ширину */
+@media (max-width:900px){
+  .section-wrap,
+  .section-wrap.no-submenu{
+    grid-template-columns:minmax(0,1fr);
+    gap:14px;
+    width:94%;
+  }
+
+  .section-wrap .sec-nav{
+    border-right:none;
+    border-bottom:1px solid #d9e0e7;
+    padding:0 0 10px;
+    width:auto!important;
+    display:flex;
+    flex-wrap:wrap;
+    gap:4px 16px;
+  }
+
+  .section-wrap .sec-nav .lv1-link,
+  .section-wrap .sec-nav .lv2-link{ margin:2px 0; }
+
+  /* в горизонтальном режиме отступы дерева только мешают */
+  .sec-nav.lv2 .indent-1,
+  .sec-nav.lv2 .indent-2,
+  .sec-nav.lv2 .indent-3{ margin-left:0!important; }
+
+  .sec-content,
+  .right-content{ padding-left:0; }
+
+  .sec-content > p, .right-content > p,
+  .sec-content > ul, .right-content > ul,
+  .sec-content > ol, .right-content > ol,
+  .sec-content blockquote, .right-content blockquote{ max-width:none; }
+}
+
+@media (max-width:600px){
+  .sec-content h1, .right-content h1{ font-size:1.55rem; }
+  .sec-content h2, .right-content h2{ font-size:1.25rem; }
+  .sec-content, .right-content{ font-size:1rem; }
+}

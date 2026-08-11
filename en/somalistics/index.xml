@@ -15,16 +15,16 @@
 			<atom:link href="https://www.kapchits.online/en/somalistics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lexical Glossaries</title>
-				<link>https://www.kapchits.online/en/somalistics/lexical-glossaries/</link>
+				<link>https://www.kapchits.online/en/somalistics/lexicon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/somalistics/lexical-glossaries/</guid>
+				<guid>https://www.kapchits.online/en/somalistics/lexicon/</guid>
 				<description>&lt;p&gt;Content about Somali lexical glossaries.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Video Lectures</title>
-				<link>https://www.kapchits.online/en/somalistics/video-lectures/</link>
+				<link>https://www.kapchits.online/en/somalistics/videos/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/somalistics/video-lectures/</guid>
+				<guid>https://www.kapchits.online/en/somalistics/videos/</guid>
 				<description>&lt;p&gt;Embedded video lectures.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -487,127 +487,58 @@
       <div style="text-align: center; margin-top: 10px;">
         
 
-<div class="visitor-counter">
-  <div class="counter-content">
-    <span class="counter-icon">👁️</span>
-    <span class="counter-text">Visitors:</span>
-    <span class="counter-number" id="visitor-count">Loading...</span>
-  </div>
+
+<div class="visitor-counter" hidden>
+  <span class="counter-label">visitors</span>
+  <img class="counter-badge"
+       src="https://hits.sh/www.kapchits.online.svg?style=flat-square&amp;label=&amp;color=2d3748"
+       alt="visitors"
+       width="31" height="20"
+       loading="lazy"
+       decoding="async"
+       referrerpolicy="no-referrer"
+       onload="this.closest('.visitor-counter').hidden = false"
+       onerror="this.closest('.visitor-counter').remove()">
 </div>
 
 <style>
-.visitor-counter {
-  display: inline-block;
-  background: rgba(255, 255, 255, 0.95);
-  color: #333;
-  padding: 6px 10px;
-  border-radius: 6px;
-  font-size: 12px;
-  font-weight: 500;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transition: all 0.2s ease;
-  cursor: default;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  margin-top: 10px;
+.visitor-counter{
+  display:inline-flex;
+  align-items:center;
+  gap:7px;
+  margin-top:10px;
+  padding:4px 10px 4px 11px;
+  border:1px solid #e2e8f0;
+  border-radius:999px;
+  background:#fff;
+  font-size:12px;
+  line-height:1;
+  color:#64748b;
+  white-space:nowrap;
+}
+.visitor-counter[hidden]{display:none;}
+
+.counter-label{
+  letter-spacing:.02em;
+  text-transform:lowercase;
 }
 
-.visitor-counter:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  transform: translateY(-1px);
+.counter-badge{
+  display:block;
+  height:20px;
+  width:auto;
+  border-radius:3px;
 }
 
-.counter-content {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  white-space: nowrap;
-}
-
-.counter-icon {
-  font-size: 12px;
-}
-
-.counter-text {
-  color: #666;
-  font-size: 11px;
-}
-
-.counter-number {
-  font-weight: 600;
-  color: #007acc;
-  font-size: 12px;
-}
-
- 
-@media (prefers-color-scheme: dark) {
-  .visitor-counter {
-    background: rgba(0, 0, 0, 0.8);
-    color: #fff;
-    border-color: rgba(255, 255, 255, 0.1);
-  }
-  
-  .counter-text {
-    color: #ccc;
-  }
-  
-  .counter-number {
-    color: #66b3ff;
+@media (prefers-color-scheme: dark){
+  .visitor-counter{
+    background:rgba(255,255,255,.06);
+    border-color:rgba(255,255,255,.14);
+    color:#cbd5e1;
   }
 }
 </style>
 
-<script>
-
-document.addEventListener('DOMContentLoaded', function() {
-  const counterElement = document.getElementById('visitor-count');
-  
-  
-  if (localStorage.getItem('site-visitors') === '15420') {
-    localStorage.removeItem('site-visitors');
-    localStorage.removeItem('last-visit-date');
-  }
-  
-  
-  let visitorCount = localStorage.getItem('site-visitors') || 0; 
-  
-  
-  const today = new Date().toDateString();
-  const lastVisit = localStorage.getItem('last-visit-date');
-  
-  if (lastVisit !== today) {
-    
-    visitorCount = parseInt(visitorCount) + 1;
-    localStorage.setItem('site-visitors', visitorCount);
-    localStorage.setItem('last-visit-date', today);
-    
-    
-    if (typeof gtag !== 'undefined') {
-      gtag('event', 'page_view', {
-        'custom_parameter': 'visitor_count_' + visitorCount
-      });
-    }
-  }
-  
-  
-  animateCounter(counterElement, parseInt(visitorCount));
-});
-
-function animateCounter(element, targetValue) {
-  let currentValue = targetValue - 100;
-  const increment = Math.ceil(100 / 30); 
-  
-  const timer = setInterval(() => {
-    currentValue += increment;
-    if (currentValue >= targetValue) {
-      currentValue = targetValue;
-      clearInterval(timer);
-    }
-    element.textContent = currentValue.toLocaleString();
-  }, 33); 
-}
-</script>
 
       </div>
     </footer>

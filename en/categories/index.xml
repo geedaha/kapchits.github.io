@@ -62,5 +62,12 @@
 				<guid>https://www.kapchits.online/en/categories/paremiology/</guid>
 				<description></description>
 			</item>
+			<item>
+				<title>Conferences</title>
+				<link>https://www.kapchits.online/en/categories/conferences/</link>
+				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/categories/conferences/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

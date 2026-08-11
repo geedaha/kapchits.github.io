@@ -24,9 +24,40 @@
     <loc>https://www.kapchits.online/en/biography/cv/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/en/somalistics/lexical-glossaries/</loc>
+    <loc>https://www.kapchits.online/en/somalistics/lexicon/</loc>
   </url><url>
-    <loc>https://www.kapchits.online/en/somalistics/video-lectures/</loc>
+    <loc>https://www.kapchits.online/en/research/scholars/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/research/scholars/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/research/scholars/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/somalistics/videos/</loc>
+  </url><url>
+    <loc>https://www.kapchits.online/en/contact/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/contact/"
+                />
   </url><url>
     <loc>https://www.kapchits.online/en/biography/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
@@ -57,24 +88,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://www.kapchits.online/ru/publications/articles/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/en/contact/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/contact/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/folklore/</loc>
@@ -135,6 +148,11 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://www.kapchits.online/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/news/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/</loc>
@@ -260,7 +278,7 @@
     <loc>https://www.kapchits.online/en/tags/guardian/</loc>
     <lastmod>2012-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/en/news/guardian-features-hargeisa-book-fair-and-somali-cultural-preservation/</loc>
+    <loc>https://www.kapchits.online/en/news/guardian-hargeisa-book-fair/</loc>
     <lastmod>2012-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/tags/hargeisa/</loc>
@@ -325,6 +343,28 @@
   </url><url>
     <loc>https://www.kapchits.online/en/tags/variation-analysis/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/categories/conferences/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/categories/conferences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/categories/conferences/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/congress/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/somali-poetry/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/somali-studies/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/faq/</loc>
     <xhtml:link
