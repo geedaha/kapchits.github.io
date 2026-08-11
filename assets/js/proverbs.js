@@ -139,4 +139,3 @@ const PROVERBS = [
     "russian": "Городскую одежду надеть быстро, а горожанином стать долго"
   }
 ];
-    const p = proverbs[Math.floor(Math.random() * proverbs.length)];
