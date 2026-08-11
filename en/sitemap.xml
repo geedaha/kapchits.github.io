@@ -19,6 +19,11 @@
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/biography/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru-ru"
                 href="https://www.kapchits.online/ru/biography/"
                 />
@@ -27,27 +32,27 @@
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/biography/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/biography/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/articles/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/publications/articles/"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/articles/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/publications/articles/"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/articles/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/contact/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/contact/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
@@ -58,17 +63,17 @@
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/contact/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/contact/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/folklore/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/for-students/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/for-students/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
@@ -79,11 +84,6 @@
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/for-students/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/for-students/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/research/kinship-terms/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
@@ -92,30 +92,35 @@
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/publications/monographs/"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/monographs/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/publications/monographs/"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/monographs/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/news/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/news/"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/news/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/news/"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/news/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
@@ -126,14 +131,14 @@
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/publications/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/publications/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/research/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/research/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
@@ -144,23 +149,18 @@
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/research/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/research/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/resources/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/resources/"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/resources/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/resources/"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/resources/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/somalistics/grammar/</loc>
@@ -170,30 +170,35 @@
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/publications/proverbs/"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/proverbs/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/publications/proverbs/"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/proverbs/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/somalistics/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/somalistics/"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/somalistics/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/somalistics/"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/somalistics/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
@@ -204,17 +209,17 @@
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/tags/book-fair/</loc>
     <lastmod>2012-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/categories/</loc>
     <lastmod>2012-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
@@ -224,11 +229,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/categories/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/categories/cultural-events/</loc>
@@ -253,6 +253,11 @@
     <lastmod>2012-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru-ru"
                 href="https://www.kapchits.online/ru/tags/"
                 />
@@ -260,11 +265,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/tags/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/categories/anthropology/</loc>
@@ -306,6 +306,11 @@
     <loc>https://www.kapchits.online/en/faq/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru-ru"
                 href="https://www.kapchits.online/ru/faq/"
                 />
@@ -314,13 +319,13 @@
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/faq/"
                 />
+  </url><url>
+    <loc>https://www.kapchits.online/en/legal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.kapchits.online/en/faq/"
+                href="https://www.kapchits.online/en/legal/"
                 />
-  </url><url>
-    <loc>https://www.kapchits.online/en/legal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
@@ -330,11 +335,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/legal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/legal/"
                 />
   </url>
 </urlset>
