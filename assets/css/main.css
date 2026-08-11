@@ -508,6 +508,21 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
   .bio-portrait{ float:none; margin:0 auto 1.4rem; max-width:340px; }
 }
 
+/* ---- Сканы страниц при расшифрованном тексте (12.08.2026) ------------ */
+.scan-pair{
+  margin:1.4rem 0 2rem;
+  max-width:100%;
+}
+.scan-pair img{
+  display:block; width:100%; height:auto;
+  border:1px solid #d9e0e7; padding:4px; background:#fff; border-radius:2px;
+}
+.scan-pair a{ display:block; border:none; line-height:0; }
+.scan-pair a:hover img{ border-color:#2b95ff; }
+.scan-pair figcaption{
+  margin-top:.5rem; color:#7b8794; font-size:.86rem; line-height:1.45;
+}
+
 /* ---- Заглавный снимок фотостраницы (12.08.2026) ---------------------- */
 .photo-lead{
   margin:1.6rem 0 2rem;

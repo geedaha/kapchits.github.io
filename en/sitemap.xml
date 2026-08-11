@@ -503,6 +503,71 @@
                 href="https://www.kapchits.online/so/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/en/tags/aliqeyr-mohamed-nur/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/categories/articles/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/categories/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/categories/articles/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/diaspora/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/diaspora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/diaspora/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/introduction/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/publications/articles/introduction-well-being-after-suffering/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/poetry/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/prose/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/somali-literature/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/utopia/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kapchits.online/en/tags/book-fair/</loc>
     <lastmod>2012-07-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -546,24 +611,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://www.kapchits.online/ru/categories/international-press/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/en/tags/</loc>
-    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/tags/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/news/guardian-hargeisa-book-fair/</loc>
@@ -834,19 +881,6 @@
     <loc>https://www.kapchits.online/en/tags/afgooye/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/en/categories/articles/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/categories/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/categories/articles/"
-                />
-  </url><url>
     <loc>https://www.kapchits.online/en/tags/asylum/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -920,19 +954,6 @@
   </url><url>
     <loc>https://www.kapchits.online/en/tags/women/</loc>
     <lastmod>2007-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/en/tags/diaspora/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/tags/diaspora/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/tags/diaspora/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/tags/interview/</loc>
     <lastmod>2006-01-25T00:00:00+00:00</lastmod>
