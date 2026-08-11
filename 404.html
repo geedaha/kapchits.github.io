@@ -1,0 +1,65 @@
+<!-- Страница 404 для GitHub Pages.
+     Лежит в static/, а не в layouts/: GitHub Pages отдаёт ОДИН файл /404.html
+     из корня на любой ненайденный путь, а Hugo при defaultContentLanguageInSubdir
+     раскладывает шаблонную 404 по языковым папкам, где она никем не читается.
+     Поэтому файл статический и трёхъязычный. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>404 — Kapchits.Online</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<style>
+  body{ margin:0; padding:10vh 20px 6vh; display:block; }
+  .nf{ max-width:640px; margin:0 auto; text-align:center; }
+  .nf .code{ font-size:3.4rem; line-height:1; color:#c8a96a; margin:0 0 .6rem; font-weight:600; }
+  .nf h1{ font-size:1.35rem; font-weight:600; margin:0 0 2rem; color:#1f2933; }
+  .nf section{ padding:1.4rem 0; border-top:1px solid #eef2f5; }
+  .nf p{ margin:0 0 .9rem; color:#33404f; line-height:1.6; }
+  .nf nav a{ display:inline-block; margin:0 .5rem .4rem; padding:.45rem 1.1rem;
+             background:#2d3748; color:#fff; text-decoration:none; border-radius:4px; font-size:.95rem; }
+  .nf nav a:hover{ background:#1f2933; }
+  .nf .sub{ color:#7b8794; font-size:.9rem; }
+</style>
+</head>
+<body>
+<div class="nf">
+  <p class="code">404</p>
+  <h1>Kapchits.Online</h1>
+
+  <section lang="en">
+    <p><strong>The page was not found.</strong> It may have been moved, or the address may be mistyped.</p>
+    <nav>
+      <a href="/en/">Home</a>
+      <a href="/en/publications/">Publications</a>
+      <a href="/en/research/">Research</a>
+    </nav>
+    <p class="sub">If you arrived from an old kapchits.narod.ru address, the material has most likely been transferred — start from the home page.</p>
+  </section>
+
+  <section lang="ru">
+    <p><strong>Страница не найдена.</strong> Возможно, она перемещена или в адресе опечатка.</p>
+    <nav>
+      <a href="/ru/">Главная</a>
+      <a href="/ru/publications/">Публикации</a>
+      <a href="/ru/research/">Исследования</a>
+    </nav>
+    <p class="sub">Если вы пришли по старому адресу kapchits.narod.ru, материал, скорее всего, перенесён — начните с главной страницы.</p>
+  </section>
+
+  <section lang="so">
+    <p><strong>Bogga lama helin.</strong> Waxaa laga yaabaa in la raray ama cinwaanku khaldan yahay.</p>
+    <nav>
+      <a href="/so/">Bogga Hore</a>
+      <a href="/so/publications/">Daabacaad</a>
+      <a href="/so/research/">Cilmi-baaris</a>
+    </nav>
+    <p class="sub">Haddii aad ka timid cinwaan hore oo kapchits.narod.ru ah, agabku waa la raray — ka bilow bogga hore.</p>
+  </section>
+</div>
+</body>
+</html>
