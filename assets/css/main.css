@@ -392,8 +392,12 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
 
 /* Планшеты: навигация уезжает наверх, контент — во всю ширину */
 @media (max-width:900px){
+  /* :has() перечислен явно: у него специфичность выше, чем у голого класса,
+     и без этой строки правило с 1080px продолжало держать три колонки —
+     контент страниц с подменю сжимался до нескольких пикселей. */
   .section-wrap,
-  .section-wrap.no-submenu{
+  .section-wrap.no-submenu,
+  .section-wrap:has(.sec-nav.lv2){
     grid-template-columns:minmax(0,1fr);
     gap:14px;
     width:94%;
@@ -502,6 +506,52 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
 }
 @media (max-width:700px){
   .bio-portrait{ float:none; margin:0 auto 1.4rem; max-width:340px; }
+}
+
+/* ---- Заглавный снимок фотостраницы (12.08.2026) ---------------------- */
+.photo-lead{
+  margin:1.6rem 0 2rem;
+  max-width:620px;
+}
+.photo-lead img{
+  display:block; width:100%; height:auto;
+  border:1px solid #d9e0e7; padding:4px; background:#fff; border-radius:2px;
+}
+.photo-lead figcaption{
+  margin-top:.5rem; color:#7b8794; font-size:.86rem; line-height:1.45;
+}
+
+/* ---- Обложки книг в каталоге (12.08.2026) ---------------------------- */
+/* Обложки со старого сайта. Плавают справа от описания книги; заголовок
+   раздела обтекание сбрасывает, чтобы следующая книга начиналась с чистой строки. */
+.book-cover{
+  float:right;
+  margin:.2rem 0 1.2rem 1.8rem;
+  width:132px;
+  text-align:center;
+}
+.book-cover img{
+  display:block;
+  width:100%;
+  height:auto;
+  border:1px solid #dde3ea;
+  border-radius:2px;
+  background:#fff;
+}
+.book-cover a{ display:block; border:none; line-height:0; }
+.book-cover a:hover img{ border-color:#2b95ff; }
+.book-cover figcaption{
+  margin-top:.4rem;
+  color:#9aa5b1;
+  font-size:.78rem;
+  line-height:1.35;
+}
+/* Без очистки короткое описание не закрывает обложку, и следующая встаёт
+   слева от предыдущей — две книги оказываются в одном ряду. */
+.sec-content h2, .right-content h2,
+.sec-content h3, .right-content h3{ clear:both; }
+@media (max-width:700px){
+  .book-cover{ float:none; margin:0 auto 1.2rem; width:170px; }
 }
 
 /* ---- Список пословиц (страница selection, 11.08.2026) ---------------- */
