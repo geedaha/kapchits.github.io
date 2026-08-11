@@ -67,6 +67,24 @@
                 href="https://www.kapchits.online/ru/somalistics/videos/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/ru/faq/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/faq/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/ru/contact/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -492,6 +510,89 @@
                 href="https://www.kapchits.online/ru/tags/somalilandsun/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/ru/tags/diaspora/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/diaspora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/diaspora/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/ru/tags/interview/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/interview/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/ru/tags/somali-language/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/somali-language/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/somali-language/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/ru/tags/wardheernews/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/wardheernews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/wardheernews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/wardheernews/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/ru/tags/zholkovsky/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/zholkovsky/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/zholkovsky/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/ru/news/wardheer-interview/</loc>
+    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/news/wardheer-interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/news/wardheer-interview/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/ru/categories/conferences/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -513,22 +614,5 @@
   </url><url>
     <loc>https://www.kapchits.online/ru/tags/%D1%81%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/ru/faq/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/faq/"
-                />
   </url>
 </urlset>
