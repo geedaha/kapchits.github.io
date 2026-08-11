@@ -435,10 +435,10 @@
                 />
   </url><url>
     <loc>https://www.kapchits.online/so/tags/af-soomaali/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/categories/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -455,17 +455,20 @@
                 href="https://www.kapchits.online/so/categories/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/so/news/hal-sano-ka-dib/</loc>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kapchits.online/so/tags/maahmaaho/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/qaamuus/</loc>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/tags/qurbaha/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/so/tags/sheekaxariir/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/tags/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -483,7 +486,7 @@
                 />
   </url><url>
     <loc>https://www.kapchits.online/so/tags/wardheernews/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -501,12 +504,15 @@
                 />
   </url><url>
     <loc>https://www.kapchits.online/so/tags/wareysi/</loc>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/categories/wareysiyo/</loc>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/sheekaxariir/</loc>
     <lastmod>2006-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/news/wareysi-wardheernews/</loc>
-    <lastmod>2006-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/so/categories/wareysiyo/</loc>
     <lastmod>2006-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/so/tags/berbera/</loc>
