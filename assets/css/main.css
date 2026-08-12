@@ -548,6 +548,18 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
   font-weight:400;
   font-size:.85rem;
 }
+/* Возврат к полосе переходов. Прижат вправо, чтобы не мешать читать заголовок. */
+.proverb-band{ display:flex; align-items:baseline; gap:.5rem; }
+.proverb-up{
+  margin-left:auto;
+  padding:0 .4rem;
+  color:#b7c4d1;
+  font-weight:400;
+  font-size:1rem;
+  line-height:1;
+  text-decoration:none;
+}
+.proverb-up:hover{ color:#2b95ff; }
 .proverb-downloads{
   margin:1.2rem 0 1.8rem;
   padding:.6rem .9rem;
