@@ -5,12 +5,12 @@
 html,body { margin:0; padding:0; }
 
 body {
-  /* Palatino — шрифт статей Bildhaan, перенесён на сайт по просьбе автора
-     (15.08.2026). Системный стек, без встраивания файлов: Palatino Linotype
-     есть в каждом Windows, Palatino — в каждом macOS, у обоих есть кириллица;
-     P052 и URW Palladio L — свободные клоны на Linux; Book Antiqua — двойник
-     от Monotype; Georgia — читаемый серифный запас с кириллицей (Android). */
-  font:16px/1.3 "Palatino Linotype", Palatino, P052, "URW Palladio L", "Book Antiqua", Georgia, serif;
+  /* Современный системный санс (15.08.2026). Пробовали Palatino по вопросу
+     автора — владелец решил вернуть санс, «прежний, только чуть современнее»:
+     system-ui на Windows 11 — это Segoe UI Variable, на Android — Roboto,
+     на macOS — San Francisco. Rubik подхватится, если установлен локально;
+     ничего не встраиваем. Интерлиньяж оставлен 1.3 вместо прежнего тесного 1.1. */
+  font:16px/1.3 system-ui, -apple-system, "Segoe UI", Roboto, Rubik, "Helvetica Neue", Arial, sans-serif;
   color:#222;
   display:flex;
   flex-direction:column;
