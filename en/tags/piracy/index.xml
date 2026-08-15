@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Piracy on Kapchits.Online</title>
-		<link>http://localhost:1313/en/tags/piracy/</link>
+		<link>https://www.kapchits.online/en/tags/piracy/</link>
 		<description>Recent content in Piracy on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,14 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/en/tags/piracy/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.kapchits.online/en/tags/piracy/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Country of Poets and Pirates</title>
-				<link>http://localhost:1313/en/publications/articles/country-of-poets-and-pirates/</link>
+				<link>https://www.kapchits.online/en/publications/articles/country-of-poets-and-pirates/</link>
 				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/publications/articles/country-of-poets-and-pirates/</guid>
+				<guid>https://www.kapchits.online/en/publications/articles/country-of-poets-and-pirates/</guid>
 				<description>&lt;p&gt;&lt;em&gt;In May 2009 the Voice of Russia observer Georgi Kapchits returned from Somalia where he served as an interpreter and consultant for a Russian television crew. He visited numerous parts of this formerly integrated country, met with political leaders and cabinet members, as well as fishermen, pirates, city residents and rural villagers.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;In recent years, the fractured nation-state of Somalia, which occupies a vast territory on the Horn of Africa, has become notorious for the scandalous activities of local pirates who have captured dozens of trade vessels in the Gulf of Aden and Indian Ocean, then received millions of dollars in ransom money to relinquish the cargo ships and their crews. The amounts of money received by such marauders and their collaborators sometimes exceed the annual operating budgets of the current governments of Somaliland, Puntland and a shrunken &amp;ldquo;Somalia.&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 	</channel>

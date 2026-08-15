@@ -2,582 +2,613 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/so/publications/monographs/</loc>
+    <loc>https://www.kapchits.online/so/publications/monographs/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publications/monographs/"
+                href="https://www.kapchits.online/en/publications/monographs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publications/monographs/"
+                href="https://www.kapchits.online/ru/publications/monographs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/publications/monographs/"
+                href="https://www.kapchits.online/so/publications/monographs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/somalistics/grammar/</loc>
+    <loc>https://www.kapchits.online/so/somalistics/grammar/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/somalistics/grammar/"
+                href="https://www.kapchits.online/en/somalistics/grammar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/somalistics/grammar/"
+                href="https://www.kapchits.online/ru/somalistics/grammar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/somalistics/grammar/"
+                href="https://www.kapchits.online/so/somalistics/grammar/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/publications/proverbs/</loc>
+    <loc>https://www.kapchits.online/so/publications/proverbs/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publications/proverbs/"
+                href="https://www.kapchits.online/en/publications/proverbs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publications/proverbs/"
+                href="https://www.kapchits.online/ru/publications/proverbs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/publications/proverbs/"
+                href="https://www.kapchits.online/so/publications/proverbs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/somalistics/lexicon/</loc>
+    <loc>https://www.kapchits.online/so/somalistics/lexicon/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/somalistics/lexicon/"
+                href="https://www.kapchits.online/en/somalistics/lexicon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/somalistics/lexicon/"
+                href="https://www.kapchits.online/ru/somalistics/lexicon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/somalistics/lexicon/"
+                href="https://www.kapchits.online/so/somalistics/lexicon/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/research/scholars/</loc>
+    <loc>https://www.kapchits.online/so/research/scholars/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/research/scholars/"
+                href="https://www.kapchits.online/en/research/scholars/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/research/scholars/"
+                href="https://www.kapchits.online/ru/research/scholars/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/research/scholars/"
+                href="https://www.kapchits.online/so/research/scholars/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/research/kinship-terms/</loc>
+    <loc>https://www.kapchits.online/so/research/kinship-terms/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/research/kinship-terms/"
+                href="https://www.kapchits.online/en/research/kinship-terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/research/kinship-terms/"
+                href="https://www.kapchits.online/ru/research/kinship-terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/research/kinship-terms/"
+                href="https://www.kapchits.online/so/research/kinship-terms/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/publications/proverbs/selection/</loc>
+    <loc>https://www.kapchits.online/so/publications/proverbs/selection/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publications/proverbs/selection/"
+                href="https://www.kapchits.online/en/publications/proverbs/selection/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publications/proverbs/selection/"
+                href="https://www.kapchits.online/ru/publications/proverbs/selection/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/publications/proverbs/selection/"
+                href="https://www.kapchits.online/so/publications/proverbs/selection/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/research/conferences/</loc>
+    <loc>https://www.kapchits.online/so/research/conferences/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/research/conferences/"
+                href="https://www.kapchits.online/en/research/conferences/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/research/conferences/"
+                href="https://www.kapchits.online/ru/research/conferences/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/research/conferences/"
+                href="https://www.kapchits.online/so/research/conferences/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/somalistics/videos/</loc>
+    <loc>https://www.kapchits.online/so/somalistics/videos/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/somalistics/videos/"
+                href="https://www.kapchits.online/en/somalistics/videos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/somalistics/videos/"
+                href="https://www.kapchits.online/ru/somalistics/videos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/somalistics/videos/"
+                href="https://www.kapchits.online/so/somalistics/videos/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/research/projects/</loc>
+    <loc>https://www.kapchits.online/so/research/projects/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/research/projects/"
+                href="https://www.kapchits.online/en/research/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/research/projects/"
+                href="https://www.kapchits.online/ru/research/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/research/projects/"
+                href="https://www.kapchits.online/so/research/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/for-students/</loc>
+    <loc>https://www.kapchits.online/so/for-students/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/for-students/"
+                href="https://www.kapchits.online/en/for-students/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/for-students/"
+                href="https://www.kapchits.online/ru/for-students/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/for-students/"
+                href="https://www.kapchits.online/so/for-students/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/somalistics/</loc>
+    <loc>https://www.kapchits.online/so/somalistics/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/somalistics/"
+                href="https://www.kapchits.online/en/somalistics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/somalistics/"
+                href="https://www.kapchits.online/ru/somalistics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/somalistics/"
+                href="https://www.kapchits.online/so/somalistics/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/publications/</loc>
+    <loc>https://www.kapchits.online/so/publications/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publications/"
+                href="https://www.kapchits.online/en/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publications/"
+                href="https://www.kapchits.online/ru/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/publications/"
+                href="https://www.kapchits.online/so/publications/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/biography/</loc>
+    <loc>https://www.kapchits.online/so/biography/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/biography/"
+                href="https://www.kapchits.online/en/biography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/biography/"
+                href="https://www.kapchits.online/ru/biography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/biography/"
+                href="https://www.kapchits.online/so/biography/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/research/</loc>
+    <loc>https://www.kapchits.online/so/research/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/research/"
+                href="https://www.kapchits.online/en/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/research/"
+                href="https://www.kapchits.online/ru/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/research/"
+                href="https://www.kapchits.online/so/research/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/sitemap/</loc>
+    <loc>https://www.kapchits.online/so/sitemap/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/sitemap/"
+                href="https://www.kapchits.online/en/sitemap/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/sitemap/"
+                href="https://www.kapchits.online/ru/sitemap/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/sitemap/"
+                href="https://www.kapchits.online/so/sitemap/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/resources/</loc>
+    <loc>https://www.kapchits.online/so/resources/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/resources/"
+                href="https://www.kapchits.online/en/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/resources/"
+                href="https://www.kapchits.online/ru/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/resources/"
+                href="https://www.kapchits.online/so/resources/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/</loc>
+    <loc>https://www.kapchits.online/so/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/"
+                href="https://www.kapchits.online/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/"
+                href="https://www.kapchits.online/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/"
+                href="https://www.kapchits.online/so/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/contact/</loc>
+    <loc>https://www.kapchits.online/so/contact/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/contact/"
+                href="https://www.kapchits.online/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/contact/"
+                href="https://www.kapchits.online/ru/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/contact/"
+                href="https://www.kapchits.online/so/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/publications/articles/</loc>
+    <loc>https://www.kapchits.online/so/publications/articles/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publications/articles/"
+                href="https://www.kapchits.online/en/publications/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publications/articles/"
+                href="https://www.kapchits.online/ru/publications/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/publications/articles/"
+                href="https://www.kapchits.online/so/publications/articles/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/photos/</loc>
+    <loc>https://www.kapchits.online/so/photos/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/photos/"
+                href="https://www.kapchits.online/en/photos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/photos/"
+                href="https://www.kapchits.online/ru/photos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/photos/"
+                href="https://www.kapchits.online/so/photos/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/legal/</loc>
+    <loc>https://www.kapchits.online/so/legal/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/legal/"
+                href="https://www.kapchits.online/en/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/legal/"
+                href="https://www.kapchits.online/ru/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/legal/"
+                href="https://www.kapchits.online/so/legal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/faq/</loc>
+    <loc>https://www.kapchits.online/so/faq/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/faq/"
+                href="https://www.kapchits.online/en/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/faq/"
+                href="https://www.kapchits.online/ru/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/faq/"
+                href="https://www.kapchits.online/so/faq/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/publications/folklore/</loc>
+    <loc>https://www.kapchits.online/so/publications/folklore/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publications/folklore/"
+                href="https://www.kapchits.online/en/publications/folklore/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publications/folklore/"
+                href="https://www.kapchits.online/ru/publications/folklore/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/publications/folklore/"
+                href="https://www.kapchits.online/so/publications/folklore/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/news/</loc>
+    <loc>https://www.kapchits.online/so/news/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/news/"
+                href="https://www.kapchits.online/en/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/news/"
+                href="https://www.kapchits.online/ru/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so-so"
-                href="http://localhost:1313/so/news/"
+                href="https://www.kapchits.online/so/news/"
                 />
   </url><url>
-    <loc>http://localhost:1313/so/news/wareysi-aadan-makiina/</loc>
+    <loc>https://www.kapchits.online/so/tags/aadan-makiina/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/news/hal-sano-ka-dib/</loc>
+    <loc>https://www.kapchits.online/so/tags/af-soomaali/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/categories/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/categories/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/hemingway/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/maahmaaho/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/sheekaxariir/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/wardheernews/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/wardheernews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/wardheernews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/wardheernews/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/wareysi/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/news/wareysi-aadan-makiina/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/categories/wareysiyo/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/news/hal-sano-ka-dib/</loc>
     <lastmod>2006-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/news/wareysi-wardheernews/</loc>
+    <loc>https://www.kapchits.online/so/tags/qaamuus/</loc>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/qurbaha/</loc>
+    <lastmod>2006-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/news/wareysi-wardheernews/</loc>
     <lastmod>2006-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/publications/articles/booqashadii-labaad-berbera/</loc>
+    <loc>https://www.kapchits.online/so/tags/berbera/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/news/booqasho-ottawa/</loc>
+    <loc>https://www.kapchits.online/so/publications/articles/booqashadii-labaad-berbera/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/cilmi-boodhari/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/gabay/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/hal-aqoon/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/halqabsigii-jacaylka/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/hodan-cabdille-walanwal/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/ibraahim-maxamedeeq-ciise/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/categories/qoraallo/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/kanada/</loc>
     <lastmod>2003-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/news/wareysi-hal-aqoon/</loc>
+    <loc>https://www.kapchits.online/so/tags/ottawa/</loc>
+    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/qurbajoogta/</loc>
+    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/news/booqasho-ottawa/</loc>
+    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/categories/warbixinno/</loc>
+    <lastmod>2003-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/tags/alex-haley/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/publications/articles/buuggii-aan-sugeyey/</loc>
+    <loc>https://www.kapchits.online/so/tags/barwaaqo/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/tags/aadan-makiina/</loc>
+    <loc>https://www.kapchits.online/so/news/wareysi-hal-aqoon/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/tags/af-soomaali/</loc>
+    <loc>https://www.kapchits.online/so/tags/magac-bixin/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/tags/alex-haley/</loc>
+    <loc>https://www.kapchits.online/so/tags/mandinka/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/tags/barwaaqo/</loc>
+    <loc>https://www.kapchits.online/so/tags/raadiyow-moosko/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/tags/berbera/</loc>
+    <loc>https://www.kapchits.online/so/tags/roots/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="http://localhost:1313/so/categories/"
-                />
+    <loc>https://www.kapchits.online/so/tags/somalitalk/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/so/tags/cilmi-boodhari/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/gabay/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/hal-aqoon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/halqabsigii-jacaylka/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/hemingway/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/hodan-cabdille-walanwal/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/ibraahim-maxamedeeq-ciise/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/kanada/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/maahmaaho/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/magac-bixin/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/mandinka/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/ottawa/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/qaamuus/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/categories/qoraallo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/qurbaha/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/qurbajoogta/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/raadiyow-moosko/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/roots/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/sheekaxariir/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/somalitalk/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="http://localhost:1313/so/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/so/categories/warbixinno/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/tags/wardheernews/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/wardheernews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru/tags/wardheernews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="http://localhost:1313/so/tags/wardheernews/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/so/tags/wareysi/</loc>
-  </url><url>
-    <loc>http://localhost:1313/so/categories/wareysiyo/</loc>
+    <loc>https://www.kapchits.online/so/publications/articles/buuggii-aan-sugeyey/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

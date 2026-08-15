@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Kapchits.Online</title>
-		<link>http://localhost:1313/so/tags/</link>
+		<link>https://www.kapchits.online/so/tags/</link>
 		<description>Recent content in Tags on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -10,187 +10,189 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/so/tags/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.kapchits.online/so/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Aadan-Makiina</title>
-				<link>http://localhost:1313/so/tags/aadan-makiina/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/aadan-makiina/</guid>
+				<link>https://www.kapchits.online/so/tags/aadan-makiina/</link>
+				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/aadan-makiina/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Af-Soomaali</title>
-				<link>http://localhost:1313/so/tags/af-soomaali/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/af-soomaali/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Alex-Haley</title>
-				<link>http://localhost:1313/so/tags/alex-haley/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/alex-haley/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Barwaaqo</title>
-				<link>http://localhost:1313/so/tags/barwaaqo/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/barwaaqo/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Berbera</title>
-				<link>http://localhost:1313/so/tags/berbera/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/berbera/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Cilmi-Boodhari</title>
-				<link>http://localhost:1313/so/tags/cilmi-boodhari/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/cilmi-boodhari/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Gabay</title>
-				<link>http://localhost:1313/so/tags/gabay/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/gabay/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Hal-Aqoon</title>
-				<link>http://localhost:1313/so/tags/hal-aqoon/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/hal-aqoon/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Halqabsigii-Jacaylka</title>
-				<link>http://localhost:1313/so/tags/halqabsigii-jacaylka/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/halqabsigii-jacaylka/</guid>
+				<link>https://www.kapchits.online/so/tags/af-soomaali/</link>
+				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/af-soomaali/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hemingway</title>
-				<link>http://localhost:1313/so/tags/hemingway/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/hemingway/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Hodan-Cabdille-Walanwal</title>
-				<link>http://localhost:1313/so/tags/hodan-cabdille-walanwal/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/hodan-cabdille-walanwal/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Ibraahim-Maxamedeeq-Ciise</title>
-				<link>http://localhost:1313/so/tags/ibraahim-maxamedeeq-ciise/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/ibraahim-maxamedeeq-ciise/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Kanada</title>
-				<link>http://localhost:1313/so/tags/kanada/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/kanada/</guid>
+				<link>https://www.kapchits.online/so/tags/hemingway/</link>
+				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/hemingway/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Maahmaaho</title>
-				<link>http://localhost:1313/so/tags/maahmaaho/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/maahmaaho/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Magac-Bixin</title>
-				<link>http://localhost:1313/so/tags/magac-bixin/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/magac-bixin/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Mandinka</title>
-				<link>http://localhost:1313/so/tags/mandinka/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/mandinka/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Ottawa</title>
-				<link>http://localhost:1313/so/tags/ottawa/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/ottawa/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Qaamuus</title>
-				<link>http://localhost:1313/so/tags/qaamuus/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/qaamuus/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Qurbaha</title>
-				<link>http://localhost:1313/so/tags/qurbaha/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/qurbaha/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Qurbajoogta</title>
-				<link>http://localhost:1313/so/tags/qurbajoogta/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/qurbajoogta/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Raadiyow-Moosko</title>
-				<link>http://localhost:1313/so/tags/raadiyow-moosko/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/raadiyow-moosko/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Roots</title>
-				<link>http://localhost:1313/so/tags/roots/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/roots/</guid>
+				<link>https://www.kapchits.online/so/tags/maahmaaho/</link>
+				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/maahmaaho/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sheekaxariir</title>
-				<link>http://localhost:1313/so/tags/sheekaxariir/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/sheekaxariir/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somalitalk</title>
-				<link>http://localhost:1313/so/tags/somalitalk/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/somalitalk/</guid>
+				<link>https://www.kapchits.online/so/tags/sheekaxariir/</link>
+				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/sheekaxariir/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Wardheernews</title>
-				<link>http://localhost:1313/so/tags/wardheernews/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/wardheernews/</guid>
+				<link>https://www.kapchits.online/so/tags/wardheernews/</link>
+				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/wardheernews/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Wareysi</title>
-				<link>http://localhost:1313/so/tags/wareysi/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/tags/wareysi/</guid>
+				<link>https://www.kapchits.online/so/tags/wareysi/</link>
+				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/wareysi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Qaamuus</title>
+				<link>https://www.kapchits.online/so/tags/qaamuus/</link>
+				<pubDate>Sat, 16 Dec 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/qaamuus/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Qurbaha</title>
+				<link>https://www.kapchits.online/so/tags/qurbaha/</link>
+				<pubDate>Sat, 16 Dec 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/qurbaha/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Berbera</title>
+				<link>https://www.kapchits.online/so/tags/berbera/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/berbera/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cilmi-Boodhari</title>
+				<link>https://www.kapchits.online/so/tags/cilmi-boodhari/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/cilmi-boodhari/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gabay</title>
+				<link>https://www.kapchits.online/so/tags/gabay/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/gabay/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hal-Aqoon</title>
+				<link>https://www.kapchits.online/so/tags/hal-aqoon/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/hal-aqoon/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Halqabsigii-Jacaylka</title>
+				<link>https://www.kapchits.online/so/tags/halqabsigii-jacaylka/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/halqabsigii-jacaylka/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hodan-Cabdille-Walanwal</title>
+				<link>https://www.kapchits.online/so/tags/hodan-cabdille-walanwal/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/hodan-cabdille-walanwal/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ibraahim-Maxamedeeq-Ciise</title>
+				<link>https://www.kapchits.online/so/tags/ibraahim-maxamedeeq-ciise/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/ibraahim-maxamedeeq-ciise/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kanada</title>
+				<link>https://www.kapchits.online/so/tags/kanada/</link>
+				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/kanada/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ottawa</title>
+				<link>https://www.kapchits.online/so/tags/ottawa/</link>
+				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/ottawa/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Qurbajoogta</title>
+				<link>https://www.kapchits.online/so/tags/qurbajoogta/</link>
+				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/qurbajoogta/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Alex-Haley</title>
+				<link>https://www.kapchits.online/so/tags/alex-haley/</link>
+				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/alex-haley/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Barwaaqo</title>
+				<link>https://www.kapchits.online/so/tags/barwaaqo/</link>
+				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/barwaaqo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Magac-Bixin</title>
+				<link>https://www.kapchits.online/so/tags/magac-bixin/</link>
+				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/magac-bixin/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mandinka</title>
+				<link>https://www.kapchits.online/so/tags/mandinka/</link>
+				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/mandinka/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Raadiyow-Moosko</title>
+				<link>https://www.kapchits.online/so/tags/raadiyow-moosko/</link>
+				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/raadiyow-moosko/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Roots</title>
+				<link>https://www.kapchits.online/so/tags/roots/</link>
+				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/roots/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somalitalk</title>
+				<link>https://www.kapchits.online/so/tags/somalitalk/</link>
+				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/tags/somalitalk/</guid>
 				<description></description>
 			</item>
 	</channel>

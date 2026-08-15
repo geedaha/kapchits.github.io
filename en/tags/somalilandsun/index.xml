@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Somalilandsun on Kapchits.Online</title>
-		<link>http://localhost:1313/en/tags/somalilandsun/</link>
+		<link>https://www.kapchits.online/en/tags/somalilandsun/</link>
 		<description>Recent content in Somalilandsun on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,14 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/en/tags/somalilandsun/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sun, 15 Jul 2012 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.kapchits.online/en/tags/somalilandsun/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>“Somalis Do Not Use Proverbs to Lie”: Dr. Georgi Kapchits in the Horn Newspaper</title>
-				<link>http://localhost:1313/en/news/horn-africa-interview/</link>
+				<link>https://www.kapchits.online/en/news/horn-africa-interview/</link>
 				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/horn-africa-interview/</guid>
+				<guid>https://www.kapchits.online/en/news/horn-africa-interview/</guid>
 				<description>&lt;p&gt;On 14 July 2012, at the 5th Hargeisa Book Fair, Dr. Georgi Kapchits presented his new Somali-language book &lt;em&gt;Soomaalidu Been ma Maahmaahdo&lt;/em&gt; (“Somalis do not use proverbs to lie”). The following day the Horn newspaper published an interview with him, together with a report by Yusuf M Hasan.&lt;/p&gt;&#xA;&lt;h2 id=&#34;at-the-book-fair&#34;&gt;At the Book Fair&lt;/h2&gt;&#xA;&lt;p&gt;The Somali language, with over 100,000 proverbs, is among the richest languages in the world. This was said by Dr. Georgi Kapchits during the interview in Hargeisa, where he also disclosed that the lengthy studies he has undertaken reveal that the Somali language has no proverbs for lies.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Kapchits.Online</title>
-		<link>http://localhost:1313/en/tags/</link>
+		<link>https://www.kapchits.online/en/tags/</link>
 		<description>Recent content in Tags on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,488 +10,490 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Aarhus</title>
-				<link>http://localhost:1313/en/tags/aarhus/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/aarhus/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Afgooye</title>
-				<link>http://localhost:1313/en/tags/afgooye/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/afgooye/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Afrikan-Sarvi</title>
-				<link>http://localhost:1313/en/tags/afrikan-sarvi/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/afrikan-sarvi/</guid>
-				<description></description>
-			</item>
+			<lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.kapchits.online/en/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Aliqeyr-Mohamed-Nur</title>
-				<link>http://localhost:1313/en/tags/aliqeyr-mohamed-nur/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/aliqeyr-mohamed-nur/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Andrzejewski</title>
-				<link>http://localhost:1313/en/tags/andrzejewski/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/andrzejewski/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Asylum</title>
-				<link>http://localhost:1313/en/tags/asylum/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/asylum/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Attributive-Verbs</title>
-				<link>http://localhost:1313/en/tags/attributive-verbs/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/attributive-verbs/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Berlin</title>
-				<link>http://localhost:1313/en/tags/berlin/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/berlin/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Book-Fair</title>
-				<link>http://localhost:1313/en/tags/book-fair/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/book-fair/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Bosasso</title>
-				<link>http://localhost:1313/en/tags/bosasso/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/bosasso/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Buranbur-Conference</title>
-				<link>http://localhost:1313/en/tags/buranbur-conference/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/buranbur-conference/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Comparative-Linguistics</title>
-				<link>http://localhost:1313/en/tags/comparative-linguistics/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/comparative-linguistics/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Congress</title>
-				<link>http://localhost:1313/en/tags/congress/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/congress/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Dialectology</title>
-				<link>http://localhost:1313/en/tags/dialectology/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/dialectology/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Dialects</title>
-				<link>http://localhost:1313/en/tags/dialects/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/dialects/</guid>
+				<link>https://www.kapchits.online/en/tags/aliqeyr-mohamed-nur/</link>
+				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/aliqeyr-mohamed-nur/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Diaspora</title>
-				<link>http://localhost:1313/en/tags/diaspora/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/diaspora/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Drought</title>
-				<link>http://localhost:1313/en/tags/drought/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/drought/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Eyl</title>
-				<link>http://localhost:1313/en/tags/eyl/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/eyl/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Field-Experiment</title>
-				<link>http://localhost:1313/en/tags/field-experiment/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/field-experiment/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Finland</title>
-				<link>http://localhost:1313/en/tags/finland/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/finland/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Focus-Particles</title>
-				<link>http://localhost:1313/en/tags/focus-particles/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/focus-particles/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Folklore</title>
-				<link>http://localhost:1313/en/tags/folklore/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/folklore/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Folktales</title>
-				<link>http://localhost:1313/en/tags/folktales/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/folktales/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Gedo</title>
-				<link>http://localhost:1313/en/tags/gedo/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/gedo/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Gender</title>
-				<link>http://localhost:1313/en/tags/gender/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/gender/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Guardian</title>
-				<link>http://localhost:1313/en/tags/guardian/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/guardian/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Hargeisa</title>
-				<link>http://localhost:1313/en/tags/hargeisa/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/hargeisa/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Hargeisa-Book-Fair</title>
-				<link>http://localhost:1313/en/tags/hargeisa-book-fair/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/hargeisa-book-fair/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Horn-Newspaper</title>
-				<link>http://localhost:1313/en/tags/horn-newspaper/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/horn-newspaper/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Interview</title>
-				<link>http://localhost:1313/en/tags/interview/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/interview/</guid>
+				<link>https://www.kapchits.online/en/tags/diaspora/</link>
+				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/diaspora/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Introduction</title>
-				<link>http://localhost:1313/en/tags/introduction/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/introduction/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Kinship-Terms</title>
-				<link>http://localhost:1313/en/tags/kinship-terms/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/kinship-terms/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Lamberti</title>
-				<link>http://localhost:1313/en/tags/lamberti/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/lamberti/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Language-Analysis</title>
-				<link>http://localhost:1313/en/tags/language-analysis/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/language-analysis/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Mogadishu</title>
-				<link>http://localhost:1313/en/tags/mogadishu/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/mogadishu/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Muuse-Galaal</title>
-				<link>http://localhost:1313/en/tags/muuse-galaal/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/muuse-galaal/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Oromo</title>
-				<link>http://localhost:1313/en/tags/oromo/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/oromo/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Paremiological-Minimum</title>
-				<link>http://localhost:1313/en/tags/paremiological-minimum/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/paremiological-minimum/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Paremiology</title>
-				<link>http://localhost:1313/en/tags/paremiology/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/paremiology/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Past-Independent-Tense</title>
-				<link>http://localhost:1313/en/tags/past-independent-tense/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/past-independent-tense/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Permyakov</title>
-				<link>http://localhost:1313/en/tags/permyakov/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/permyakov/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Piracy</title>
-				<link>http://localhost:1313/en/tags/piracy/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/piracy/</guid>
+				<link>https://www.kapchits.online/en/tags/introduction/</link>
+				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/introduction/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Poetry</title>
-				<link>http://localhost:1313/en/tags/poetry/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/poetry/</guid>
+				<link>https://www.kapchits.online/en/tags/poetry/</link>
+				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/poetry/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Prose</title>
-				<link>http://localhost:1313/en/tags/prose/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/prose/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Proverbs</title>
-				<link>http://localhost:1313/en/tags/proverbs/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/proverbs/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Puntland</title>
-				<link>http://localhost:1313/en/tags/puntland/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/puntland/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>San-Diego</title>
-				<link>http://localhost:1313/en/tags/san-diego/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/san-diego/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sentence-Particles</title>
-				<link>http://localhost:1313/en/tags/sentence-particles/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/sentence-particles/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sociolinguistics</title>
-				<link>http://localhost:1313/en/tags/sociolinguistics/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/sociolinguistics/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somali</title>
-				<link>http://localhost:1313/en/tags/somali/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somali/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somali-Dialects</title>
-				<link>http://localhost:1313/en/tags/somali-dialects/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somali-dialects/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somali-Grammar</title>
-				<link>http://localhost:1313/en/tags/somali-grammar/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somali-grammar/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somali-Language</title>
-				<link>http://localhost:1313/en/tags/somali-language/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somali-language/</guid>
+				<link>https://www.kapchits.online/en/tags/prose/</link>
+				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/prose/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Somali-Literature</title>
-				<link>http://localhost:1313/en/tags/somali-literature/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somali-literature/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somali-Poetry</title>
-				<link>http://localhost:1313/en/tags/somali-poetry/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somali-poetry/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somali-Proverbs</title>
-				<link>http://localhost:1313/en/tags/somali-proverbs/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somali-proverbs/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somali-Studies</title>
-				<link>http://localhost:1313/en/tags/somali-studies/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somali-studies/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somalia</title>
-				<link>http://localhost:1313/en/tags/somalia/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somalia/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somaliland</title>
-				<link>http://localhost:1313/en/tags/somaliland/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somaliland/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Somalilandsun</title>
-				<link>http://localhost:1313/en/tags/somalilandsun/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/somalilandsun/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Soothsayer-Tested</title>
-				<link>http://localhost:1313/en/tags/soothsayer-tested/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/soothsayer-tested/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Travel-Notes</title>
-				<link>http://localhost:1313/en/tags/travel-notes/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/travel-notes/</guid>
+				<link>https://www.kapchits.online/en/tags/somali-literature/</link>
+				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-literature/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Utopia</title>
-				<link>http://localhost:1313/en/tags/utopia/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/utopia/</guid>
+				<link>https://www.kapchits.online/en/tags/utopia/</link>
+				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/utopia/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Variation</title>
-				<link>http://localhost:1313/en/tags/variation/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/variation/</guid>
+				<title>Book-Fair</title>
+				<link>https://www.kapchits.online/en/tags/book-fair/</link>
+				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/book-fair/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Voice-of-Russia</title>
-				<link>http://localhost:1313/en/tags/voice-of-russia/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/voice-of-russia/</guid>
+				<title>Guardian</title>
+				<link>https://www.kapchits.online/en/tags/guardian/</link>
+				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/guardian/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Wardheernews</title>
-				<link>http://localhost:1313/en/tags/wardheernews/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/wardheernews/</guid>
+				<title>Hargeisa</title>
+				<link>https://www.kapchits.online/en/tags/hargeisa/</link>
+				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/hargeisa/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hargeisa-Book-Fair</title>
+				<link>https://www.kapchits.online/en/tags/hargeisa-book-fair/</link>
+				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/hargeisa-book-fair/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Horn-Newspaper</title>
+				<link>https://www.kapchits.online/en/tags/horn-newspaper/</link>
+				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/horn-newspaper/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Proverbs</title>
+				<link>https://www.kapchits.online/en/tags/proverbs/</link>
+				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/proverbs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somaliland</title>
+				<link>https://www.kapchits.online/en/tags/somaliland/</link>
+				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somaliland/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somalilandsun</title>
+				<link>https://www.kapchits.online/en/tags/somalilandsun/</link>
+				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somalilandsun/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Afrikan-Sarvi</title>
+				<link>https://www.kapchits.online/en/tags/afrikan-sarvi/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/afrikan-sarvi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Andrzejewski</title>
+				<link>https://www.kapchits.online/en/tags/andrzejewski/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/andrzejewski/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Drought</title>
+				<link>https://www.kapchits.online/en/tags/drought/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/drought/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Finland</title>
+				<link>https://www.kapchits.online/en/tags/finland/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/finland/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Folklore</title>
+				<link>https://www.kapchits.online/en/tags/folklore/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/folklore/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Folktales</title>
+				<link>https://www.kapchits.online/en/tags/folktales/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/folktales/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Muuse-Galaal</title>
+				<link>https://www.kapchits.online/en/tags/muuse-galaal/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/muuse-galaal/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Soothsayer-Tested</title>
+				<link>https://www.kapchits.online/en/tags/soothsayer-tested/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/soothsayer-tested/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Wiil-Waal</title>
-				<link>http://localhost:1313/en/tags/wiil-waal/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/wiil-waal/</guid>
+				<link>https://www.kapchits.online/en/tags/wiil-waal/</link>
+				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/wiil-waal/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bosasso</title>
+				<link>https://www.kapchits.online/en/tags/bosasso/</link>
+				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/bosasso/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Eyl</title>
+				<link>https://www.kapchits.online/en/tags/eyl/</link>
+				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/eyl/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mogadishu</title>
+				<link>https://www.kapchits.online/en/tags/mogadishu/</link>
+				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/mogadishu/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Piracy</title>
+				<link>https://www.kapchits.online/en/tags/piracy/</link>
+				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/piracy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Puntland</title>
+				<link>https://www.kapchits.online/en/tags/puntland/</link>
+				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/puntland/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somalia</title>
+				<link>https://www.kapchits.online/en/tags/somalia/</link>
+				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somalia/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Travel-Notes</title>
+				<link>https://www.kapchits.online/en/tags/travel-notes/</link>
+				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/travel-notes/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Voice-of-Russia</title>
+				<link>https://www.kapchits.online/en/tags/voice-of-russia/</link>
+				<pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/voice-of-russia/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Comparative-Linguistics</title>
+				<link>https://www.kapchits.online/en/tags/comparative-linguistics/</link>
+				<pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/comparative-linguistics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kinship-Terms</title>
+				<link>https://www.kapchits.online/en/tags/kinship-terms/</link>
+				<pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/kinship-terms/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Oromo</title>
+				<link>https://www.kapchits.online/en/tags/oromo/</link>
+				<pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/oromo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali</title>
+				<link>https://www.kapchits.online/en/tags/somali/</link>
+				<pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Afgooye</title>
+				<link>https://www.kapchits.online/en/tags/afgooye/</link>
+				<pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/afgooye/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Asylum</title>
+				<link>https://www.kapchits.online/en/tags/asylum/</link>
+				<pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/asylum/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dialectology</title>
+				<link>https://www.kapchits.online/en/tags/dialectology/</link>
+				<pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/dialectology/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gedo</title>
+				<link>https://www.kapchits.online/en/tags/gedo/</link>
+				<pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/gedo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lamberti</title>
+				<link>https://www.kapchits.online/en/tags/lamberti/</link>
+				<pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/lamberti/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Language-Analysis</title>
+				<link>https://www.kapchits.online/en/tags/language-analysis/</link>
+				<pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/language-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sociolinguistics</title>
+				<link>https://www.kapchits.online/en/tags/sociolinguistics/</link>
+				<pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/sociolinguistics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali-Dialects</title>
+				<link>https://www.kapchits.online/en/tags/somali-dialects/</link>
+				<pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-dialects/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Buranbur-Conference</title>
+				<link>https://www.kapchits.online/en/tags/buranbur-conference/</link>
+				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/buranbur-conference/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gender</title>
+				<link>https://www.kapchits.online/en/tags/gender/</link>
+				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/gender/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Paremiology</title>
+				<link>https://www.kapchits.online/en/tags/paremiology/</link>
+				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/paremiology/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>San-Diego</title>
+				<link>https://www.kapchits.online/en/tags/san-diego/</link>
+				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/san-diego/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali-Grammar</title>
+				<link>https://www.kapchits.online/en/tags/somali-grammar/</link>
+				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-grammar/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali-Language</title>
+				<link>https://www.kapchits.online/en/tags/somali-language/</link>
+				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-language/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali-Proverbs</title>
+				<link>https://www.kapchits.online/en/tags/somali-proverbs/</link>
+				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-proverbs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Women</title>
-				<link>http://localhost:1313/en/tags/women/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/women/</guid>
+				<link>https://www.kapchits.online/en/tags/women/</link>
+				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/women/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Interview</title>
+				<link>https://www.kapchits.online/en/tags/interview/</link>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/interview/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wardheernews</title>
+				<link>https://www.kapchits.online/en/tags/wardheernews/</link>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/wardheernews/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Zholkovsky</title>
-				<link>http://localhost:1313/en/tags/zholkovsky/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/tags/zholkovsky/</guid>
+				<link>https://www.kapchits.online/en/tags/zholkovsky/</link>
+				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/zholkovsky/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Attributive-Verbs</title>
+				<link>https://www.kapchits.online/en/tags/attributive-verbs/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/attributive-verbs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dialects</title>
+				<link>https://www.kapchits.online/en/tags/dialects/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/dialects/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Focus-Particles</title>
+				<link>https://www.kapchits.online/en/tags/focus-particles/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/focus-particles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Paremiological-Minimum</title>
+				<link>https://www.kapchits.online/en/tags/paremiological-minimum/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/paremiological-minimum/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Past-Independent-Tense</title>
+				<link>https://www.kapchits.online/en/tags/past-independent-tense/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/past-independent-tense/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sentence-Particles</title>
+				<link>https://www.kapchits.online/en/tags/sentence-particles/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/sentence-particles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Variation</title>
+				<link>https://www.kapchits.online/en/tags/variation/</link>
+				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/variation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Aarhus</title>
+				<link>https://www.kapchits.online/en/tags/aarhus/</link>
+				<pubDate>Thu, 10 Apr 2003 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/aarhus/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Berlin</title>
+				<link>https://www.kapchits.online/en/tags/berlin/</link>
+				<pubDate>Thu, 10 Apr 2003 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/berlin/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Field-Experiment</title>
+				<link>https://www.kapchits.online/en/tags/field-experiment/</link>
+				<pubDate>Thu, 10 Apr 2003 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/field-experiment/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Permyakov</title>
+				<link>https://www.kapchits.online/en/tags/permyakov/</link>
+				<pubDate>Thu, 10 Apr 2003 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/permyakov/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Congress</title>
+				<link>https://www.kapchits.online/en/tags/congress/</link>
+				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/congress/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali-Poetry</title>
+				<link>https://www.kapchits.online/en/tags/somali-poetry/</link>
+				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-poetry/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Somali-Studies</title>
+				<link>https://www.kapchits.online/en/tags/somali-studies/</link>
+				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/en/tags/somali-studies/</guid>
 				<description></description>
 			</item>
 	</channel>

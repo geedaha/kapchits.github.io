@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Congress on Kapchits.Online</title>
-		<link>http://localhost:1313/en/tags/congress/</link>
+		<link>https://www.kapchits.online/en/tags/congress/</link>
 		<description>Recent content in Congress on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,14 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/en/tags/congress/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sat, 01 Dec 2001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.kapchits.online/en/tags/congress/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Scholars in the Country of Poets</title>
-				<link>http://localhost:1313/en/research/scholars/</link>
+				<link>https://www.kapchits.online/en/research/scholars/</link>
 				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/research/scholars/</guid>
+				<guid>https://www.kapchits.online/en/research/scholars/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Notes on the 8th International Congress of Somali Studies (Hargeisa, July 3–13, 2001)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;i&#34;&gt;I&lt;/h2&gt;&#xA;&lt;p&gt;The Somalis affirm that the ancestors of the great Russian poet Alexander Pushkin lived in the Horn of Africa. They came from the Arab tribe, and that is why his great-grandfather, brought to Russia when a child, was named Peter the Great&amp;rsquo;s &lt;em&gt;arap&lt;/em&gt;.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;In Hargeisa I was reminded of it by clever and charming Abdulkadir Haji Ismail Jirdeh, who combines a passionate love of poetry with the prosaic work of the speaker of the local parliament. We met in the house of the Head of Hargeisa University, Sheikh Ali Ibrahim, who arranged a party in honour of the participants of the Congress. Standing on the flat roof and sipping orange juice (there is a dry law in Somaliland) we were talking about everything, and of course, about poetry, which in the country of poets goes without saying. By that time I had spoken enough Somali and was conversing in Russian with pleasure — my interlocutor remembered perfectly well the language he learnt in Odessa once upon a time. It turned out that he paid the highest tribute to the second genius of Russia, Michael Lermontov, and knew his poem &amp;ldquo;Demon&amp;rdquo; by heart:&lt;/p&gt;</description>
 			</item>
 	</channel>

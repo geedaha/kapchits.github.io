@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sharif-Sheikh-Ahmed on Kapchits.Online</title>
-		<link>http://localhost:1313/ru/tags/sharif-sheikh-ahmed/</link>
+		<link>https://www.kapchits.online/ru/tags/sharif-sheikh-ahmed/</link>
 		<description>Recent content in Sharif-Sheikh-Ahmed on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -10,12 +10,14 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/ru/tags/sharif-sheikh-ahmed/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Thu, 28 May 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.kapchits.online/ru/tags/sharif-sheikh-ahmed/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Могадишо. 20 лет спустя</title>
-				<link>http://localhost:1313/ru/news/mogadisho-20-let-spustya/</link>
+				<link>https://www.kapchits.online/ru/news/mogadisho-20-let-spustya/</link>
 				<pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/ru/news/mogadisho-20-let-spustya/</guid>
+				<guid>https://www.kapchits.online/ru/news/mogadisho-20-let-spustya/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Второй очерк цикла Георгия Капчица о поездке в Сомали в мае 2009 года. В качестве переводчика и консультанта съёмочной группы российской телекомпании он побывал в Сомали, Сомалиленде и Пунтленде.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Обозреватель «Голоса России» Георгий Капчиц только что вернулся из Сомали. В качестве переводчика и консультанта съемочной группы одной из российских телевизионных компаний он побывал во всех трех частях этой некогда единой страны. По итогам поездки он написал серию очерков о Сомали. Предлагаем вашему вниманию второй его очерк — «Могадишо. Двадцать лет спустя».&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

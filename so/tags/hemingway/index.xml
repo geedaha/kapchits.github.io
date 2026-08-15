@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Hemingway on Kapchits.Online</title>
-		<link>http://localhost:1313/so/tags/hemingway/</link>
+		<link>https://www.kapchits.online/so/tags/hemingway/</link>
 		<description>Recent content in Hemingway on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -10,13 +10,15 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/so/tags/hemingway/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.kapchits.online/so/tags/hemingway/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Wareysi aynu la yeelanay Dr. Georgi Kapchits</title>
-				<link>http://localhost:1313/so/news/wareysi-aadan-makiina/</link>
+				<link>https://www.kapchits.online/so/news/wareysi-aadan-makiina/</link>
 				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/news/wareysi-aadan-makiina/</guid>
-				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 18 Maajo 2024. Wareysigii waxaa qaaday&#xA;Aadan Makiina. Qoraalku waa mid halkan loogu keenay in la kaydiyo, isagoo aan waxba laga&#xA;beddelin; xuquuqda qoraalka waxaa iska leh mareegtada daabacday. Wareysiyadii hore:&#xA;&lt;a href=&#34;http://localhost:1313/so/news/wareysi-wardheernews/&#34;&gt;WardheerNews 2006&lt;/a&gt; iyo&#xA;&lt;a href=&#34;http://localhost:1313/so/news/hal-sano-ka-dib/&#34;&gt;dib-u-eegistii 2006&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Oraahda Wareystaha:&lt;/em&gt; Waxaan fursad uhelay inaan wareysto Dr. Georgi Kapchits oo ah odey ku taqasusay af Soomaaliga iyo af Amxaariga, kuna dhashay dalka Ruushka, siiba Midowgi Sofyeetigii hore. Waa faylasuf, qoraa, aftahan, wuxuuna heybad ku leeyahay ummadda Soomaaliyeed, waayo, maqaalada iyo buugaagta uu ku qoray af Soomaaliga ayaa u sabab ah in la qaddariyo. Haddaba, iga guddooma wareysigii oo dhammeystiran.&lt;/p&gt;</description>
+				<guid>https://www.kapchits.online/so/news/wareysi-aadan-makiina/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 18 Maajo 2024. Wareysigii waxaa qaaday&#xA;Aadan Makiina. Qoraalku waa mid halkan loogu keenay in la kaydiyo, isagoo aan waxba laga&#xA;beddelin; xuquuqda qoraalka waxaa iska leh mareegtada daabacday. Wareysiyadii hore:&#xA;&lt;a href=&#34;https://www.kapchits.online/so/news/wareysi-wardheernews/&#34;&gt;WardheerNews 2006&lt;/a&gt; iyo&#xA;&lt;a href=&#34;https://www.kapchits.online/so/news/hal-sano-ka-dib/&#34;&gt;dib-u-eegistii 2006&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Oraahda Wareystaha:&lt;/em&gt; Waxaan fursad uhelay inaan wareysto Dr. Georgi Kapchits oo ah odey ku taqasusay af Soomaaliga iyo af Amxaariga, kuna dhashay dalka Ruushka, siiba Midowgi Sofyeetigii hore. Waa faylasuf, qoraa, aftahan, wuxuuna heybad ku leeyahay ummadda Soomaaliyeed, waayo, maqaalada iyo buugaagta uu ku qoray af Soomaaliga ayaa u sabab ah in la qaddariyo. Haddaba, iga guddooma wareysigii oo dhammeystiran.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

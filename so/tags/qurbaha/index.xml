@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Qurbaha on Kapchits.Online</title>
-		<link>http://localhost:1313/so/tags/qurbaha/</link>
+		<link>https://www.kapchits.online/so/tags/qurbaha/</link>
 		<description>Recent content in Qurbaha on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -10,19 +10,21 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/so/tags/qurbaha/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sat, 16 Dec 2006 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.kapchits.online/so/tags/qurbaha/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Hal sano ka dib markii aan wareystay Dr. Kapchits</title>
-				<link>http://localhost:1313/so/news/hal-sano-ka-dib/</link>
+				<link>https://www.kapchits.online/so/news/hal-sano-ka-dib/</link>
 				<pubDate>Sat, 16 Dec 2006 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/news/hal-sano-ka-dib/</guid>
-				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 16 Diseembar 2006. Waxaa qoray Isamail A. Hassan (Khaliil). Waa dib u eegis lagu sameeyay &lt;a href=&#34;http://localhost:1313/so/news/wareysi-wardheernews/&#34;&gt;wareysigii Janaayo 2006&lt;/a&gt;. Qoraalku waa mid taariikhi ah oo halkan loogu keenay in la kaydiyo; xuquuqda qoraalka waxaa iska leh mareegtada daabacday.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Waxaan qorsheeyey in ilaa sannadkan(2006) dabayaaqadiisa aan soo gabagabeeyo Qaamuuska weyn ee maahmaahaha soomaaliyeed, hase ahaate waa aan ku dhacay. Sababta u weyni waa in maahmaahihii aan hore u soo ururiyey ay ku darsameen kumanyaal kale oo qaarkood aan ka helay akhristayaasha kaddib markii aad daabacday wareysigaygii. Ilaa maanta ayay ila soo xiriiraan akhristeyaasha Wardheernews, taasoo aan raalli ka ahay. Mahadsanid”&lt;/p&gt;</description>
+				<guid>https://www.kapchits.online/so/news/hal-sano-ka-dib/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 16 Diseembar 2006. Waxaa qoray Isamail A. Hassan (Khaliil). Waa dib u eegis lagu sameeyay &lt;a href=&#34;https://www.kapchits.online/so/news/wareysi-wardheernews/&#34;&gt;wareysigii Janaayo 2006&lt;/a&gt;. Qoraalku waa mid taariikhi ah oo halkan loogu keenay in la kaydiyo; xuquuqda qoraalka waxaa iska leh mareegtada daabacday.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Waxaan qorsheeyey in ilaa sannadkan(2006) dabayaaqadiisa aan soo gabagabeeyo Qaamuuska weyn ee maahmaahaha soomaaliyeed, hase ahaate waa aan ku dhacay. Sababta u weyni waa in maahmaahihii aan hore u soo ururiyey ay ku darsameen kumanyaal kale oo qaarkood aan ka helay akhristayaasha kaddib markii aad daabacday wareysigaygii. Ilaa maanta ayay ila soo xiriiraan akhristeyaasha Wardheernews, taasoo aan raalli ka ahay. Mahadsanid”&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Wareysigii ay mareegtada WardheerNews la yeelatay Dr. Georgi Kapchits</title>
-				<link>http://localhost:1313/so/news/wareysi-wardheernews/</link>
+				<link>https://www.kapchits.online/so/news/wareysi-wardheernews/</link>
 				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/news/wareysi-wardheernews/</guid>
+				<guid>https://www.kapchits.online/so/news/wareysi-wardheernews/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 25 Janaayo 2006. Wareysigii waxaa qaaday Isamail A. Hassan (Khaliil). Qoraalku waa mid taariikhi ah oo halkan loogu keenay in la kaydiyo; xuquuqda qoraalka waxaa iska leh mareegtada daabacday.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dr. Kapchits:&lt;/strong&gt; Gacaliye Khaliil waad mahadsantahay. Waxaa jirta maahmaah tidhaahda ‘waayeel afkaaga fur, ilkahaaga aan tiriyee lama yidhaahdo’. Kaftan weeye, nin furfuran baan ahaye.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;hordhac&#34;&gt;Hordhac&lt;/h2&gt;&#xA;&lt;p&gt;Waraysi xiiso badan oo ay WardheerNews la yeelatay aqoonyahanka Ruushka ah ee Dr. Georgi Kapchits oo hadda booqasho ku jooga wadanka Jarmalka.&lt;/p&gt;</description>
 			</item>
 	</channel>

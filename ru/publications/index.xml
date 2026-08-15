@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Публикации on Kapchits.Online</title>
-		<link>http://localhost:1313/ru/publications/</link>
+		<link>https://www.kapchits.online/ru/publications/</link>
 		<description>Recent content in Публикации on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.kapchits.online/ru/publications/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Отзывы и рецензии</title>
-				<link>http://localhost:1313/ru/publications/reviews/</link>
+				<link>https://www.kapchits.online/ru/publications/reviews/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/ru/publications/reviews/</guid>
+				<guid>https://www.kapchits.online/ru/publications/reviews/</guid>
 				<description>&lt;p&gt;На этой странице собраны сведения об откликах на книги Г. Л. Капчица и о работах коллег, связанных с его исследованиями. Права на рецензии и статьи принадлежат их авторам и издателям, поэтому полные тексты здесь не воспроизводятся: по каждой работе даны выходные данные и краткое изложение содержания. Короткие цитаты приводятся в кавычках с указанием автора.&lt;/p&gt;&#xA;&lt;h2 id=&#34;рецензии-на-книги&#34;&gt;Рецензии на книги&lt;/h2&gt;&#xA;&lt;h3 id=&#34;б-в-анджеевский-b-w-andrzejewski&#34;&gt;Б. В. Анджеевский (B. W. Andrzejewski)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Рецензия на книгу: Г. Л. Капчиц. Сомалийские пословицы и поговорки на сомалийском и русском языках с русскими соответствиями. М.: Наука, 1983. 283 с.&lt;/em&gt;&#xA;&lt;em&gt;Опубликована: Bulletin of the School of Oriental and African Studies, Vol. XLIX, Part 2, 1986, pp. 420–422.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
