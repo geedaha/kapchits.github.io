@@ -5,7 +5,12 @@
 html,body { margin:0; padding:0; }
 
 body {
-  font:16px/1.1 sans-serif;
+  /* Palatino — шрифт статей Bildhaan, перенесён на сайт по просьбе автора
+     (15.08.2026). Системный стек, без встраивания файлов: Palatino Linotype
+     есть в каждом Windows, Palatino — в каждом macOS, у обоих есть кириллица;
+     P052 и URW Palladio L — свободные клоны на Linux; Book Antiqua — двойник
+     от Monotype; Georgia — читаемый серифный запас с кириллицей (Android). */
+  font:16px/1.3 "Palatino Linotype", Palatino, P052, "URW Palladio L", "Book Antiqua", Georgia, serif;
   color:#222;
   display:flex;
   flex-direction:column;
