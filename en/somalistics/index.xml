@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Somalistics on Kapchits.Online</title>
-		<link>https://www.kapchits.online/en/somalistics/</link>
+		<link>http://localhost:1313/en/somalistics/</link>
 		<description>Recent content in Somalistics on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/en/somalistics/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/en/somalistics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lexical Glossaries</title>
-				<link>https://www.kapchits.online/en/somalistics/lexicon/</link>
+				<link>http://localhost:1313/en/somalistics/lexicon/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/somalistics/lexicon/</guid>
+				<guid>http://localhost:1313/en/somalistics/lexicon/</guid>
 				<description>&lt;p&gt;Lexical work occupies a distinct place in Dr. Kapchits&amp;rsquo; somalistics. Alongside the study of grammar and paremiology, he has assembled and published glossaries of semantic fields that had previously been described only in outline — above all the terminology of kinship, and the archaic vocabulary of fractions preserved in traditional texts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kinship-terminology&#34;&gt;Kinship Terminology&lt;/h2&gt;&#xA;&lt;p&gt;The fullest of these glossaries is the corpus of Somali kinship terms compiled by G. L. Kapchits together with V. Ya. Porkhomovsky and published in the Semito-Hamitic Festschrift (Berlin: Dietrich Reimer Verlag, 2008, pp. 155–160). The corpus comprises 34 to 38 terms.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Media &amp; Broadcasting</title>
-				<link>https://www.kapchits.online/en/somalistics/videos/</link>
+				<link>http://localhost:1313/en/somalistics/videos/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/somalistics/videos/</guid>
+				<guid>http://localhost:1313/en/somalistics/videos/</guid>
 				<description>&lt;p&gt;Alongside the academic work, a large part of Dr. Kapchits&amp;rsquo; professional life was spent in broadcasting — and much of what he wrote about Somalia was addressed not to scholars but to listeners. This page gathers what belongs to that side of the record.&lt;/p&gt;&#xA;&lt;h2 id=&#34;radio&#34;&gt;Radio&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Somali service of Radio Moscow, 1967–1994.&lt;/strong&gt; Twenty-seven years of daily work in Somali, as announcer and translator, for an audience that would have noticed any carelessness at once. The section was closed in 1994.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Reviews on Kapchits.Online</title>
-		<link>https://www.kapchits.online/ru/categories/reviews/</link>
+		<link>http://localhost:1313/ru/categories/reviews/</link>
 		<description>Recent content in Reviews on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -10,21 +10,19 @@
 		
 		
 		
-			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://www.kapchits.online/ru/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ru/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Отзывы и рецензии</title>
-				<link>https://www.kapchits.online/ru/publications/reviews/</link>
+				<link>http://localhost:1313/ru/publications/reviews/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/publications/reviews/</guid>
+				<guid>http://localhost:1313/ru/publications/reviews/</guid>
 				<description>&lt;p&gt;На этой странице собраны сведения об откликах на книги Г. Л. Капчица и о работах коллег, связанных с его исследованиями. Права на рецензии и статьи принадлежат их авторам и издателям, поэтому полные тексты здесь не воспроизводятся: по каждой работе даны выходные данные и краткое изложение содержания. Короткие цитаты приводятся в кавычках с указанием автора.&lt;/p&gt;&#xA;&lt;h2 id=&#34;рецензии-на-книги&#34;&gt;Рецензии на книги&lt;/h2&gt;&#xA;&lt;h3 id=&#34;б-в-анджеевский-b-w-andrzejewski&#34;&gt;Б. В. Анджеевский (B. W. Andrzejewski)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Рецензия на книгу: Г. Л. Капчиц. Сомалийские пословицы и поговорки на сомалийском и русском языках с русскими соответствиями. М.: Наука, 1983. 283 с.&lt;/em&gt;&#xA;&lt;em&gt;Опубликована: Bulletin of the School of Oriental and African Studies, Vol. XLIX, Part 2, 1986, pp. 420–422.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>О книге А. К. Жолковского «Синтаксис сомали»</title>
-				<link>https://www.kapchits.online/ru/publications/articles/o-knige-zholkovskogo/</link>
+				<link>http://localhost:1313/ru/publications/articles/o-knige-zholkovskogo/</link>
 				<pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/publications/articles/o-knige-zholkovskogo/</guid>
+				<guid>http://localhost:1313/ru/publications/articles/o-knige-zholkovskogo/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Г. Л. Капчиц&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Опубликовано в книге: А. К. Жолковский. Синтаксис сомали: Глубинные и поверхностные структуры. Москва, 2007.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Настоящие мужчины — те, что раньше жили, настоящие речи — те, что они сказывали.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Сомалийская пословица&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Мой учитель А. К. Жолковский, слава Богу, жив и здоров, катается на велосипеде, находится в расцвете творческих сил и является, по словам Л. Рубинштейна, человеком в филологической среде культовым. Немудрено: мэтр написал не только два десятка книг и на порядок больше статей по лингвистике и поэтике, но и множество новелл в жанре non-fiction, которые принесли ему известность едва ли не большую, чем научные изыскания.&lt;/p&gt;</description>
 			</item>
 	</channel>

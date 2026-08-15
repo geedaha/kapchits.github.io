@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Сомалийская Поэзия on Kapchits.Online</title>
-		<link>https://www.kapchits.online/ru/tags/%D1%81%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D1%8D%D0%B7%D0%B8%D1%8F/</link>
+		<link>http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D1%8D%D0%B7%D0%B8%D1%8F/</link>
 		<description>Recent content in Сомалийская Поэзия on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -10,14 +10,12 @@
 		
 		
 		
-			<lastBuildDate>Sat, 01 Dec 2001 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://www.kapchits.online/ru/tags/%D1%81%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D1%8D%D0%B7%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D1%8D%D0%B7%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Учёные в стране поэтов</title>
-				<link>https://www.kapchits.online/ru/research/scholars/</link>
+				<link>http://localhost:1313/ru/research/scholars/</link>
 				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/research/scholars/</guid>
+				<guid>http://localhost:1313/ru/research/scholars/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Заметки о 8-м Международном конгрессе сомалийских исследований (Харгейса, 3–13 июля 2001 года)&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;i&#34;&gt;I&lt;/h2&gt;&#xA;&lt;p&gt;Над столицей Сомалиленда сияла луна, которой любовался, путешествуя по этим местам восемьдесят три года назад, Николай Гумилев:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Помню ночь и песчаную помню страну &lt;br&gt;&#xA;И на небе так низко луну. &lt;br&gt;&#xA;И я помню, что глаз я не мог отвести &lt;br&gt;&#xA;От ее золотого пути.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Увиденное на земле Сомали произвело на поэта тревожное впечатление:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;В целой Африке нету грозней сомали, &lt;br&gt;&#xA;Безотраднее нет их земли…&lt;/p&gt;</description>
 			</item>
 	</channel>

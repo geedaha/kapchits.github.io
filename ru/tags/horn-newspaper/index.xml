@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Horn-Newspaper on Kapchits.Online</title>
-		<link>https://www.kapchits.online/ru/tags/horn-newspaper/</link>
+		<link>http://localhost:1313/ru/tags/horn-newspaper/</link>
 		<description>Recent content in Horn-Newspaper on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -10,15 +10,13 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Jul 2012 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://www.kapchits.online/ru/tags/horn-newspaper/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ru/tags/horn-newspaper/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>«Сомалийцы не лгут пословицами»: интервью Георгия Капчица газете Horn</title>
-				<link>https://www.kapchits.online/ru/news/horn-africa-interview/</link>
+				<link>http://localhost:1313/ru/news/horn-africa-interview/</link>
 				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/horn-africa-interview/</guid>
-				<description>&lt;p&gt;&lt;em&gt;Перевод с английского оригинала. Английская версия: &lt;a href=&#34;https://www.kapchits.online/en/news/horn-africa-interview/&#34;&gt;«Somalis Do Not Use Proverbs to Lie»: Dr. Georgi Kapchits in the Horn Newspaper&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;14 июля 2012 года на 5-й Харгейсской книжной ярмарке д-р Георгий Капчиц представил свою новую книгу на сомалийском языке &lt;em&gt;Soomaalidu Been ma Maahmaahdo&lt;/em&gt; («Сомалийцы не лгут пословицами»). На следующий день газета Horn опубликовала интервью с ним вместе с репортажем Юсуфа М. Хасана.&lt;/p&gt;&#xA;&lt;h2 id=&#34;на-книжной-ярмарке&#34;&gt;На книжной ярмарке&lt;/h2&gt;&#xA;&lt;p&gt;Сомалийский язык, в котором более 100 000 пословиц, — один из богатейших языков мира. Об этом сказал д-р Георгий Капчиц в интервью, данном в Харгейсе; там же он сообщил, что многолетние исследования, которые он ведёт, показывают: в сомалийском языке нет пословиц, оправдывающих ложь.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/ru/news/horn-africa-interview/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Перевод с английского оригинала. Английская версия: &lt;a href=&#34;http://localhost:1313/en/news/horn-africa-interview/&#34;&gt;«Somalis Do Not Use Proverbs to Lie»: Dr. Georgi Kapchits in the Horn Newspaper&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;14 июля 2012 года на 5-й Харгейсской книжной ярмарке д-р Георгий Капчиц представил свою новую книгу на сомалийском языке &lt;em&gt;Soomaalidu Been ma Maahmaahdo&lt;/em&gt; («Сомалийцы не лгут пословицами»). На следующий день газета Horn опубликовала интервью с ним вместе с репортажем Юсуфа М. Хасана.&lt;/p&gt;&#xA;&lt;h2 id=&#34;на-книжной-ярмарке&#34;&gt;На книжной ярмарке&lt;/h2&gt;&#xA;&lt;p&gt;Сомалийский язык, в котором более 100 000 пословиц, — один из богатейших языков мира. Об этом сказал д-р Георгий Капчиц в интервью, данном в Харгейсе; там же он сообщил, что многолетние исследования, которые он ведёт, показывают: в сомалийском языке нет пословиц, оправдывающих ложь.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bosaso on Kapchits.Online</title>
-		<link>https://www.kapchits.online/ru/tags/bosaso/</link>
+		<link>http://localhost:1313/ru/tags/bosaso/</link>
 		<description>Recent content in Bosaso on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -10,21 +10,19 @@
 		
 		
 		
-			<lastBuildDate>Fri, 17 Jul 2009 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://www.kapchits.online/ru/tags/bosaso/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ru/tags/bosaso/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Очерки о Сомали. Встречи</title>
-				<link>https://www.kapchits.online/ru/news/ocherki-o-somali-vstrechi/</link>
+				<link>http://localhost:1313/ru/news/ocherki-o-somali-vstrechi/</link>
 				<pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/ocherki-o-somali-vstrechi/</guid>
+				<guid>http://localhost:1313/ru/news/ocherki-o-somali-vstrechi/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Четвёртый, заключительный очерк цикла Георгия Капчица о поездке в Сомали в мае 2009 года. В качестве переводчика и консультанта съёмочной группы российской телекомпании он побывал в Сомали, Сомалиленде и Пунтленде.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Обозреватель «Голоса России» Георгий Капчиц недавно вернулся из Сомали. В качестве переводчика и консультанта съемочной группы одной из российских телевизионных компаний он побывал во всех трех частях этой некогда единой страны: в Сомали — на юге, Сомалиленде — на севере и разместившемся между ними Пунтленде. Встречался с президентами и министрами, рыбаками и пиратами, жителями городов и поселков. По итогам поездки он написал серию очерков о Сомали. В нашем эфире уже прозвучали три из них — «Страна поэтов и пиратов», «Могадишо. Двадцать лет спустя» и «Пираты 21 века». Предлагаем вашему вниманию четвертый, заключительный очерк серии — «Встречи».&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Пираты 21 века</title>
-				<link>https://www.kapchits.online/ru/news/piraty-21-veka/</link>
+				<link>http://localhost:1313/ru/news/piraty-21-veka/</link>
 				<pubDate>Wed, 10 Jun 2009 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/piraty-21-veka/</guid>
+				<guid>http://localhost:1313/ru/news/piraty-21-veka/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Третий очерк цикла Георгия Капчица о поездке в Сомали в мае 2009 года. В качестве переводчика и консультанта съёмочной группы российской телекомпании он побывал в Сомали, Сомалиленде и Пунтленде.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Обозреватель «Голоса России» Георгий Капчиц недавно вернулся из Сомали. В качестве переводчика и консультанта съемочной группы одной из российских телевизионных компаний он побывал во всех трех частях этой некогда единой страны: в Сомали — на юге, Сомалиленде — на севере и разместившемся между ними Пунтленде. Встречался с президентами и министрами, рыбаками и пиратами, жителями городов и поселков. По итогам поездки он написал серию очерков о Сомали. Первый — «Страна поэтов и пиратов», второй — «Могадишо. Двадцать лет спустя», третий очерк — «Пираты 21 века».&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

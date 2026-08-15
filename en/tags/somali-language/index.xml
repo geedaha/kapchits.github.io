@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Somali-Language on Kapchits.Online</title>
-		<link>https://www.kapchits.online/en/tags/somali-language/</link>
+		<link>http://localhost:1313/en/tags/somali-language/</link>
 		<description>Recent content in Somali-Language on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,22 +10,20 @@
 		
 		
 		
-			<lastBuildDate>Sat, 03 Mar 2007 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://www.kapchits.online/en/tags/somali-language/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/en/tags/somali-language/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>On Some Peculiarities of the Somali Language, Proverbs and Folktales</title>
-				<link>https://www.kapchits.online/en/publications/articles/peculiarities-of-somali/</link>
+				<link>http://localhost:1313/en/publications/articles/peculiarities-of-somali/</link>
 				<pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/publications/articles/peculiarities-of-somali/</guid>
+				<guid>http://localhost:1313/en/publications/articles/peculiarities-of-somali/</guid>
 				<description>&lt;p&gt;&lt;em&gt;The paper for the Buranbur conference in San Diego — 3 March 2007.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;i&#34;&gt;I&lt;/h2&gt;&#xA;&lt;p&gt;Somali is a very rich language from the point of view of phonetics, syntax and vocabulary. In its &amp;ldquo;Northern variant&amp;rdquo; (&lt;em&gt;maxaad tidhi&lt;/em&gt;) it is a tonal accent language. The main classes of words in Somali are nouns and verbs.&lt;/p&gt;&#xA;&lt;p&gt;Some words with attributive meanings belong to the class of verbs: &lt;em&gt;dheer&lt;/em&gt; — to be long, &lt;em&gt;cad&lt;/em&gt; — to be white, etc. The majority of words with adverbial meaning belong to the class of nouns: &lt;em&gt;hoos-ta&lt;/em&gt; — bottom, &lt;em&gt;si-da&lt;/em&gt; — mode, mean.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The WardheerNews Interview (2006): Selected Passages</title>
-				<link>https://www.kapchits.online/en/news/wardheer-interview/</link>
+				<link>http://localhost:1313/en/news/wardheer-interview/</link>
 				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/news/wardheer-interview/</guid>
-				<description>&lt;p&gt;On 25 January 2006 the website &lt;strong&gt;WardheerNews.com&lt;/strong&gt; published a long interview with Dr. Georgi Kapchits, conducted in Somali by &lt;strong&gt;Isamail A. Hassan (“Khaliil”)&lt;/strong&gt;. Dr. Kapchits was staying in Berlin at the time, working on his dictionary of Somali proverbs. The interview was picked up by other Somali websites and became one of the most widely read pieces WardheerNews published that year.&lt;/p&gt;&#xA;&lt;p&gt;The full Somali original is reproduced here: &lt;strong&gt;&lt;a href=&#34;https://www.kapchits.online/so/news/wareysi-wardheernews/&#34;&gt;Wareysigii ay mareegtada WardheerNews la yeelatay Dr. Georgi Kapchits&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/en/news/wardheer-interview/</guid>
+				<description>&lt;p&gt;On 25 January 2006 the website &lt;strong&gt;WardheerNews.com&lt;/strong&gt; published a long interview with Dr. Georgi Kapchits, conducted in Somali by &lt;strong&gt;Isamail A. Hassan (“Khaliil”)&lt;/strong&gt;. Dr. Kapchits was staying in Berlin at the time, working on his dictionary of Somali proverbs. The interview was picked up by other Somali websites and became one of the most widely read pieces WardheerNews published that year.&lt;/p&gt;&#xA;&lt;p&gt;The full Somali original is reproduced here: &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/so/news/wareysi-wardheernews/&#34;&gt;Wareysigii ay mareegtada WardheerNews la yeelatay Dr. Georgi Kapchits&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Berlin on Kapchits.Online</title>
-		<link>https://www.kapchits.online/en/tags/berlin/</link>
+		<link>http://localhost:1313/en/tags/berlin/</link>
 		<description>Recent content in Berlin on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,14 +10,12 @@
 		
 		
 		
-			<lastBuildDate>Thu, 10 Apr 2003 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://www.kapchits.online/en/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/en/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Some results of the Somali paremiological experiment in Berlin and Arhus</title>
-				<link>https://www.kapchits.online/en/publications/articles/paremiological-experiment/</link>
+				<link>http://localhost:1313/en/publications/articles/paremiological-experiment/</link>
 				<pubDate>Thu, 10 Apr 2003 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/publications/articles/paremiological-experiment/</guid>
+				<guid>http://localhost:1313/en/publications/articles/paremiological-experiment/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Paper read at the 4th International Conference of Cushitic and Omotic Languages, Leiden, 10–12 April 2003.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Paremia is a Greek word which means saying, parable; paremiology refers to the philological branch of science dealing with proverbs, proverbial phrases and so on. The youngest branch of the science concerning proverbs, empirical paremiology, which operates statistical methods of analysis, is directed at the establishing of paremiological minima of different cultures. The paremiological minimum is a minimal set of proverbs, sayings and other paremias, the learning of which is necessary for the understanding of any language, whether native or foreign. The fact is that paremias not only decorate speech, but also serve as a convenient means of expressing typical real or thinkable situations, the signs and model of which they are.&lt;/p&gt;</description>
 			</item>
 	</channel>
