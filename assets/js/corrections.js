@@ -178,6 +178,50 @@
   /* --- подсветка состояния правок ------------------------------------ */
   function esc(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+"); }
 
+  /* Все текстовые узлы контента — в одну строку с картой смещений, чтобы
+     фрагмент находился, даже когда он разорван тегами (<strong>2001</strong>,
+     ссылки и т.п.). Без этого подсветка ловила только цельные куски. */
+  function textIndex() {
+    var root = document.querySelector(".sec-content, .right-content, main") || document.body;
+    var w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (n) {
+        if (!n.nodeValue) return NodeFilter.FILTER_REJECT;
+        var p = n.parentNode;
+        if (p && p.closest && p.closest(
+          "mark.pravka-pending,mark.pravka-applied,.pravka-badge,.pravka-dialog,.pravka-btn,script,style"))
+          return NodeFilter.FILTER_REJECT;
+        return NodeFilter.FILTER_ACCEPT;
+      }
+    });
+    var pieces = [], text = "", n;
+    while ((n = w.nextNode())) { pieces.push({ node: n, start: text.length }); text += n.nodeValue; }
+    return { text: text, pieces: pieces };
+  }
+
+  /* Обернуть диапазон [gs, ge) склеенной строки в <mark>, разбивая нужные
+     текстовые узлы. Каждый кусок — отдельный узел, поэтому splitText одного
+     не задевает другие. */
+  function wrapRange(idx, gs, ge, cls, title) {
+    var segs = [];
+    for (var i = 0; i < idx.pieces.length; i++) {
+      var pc = idx.pieces[i], ns = pc.start, ne = pc.start + pc.node.nodeValue.length;
+      if (ne <= gs || ns >= ge) continue;
+      segs.push({ node: pc.node, s: Math.max(gs, ns) - ns, e: Math.min(ge, ne) - ns });
+    }
+    var wrapped = false;
+    for (var j = 0; j < segs.length; j++) {
+      var node = segs[j].node, s = segs[j].s, e = segs[j].e, len = node.nodeValue.length;
+      if (e <= s) continue;
+      if (e < len) node.splitText(e);
+      var target = s > 0 ? node.splitText(s) : node;
+      var mk = document.createElement("mark");
+      mk.className = cls; mk.title = title;
+      target.parentNode.insertBefore(mk, target); mk.appendChild(target);
+      wrapped = true;
+    }
+    return wrapped;
+  }
+
   function markFragment(it) {
     var word = it.state === "open" ? it.oldText : it.newText;
     if (!word || word.length < 2) return false;
@@ -187,24 +231,16 @@
     var pats = [];
     if (pre || suf) { try { pats.push(new RegExp(pre + "\\s*" + core + "\\s*" + suf, "d")); } catch (e) {} }
     try { pats.push(new RegExp(core, "d")); } catch (e) {}
-    var root = document.querySelector(".sec-content, .right-content, main") || document.body;
+    var idx = textIndex();
+    var cls = it.state === "open" ? "pravka-pending" : "pravka-applied";
+    var title = it.state === "open"
+      ? "Предложено (#" + it.number + "): " + it.newText + (it.note ? " — " + it.note : "")
+      : "Применено (#" + it.number + "). Прежде было: " + it.oldText;
     for (var p = 0; p < pats.length; p++) {
-      var w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT), node;
-      while ((node = w.nextNode())) {
-        if (node.parentNode && node.parentNode.closest &&
-            node.parentNode.closest("mark.pravka-pending,mark.pravka-applied,.pravka-badge,.pravka-dialog,.pravka-btn")) continue;
-        var mm = pats[p].exec(node.nodeValue);
-        if (mm && mm.indices && mm.indices[1]) {
-          var g = mm.indices[1];
-          var range = document.createRange();
-          range.setStart(node, g[0]); range.setEnd(node, g[1]);
-          var mk = document.createElement("mark");
-          mk.className = it.state === "open" ? "pravka-pending" : "pravka-applied";
-          mk.title = it.state === "open"
-            ? "Предложено (#" + it.number + "): " + it.newText + (it.note ? " — " + it.note : "")
-            : "Применено (#" + it.number + "). Прежде было: " + it.oldText;
-          try { range.surroundContents(mk); return true; } catch (e) { return false; }
-        }
+      var mm = pats[p].exec(idx.text);
+      if (mm && mm.indices && mm.indices[1]) {
+        var g = mm.indices[1];
+        if (wrapRange(idx, g[0], g[1], cls, title)) return true;
       }
     }
     return false;
