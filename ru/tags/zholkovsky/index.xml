@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Zholkovsky on Kapchits.Online</title>
-		<link>http://localhost:1313/ru/tags/zholkovsky/</link>
+		<link>https://www.kapchits.online/ru/tags/zholkovsky/</link>
 		<description>Recent content in Zholkovsky on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -12,20 +12,20 @@
 		
 			<lastBuildDate>Wed, 28 Oct 2009 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/ru/tags/zholkovsky/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.kapchits.online/ru/tags/zholkovsky/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>«Пусть Иновещание вернётся на отметку 1964 года»: интервью с А. К. Жолковским</title>
-				<link>http://localhost:1313/ru/news/intervyu-zholkovskogo/</link>
+				<link>https://www.kapchits.online/ru/news/intervyu-zholkovskogo/</link>
 				<pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/ru/news/intervyu-zholkovskogo/</guid>
+				<guid>https://www.kapchits.online/ru/news/intervyu-zholkovskogo/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Интервью, взятое Георгием Капчицем у Александра Константиновича Жолковского и опубликованное «Голосом России» 28 октября 2009 года. Здесь Капчиц выступает не автором очерка, а интервьюером: его собеседник — профессор славистики Университета Южной Калифорнии, первый русскоязычный диктор сомалийской редакции Московского радио и учитель Капчица.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Предлагаем слушателям «Голоса России» интервью с учёным и писателем Александром Жолковским. Он живёт в Санта Монике (США), является профессором славистики в Университете Южной Калифорнии. Жолковский — пионер изучения языка сомали в России, первый русскоязычный диктор этого языка на Московском радио. Наш обозреватель Георгий Капчиц, ученик и друг Жолковского, попросил его откликнуться на юбилей Иновещания. Вот их беседа, записанная по телефону.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Интервью порталу WardheerNews (2006): избранные фрагменты</title>
-				<link>http://localhost:1313/ru/news/wardheer-interview/</link>
+				<link>https://www.kapchits.online/ru/news/wardheer-interview/</link>
 				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/ru/news/wardheer-interview/</guid>
-				<description>&lt;p&gt;25 января 2006 года портал &lt;strong&gt;WardheerNews.com&lt;/strong&gt; опубликовал большое интервью с д-ром Георгием Капчицем. Интервью на сомалийском языке взял &lt;strong&gt;Isamail A. Hassan («Khaliil»)&lt;/strong&gt;. В то время Капчиц жил в Берлине и работал над словарём сомалийских пословиц. Материал перепечатали другие сомалийские сайты, и он стал одной из самых читаемых публикаций WardheerNews того года.&lt;/p&gt;&#xA;&lt;p&gt;Полный сомалийский оригинал: &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/so/news/wareysi-wardheernews/&#34;&gt;Wareysigii ay mareegtada WardheerNews la yeelatay Dr. Georgi Kapchits&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ниже — избранные фрагменты в русском переводе. Это выдержки, а не полный текст интервью.&lt;/p&gt;</description>
+				<guid>https://www.kapchits.online/ru/news/wardheer-interview/</guid>
+				<description>&lt;p&gt;25 января 2006 года портал &lt;strong&gt;WardheerNews.com&lt;/strong&gt; опубликовал большое интервью с д-ром Георгием Капчицем. Интервью на сомалийском языке взял &lt;strong&gt;Isamail A. Hassan («Khaliil»)&lt;/strong&gt;. В то время Капчиц жил в Берлине и работал над словарём сомалийских пословиц. Материал перепечатали другие сомалийские сайты, и он стал одной из самых читаемых публикаций WardheerNews того года.&lt;/p&gt;&#xA;&lt;p&gt;Полный сомалийский оригинал: &lt;strong&gt;&lt;a href=&#34;https://www.kapchits.online/so/news/wareysi-wardheernews/&#34;&gt;Wareysigii ay mareegtada WardheerNews la yeelatay Dr. Georgi Kapchits&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ниже — избранные фрагменты в русском переводе. Это выдержки, а не полный текст интервью.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

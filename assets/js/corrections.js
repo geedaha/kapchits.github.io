@@ -87,7 +87,7 @@
     '<textarea id="pravka-note" rows="2"></textarea>' +
     '<div class="pravka-actions">' +
     '<button value="send" class="pravka-send">Отправить</button>' +
-    '<button value="cancel" formnovalidate>Отмена</button>' +
+    '<button value="cancel" class="pravka-cancel" formnovalidate>Отмена</button>' +
     "</div>" +
     '<p class="pravka-status" data-status hidden></p>' +
     "</form>";
@@ -116,6 +116,9 @@
         hint.hidden = false; break;
       }
     }
+    /* вернуть кнопки в исходное состояние (после прошлой отправки могли смениться) */
+    dlg.querySelector(".pravka-send").hidden = false;
+    dlg.querySelector(".pravka-cancel").textContent = "Отмена";
     setStatus(""); dlg.showModal();
   });
 
@@ -123,6 +126,12 @@
     var el = dlg.querySelector("[data-status]");
     el.hidden = !msg; el.textContent = msg;
     el.className = "pravka-status" + (ok ? " ok" : "");
+  }
+
+  /* после успешной отправки: убрать «Отправить», «Отмену» сделать «Закрыть» */
+  function done() {
+    dlg.querySelector(".pravka-send").hidden = true;
+    dlg.querySelector(".pravka-cancel").textContent = "Закрыть";
   }
 
   dlg.querySelector(".pravka-send").addEventListener("click", function (e) {
@@ -141,6 +150,7 @@
     if (TEST) {
       console.log("ПРОБА, правка не отправлена:\n" + title + "\n\n" + body);
       setStatus("Проба: правка показана в консоли, никуда не отправлена.", true);
+      done();
       return;
     }
     setStatus("Отправляю…");
@@ -152,6 +162,7 @@
     }).then(function (r) { return r.status === 201 ? r.json() : Promise.reject(r.status); })
       .then(function (issue) {
         setStatus("Спасибо! Правка отправлена и будет учтена.", true);
+        done();
         /* сразу подсветить фрагмент жёлтым и запомнить */
         var it = { number: issue.number, state: "open", oldText: current.text,
                    newText: replacement, prefix: current.prefix, suffix: current.suffix, note: note };

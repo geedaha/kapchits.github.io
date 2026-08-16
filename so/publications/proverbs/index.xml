@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Cilmi-baarista Maahmaahyada Soomaaliyeed on Kapchits.Online</title>
-		<link>http://localhost:1313/so/publications/proverbs/</link>
+		<link>https://www.kapchits.online/so/publications/proverbs/</link>
 		<description>Recent content in Cilmi-baarista Maahmaahyada Soomaaliyeed on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -12,13 +12,13 @@
 		
 			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/so/publications/proverbs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.kapchits.online/so/publications/proverbs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Maahmaahyada bogga lagu tuso</title>
-				<link>http://localhost:1313/so/publications/proverbs/selection/</link>
+				<link>https://www.kapchits.online/so/publications/proverbs/selection/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/so/publications/proverbs/selection/</guid>
-				<description>&lt;p&gt;Mid ka mid ah ayaa ka soo baxa &lt;a href=&#34;http://localhost:1313/so/&#34;&gt;bogga hore&lt;/a&gt; mar kasta oo la furo. Halkan waa liiska oo dhan.&lt;/p&gt;&#xA;&lt;p&gt;Laba boqol iyo sagaal iyo afartan ka mid ah waa xaddiga ugu yar ee maahmaahyada Soomaaliyeed: maahmaahyadii &lt;a href=&#34;http://localhost:1313/so/research/projects/&#34;&gt;tijaabada maahmaahyada&lt;/a&gt; ay ku heshay inay yaqaanaan wax ka badan kalabar dadkii la weydiiyay. Waxay u kala horreeyaan sidii tijaabadu dhigtay, laga bilaabo maahmaahdii qof walba yaqaanay ilaa kuwa ay yaqaanaan wax yar oo ka badan kalabar. &lt;strong&gt;Boqolkiibtaasi waa natiijada&lt;/strong&gt; — waana waxa liiskan ka dhigaya wax aan ahayn ururin caadi ah.&lt;/p&gt;</description>
+				<guid>https://www.kapchits.online/so/publications/proverbs/selection/</guid>
+				<description>&lt;p&gt;Mid ka mid ah ayaa ka soo baxa &lt;a href=&#34;https://www.kapchits.online/so/&#34;&gt;bogga hore&lt;/a&gt; mar kasta oo la furo. Halkan waa liiska oo dhan.&lt;/p&gt;&#xA;&lt;p&gt;Laba boqol iyo sagaal iyo afartan ka mid ah waa xaddiga ugu yar ee maahmaahyada Soomaaliyeed: maahmaahyadii &lt;a href=&#34;https://www.kapchits.online/so/research/projects/&#34;&gt;tijaabada maahmaahyada&lt;/a&gt; ay ku heshay inay yaqaanaan wax ka badan kalabar dadkii la weydiiyay. Waxay u kala horreeyaan sidii tijaabadu dhigtay, laga bilaabo maahmaahdii qof walba yaqaanay ilaa kuwa ay yaqaanaan wax yar oo ka badan kalabar. &lt;strong&gt;Boqolkiibtaasi waa natiijada&lt;/strong&gt; — waana waxa liiskan ka dhigaya wax aan ahayn ururin caadi ah.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
