@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Warbixinno on Kapchits.Online</title>
-		<link>https://www.kapchits.online/so/categories/warbixinno/</link>
+		<link>http://localhost:1313/so/categories/warbixinno/</link>
 		<description>Recent content in Warbixinno on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 09 Aug 2003 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/so/categories/warbixinno/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/so/categories/warbixinno/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ururka Aabbayaasha Soomaaliyeed ee Ottawa iyo booqashadii Dr. Georgi Kapchits</title>
-				<link>https://www.kapchits.online/so/news/booqasho-ottawa/</link>
+				<link>http://localhost:1313/so/news/booqasho-ottawa/</link>
 				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/news/booqasho-ottawa/</guid>
+				<guid>http://localhost:1313/so/news/booqasho-ottawa/</guid>
 				<description>&lt;p&gt;Ururka Aabbayaasha Soomaaliyeed ee Ottawa (Kanada), wuxuu in dhoweydba ku foognaa baadhitaanno dhawr ah oo uu ka mid ahaa sidii loo ogaan lahaa loona maarayn lahaa waxa keenay (ama abuuray) kala qaaraanka ku dhacay qoysas badan oo Soomaaliyeed, qaar kalana ay halis ugu jiraan.&lt;/p&gt;&#xA;&lt;p&gt;Baadhitaankaasi waxa lagu ogaaday jiritaanka xidhiidh la&amp;rsquo;aanta ka dhex aloosan walcanka iyo ubadkooda, taasi oo keentay iney dhalliyaro badani ka tasoobaan qoysaskoodii. Si tabaalooyinkaa loo maareeyo, kuwa soo foollena looga feejignaado oo looga hortago wuxu ururku qabanqaabiyey aqoon-isweydaarsiyo dhawr ah oo loogu talagalay sidii dhalinta loogu soo dabbaali lahaa barashada Af-soomaaliga. Waxa kale oo aqoon-isweydaarsigaasi ka dhalatay oo laysla af-gartay in la soo martiqaado Dr. Georgi Kapchits oo u dhashay dalka Ruushka ahna aqoonyahan ku xeel dheer afka iyo dhaqanka Soomaaliyeed, kana dhiga af-soomaaliga Jaamacadda Moosko ee dalka Ruushka iyo Jaamacadda Berlin ee dalka Jarmalka, si uu u xaradhaamiyo dhalinyaro badan oo hadda ka maagaysa ama aan iskuba lurin, barashada afka hooyo.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -566,6 +566,22 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
 .pravka-actions .pravka-send:hover{ background:#275881; }
 .pravka-status{ margin:.9rem 0 0; color:#7b241c; }
 .pravka-status.ok{ color:#1e6641; }
+.pravka-hint{
+  margin:0 0 1rem; padding:.5rem .8rem;
+  background:#eef4fb; border-left:3px solid #9fc3e8; border-radius:3px;
+  font-size:.95rem; color:#33404f;
+}
+/* Подсветка состояния правок — очень лёгкая, только в режиме токена */
+mark.pravka-pending{
+  background:rgba(255,214,0,.20);          /* легчайший жёлтый — ожидает */
+  color:inherit; border-radius:2px; cursor:help;
+  box-shadow:0 0 0 1px rgba(255,193,7,.28);
+}
+mark.pravka-applied{
+  background:rgba(102,187,106,.18);         /* легчайший зелёный — применено */
+  color:inherit; border-radius:2px; cursor:help;
+  box-shadow:0 0 0 1px rgba(76,175,80,.26);
+}
 
 /* ---- Полосы узнаваемости и комментарий автора (12.08.2026) ----------- */
 .proverb-band{

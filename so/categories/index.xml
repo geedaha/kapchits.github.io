@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Kapchits.Online</title>
-		<link>https://www.kapchits.online/so/categories/</link>
+		<link>http://localhost:1313/so/categories/</link>
 		<description>Recent content in Categories on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/so/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/so/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Wareysiyo</title>
-				<link>https://www.kapchits.online/so/categories/wareysiyo/</link>
+				<link>http://localhost:1313/so/categories/wareysiyo/</link>
 				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/categories/wareysiyo/</guid>
+				<guid>http://localhost:1313/so/categories/wareysiyo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Qoraallo</title>
-				<link>https://www.kapchits.online/so/categories/qoraallo/</link>
+				<link>http://localhost:1313/so/categories/qoraallo/</link>
 				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/categories/qoraallo/</guid>
+				<guid>http://localhost:1313/so/categories/qoraallo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Warbixinno</title>
-				<link>https://www.kapchits.online/so/categories/warbixinno/</link>
+				<link>http://localhost:1313/so/categories/warbixinno/</link>
 				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/categories/warbixinno/</guid>
+				<guid>http://localhost:1313/so/categories/warbixinno/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Af-Soomaali on Kapchits.Online</title>
-		<link>https://www.kapchits.online/so/tags/af-soomaali/</link>
+		<link>http://localhost:1313/so/tags/af-soomaali/</link>
 		<description>Recent content in Af-Soomaali on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/so/tags/af-soomaali/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/so/tags/af-soomaali/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Wareysi aynu la yeelanay Dr. Georgi Kapchits</title>
-				<link>https://www.kapchits.online/so/news/wareysi-aadan-makiina/</link>
+				<link>http://localhost:1313/so/news/wareysi-aadan-makiina/</link>
 				<pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/news/wareysi-aadan-makiina/</guid>
-				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 18 Maajo 2024. Wareysigii waxaa qaaday&#xA;Aadan Makiina. Qoraalku waa mid halkan loogu keenay in la kaydiyo, isagoo aan waxba laga&#xA;beddelin; xuquuqda qoraalka waxaa iska leh mareegtada daabacday. Wareysiyadii hore:&#xA;&lt;a href=&#34;https://www.kapchits.online/so/news/wareysi-wardheernews/&#34;&gt;WardheerNews 2006&lt;/a&gt; iyo&#xA;&lt;a href=&#34;https://www.kapchits.online/so/news/hal-sano-ka-dib/&#34;&gt;dib-u-eegistii 2006&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Oraahda Wareystaha:&lt;/em&gt; Waxaan fursad uhelay inaan wareysto Dr. Georgi Kapchits oo ah odey ku taqasusay af Soomaaliga iyo af Amxaariga, kuna dhashay dalka Ruushka, siiba Midowgi Sofyeetigii hore. Waa faylasuf, qoraa, aftahan, wuxuuna heybad ku leeyahay ummadda Soomaaliyeed, waayo, maqaalada iyo buugaagta uu ku qoray af Soomaaliga ayaa u sabab ah in la qaddariyo. Haddaba, iga guddooma wareysigii oo dhammeystiran.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/so/news/wareysi-aadan-makiina/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 18 Maajo 2024. Wareysigii waxaa qaaday&#xA;Aadan Makiina. Qoraalku waa mid halkan loogu keenay in la kaydiyo, isagoo aan waxba laga&#xA;beddelin; xuquuqda qoraalka waxaa iska leh mareegtada daabacday. Wareysiyadii hore:&#xA;&lt;a href=&#34;http://localhost:1313/so/news/wareysi-wardheernews/&#34;&gt;WardheerNews 2006&lt;/a&gt; iyo&#xA;&lt;a href=&#34;http://localhost:1313/so/news/hal-sano-ka-dib/&#34;&gt;dib-u-eegistii 2006&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Oraahda Wareystaha:&lt;/em&gt; Waxaan fursad uhelay inaan wareysto Dr. Georgi Kapchits oo ah odey ku taqasusay af Soomaaliga iyo af Amxaariga, kuna dhashay dalka Ruushka, siiba Midowgi Sofyeetigii hore. Waa faylasuf, qoraa, aftahan, wuxuuna heybad ku leeyahay ummadda Soomaaliyeed, waayo, maqaalada iyo buugaagta uu ku qoray af Soomaaliga ayaa u sabab ah in la qaddariyo. Haddaba, iga guddooma wareysigii oo dhammeystiran.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hal sano ka dib markii aan wareystay Dr. Kapchits</title>
-				<link>https://www.kapchits.online/so/news/hal-sano-ka-dib/</link>
+				<link>http://localhost:1313/so/news/hal-sano-ka-dib/</link>
 				<pubDate>Sat, 16 Dec 2006 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/news/hal-sano-ka-dib/</guid>
-				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 16 Diseembar 2006. Waxaa qoray Isamail A. Hassan (Khaliil). Waa dib u eegis lagu sameeyay &lt;a href=&#34;https://www.kapchits.online/so/news/wareysi-wardheernews/&#34;&gt;wareysigii Janaayo 2006&lt;/a&gt;. Qoraalku waa mid taariikhi ah oo halkan loogu keenay in la kaydiyo; xuquuqda qoraalka waxaa iska leh mareegtada daabacday.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Waxaan qorsheeyey in ilaa sannadkan(2006) dabayaaqadiisa aan soo gabagabeeyo Qaamuuska weyn ee maahmaahaha soomaaliyeed, hase ahaate waa aan ku dhacay. Sababta u weyni waa in maahmaahihii aan hore u soo ururiyey ay ku darsameen kumanyaal kale oo qaarkood aan ka helay akhristayaasha kaddib markii aad daabacday wareysigaygii. Ilaa maanta ayay ila soo xiriiraan akhristeyaasha Wardheernews, taasoo aan raalli ka ahay. Mahadsanid”&lt;/p&gt;</description>
+				<guid>http://localhost:1313/so/news/hal-sano-ka-dib/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 16 Diseembar 2006. Waxaa qoray Isamail A. Hassan (Khaliil). Waa dib u eegis lagu sameeyay &lt;a href=&#34;http://localhost:1313/so/news/wareysi-wardheernews/&#34;&gt;wareysigii Janaayo 2006&lt;/a&gt;. Qoraalku waa mid taariikhi ah oo halkan loogu keenay in la kaydiyo; xuquuqda qoraalka waxaa iska leh mareegtada daabacday.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Waxaan qorsheeyey in ilaa sannadkan(2006) dabayaaqadiisa aan soo gabagabeeyo Qaamuuska weyn ee maahmaahaha soomaaliyeed, hase ahaate waa aan ku dhacay. Sababta u weyni waa in maahmaahihii aan hore u soo ururiyey ay ku darsameen kumanyaal kale oo qaarkood aan ka helay akhristayaasha kaddib markii aad daabacday wareysigaygii. Ilaa maanta ayay ila soo xiriiraan akhristeyaasha Wardheernews, taasoo aan raalli ka ahay. Mahadsanid”&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Wareysigii ay mareegtada WardheerNews la yeelatay Dr. Georgi Kapchits</title>
-				<link>https://www.kapchits.online/so/news/wareysi-wardheernews/</link>
+				<link>http://localhost:1313/so/news/wareysi-wardheernews/</link>
 				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/news/wareysi-wardheernews/</guid>
+				<guid>http://localhost:1313/so/news/wareysi-wardheernews/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay mareegtada WardheerNews.com, 25 Janaayo 2006. Wareysigii waxaa qaaday Isamail A. Hassan (Khaliil). Qoraalku waa mid taariikhi ah oo halkan loogu keenay in la kaydiyo; xuquuqda qoraalka waxaa iska leh mareegtada daabacday.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dr. Kapchits:&lt;/strong&gt; Gacaliye Khaliil waad mahadsantahay. Waxaa jirta maahmaah tidhaahda ‘waayeel afkaaga fur, ilkahaaga aan tiriyee lama yidhaahdo’. Kaftan weeye, nin furfuran baan ahaye.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;hordhac&#34;&gt;Hordhac&lt;/h2&gt;&#xA;&lt;p&gt;Waraysi xiiso badan oo ay WardheerNews la yeelatay aqoonyahanka Ruushka ah ee Dr. Georgi Kapchits oo hadda booqasho ku jooga wadanka Jarmalka.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ururka Aabbayaasha Soomaaliyeed ee Ottawa iyo booqashadii Dr. Georgi Kapchits</title>
-				<link>https://www.kapchits.online/so/news/booqasho-ottawa/</link>
+				<link>http://localhost:1313/so/news/booqasho-ottawa/</link>
 				<pubDate>Sat, 09 Aug 2003 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/news/booqasho-ottawa/</guid>
+				<guid>http://localhost:1313/so/news/booqasho-ottawa/</guid>
 				<description>&lt;p&gt;Ururka Aabbayaasha Soomaaliyeed ee Ottawa (Kanada), wuxuu in dhoweydba ku foognaa baadhitaanno dhawr ah oo uu ka mid ahaa sidii loo ogaan lahaa loona maarayn lahaa waxa keenay (ama abuuray) kala qaaraanka ku dhacay qoysas badan oo Soomaaliyeed, qaar kalana ay halis ugu jiraan.&lt;/p&gt;&#xA;&lt;p&gt;Baadhitaankaasi waxa lagu ogaaday jiritaanka xidhiidh la&amp;rsquo;aanta ka dhex aloosan walcanka iyo ubadkooda, taasi oo keentay iney dhalliyaro badani ka tasoobaan qoysaskoodii. Si tabaalooyinkaa loo maareeyo, kuwa soo foollena looga feejignaado oo looga hortago wuxu ururku qabanqaabiyey aqoon-isweydaarsiyo dhawr ah oo loogu talagalay sidii dhalinta loogu soo dabbaali lahaa barashada Af-soomaaliga. Waxa kale oo aqoon-isweydaarsigaasi ka dhalatay oo laysla af-gartay in la soo martiqaado Dr. Georgi Kapchits oo u dhashay dalka Ruushka ahna aqoonyahan ku xeel dheer afka iyo dhaqanka Soomaaliyeed, kana dhiga af-soomaaliga Jaamacadda Moosko ee dalka Ruushka iyo Jaamacadda Berlin ee dalka Jarmalka, si uu u xaradhaamiyo dhalinyaro badan oo hadda ka maagaysa ama aan iskuba lurin, barashada afka hooyo.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hal-Aqoon oo wareysi la yeeshay Dr. Georgi Kapchits</title>
-				<link>https://www.kapchits.online/so/news/wareysi-hal-aqoon/</link>
+				<link>http://localhost:1313/so/news/wareysi-hal-aqoon/</link>
 				<pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/news/wareysi-hal-aqoon/</guid>
+				<guid>http://localhost:1313/so/news/wareysi-hal-aqoon/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Waxaa lagu daabacay &amp;lsquo;Hal-Aqoon&amp;rsquo;, Xidhmada 2aad, tirsiga 1aad, 2002.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hal-aqoon:&lt;/strong&gt; Dr. Georgi, ugu horrayn waxaan jeclaan lahaa inaad warbixin kooban naga siisid mahadhadaada?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Georgi:&lt;/strong&gt; Haddii la soo koobo, waxaan ku dhashay Midowga Soofiyeeti gu&amp;rsquo;gu kolkuu ahaa 1939kii. Intii u dhexeysay 1967kii iyo 1994kii waxaan ka shaqeeyey Laanta af-Soomaaliga ee Raadiyow Moosko. Kaddib markii la xiray Qaybtii Afrika ayaa waxaan u gudbay Qaybta wararka oo aan faalleeye ka ahay. Mararka qaarkood waxaan af-Soomaaliga ka dhigaa Jaamacadda Moosko iyo Jaamacadaha ka furan Berliin. Xaas wanaagsan baan leeyahay. Waxay ii dhashay laba gabdhood. Waxaan kaloo leeyahay laba gabdhood oo ay sii dhaleen (aan awow u ahay). Ninkii seexdaa saciis dibi dhalay!&lt;/p&gt;</description>
 			</item>
 	</channel>
