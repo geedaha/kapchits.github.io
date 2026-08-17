@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Naxwaha iyo Dhismaha Jumlada on Kapchits.Online</title>
-		<link>http://localhost:1313/so/somalistics/grammar/</link>
+		<link>https://www.kapchits.online/so/somalistics/grammar/</link>
 		<description>Recent content in Naxwaha iyo Dhismaha Jumlada on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/so/somalistics/grammar/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.kapchits.online/so/somalistics/grammar/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

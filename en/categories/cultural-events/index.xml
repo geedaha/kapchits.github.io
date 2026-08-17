@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Cultural-Events on Kapchits.Online</title>
-		<link>http://localhost:1313/en/categories/cultural-events/</link>
+		<link>https://www.kapchits.online/en/categories/cultural-events/</link>
 		<description>Recent content in Cultural-Events on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 16 Jul 2012 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/en/categories/cultural-events/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.kapchits.online/en/categories/cultural-events/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Guardian on the Hargeisa Book Fair</title>
-				<link>http://localhost:1313/en/news/guardian-hargeisa-book-fair/</link>
+				<link>https://www.kapchits.online/en/news/guardian-hargeisa-book-fair/</link>
 				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/guardian-hargeisa-book-fair/</guid>
+				<guid>https://www.kapchits.online/en/news/guardian-hargeisa-book-fair/</guid>
 				<description>&lt;p&gt;In July 2012 &lt;em&gt;The Guardian&lt;/em&gt; reported on the fifth Hargeisa International Book Fair under the title &lt;strong&gt;&amp;ldquo;Somaliland&amp;rsquo;s Hargeisa book festival celebrates fifth year&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The festival — founded by Jama Musse Jama and described in the report as the Horn of Africa&amp;rsquo;s answer to Hay-on-Wye — was held in a workers&amp;rsquo; club in the centre of the city, with ribbons in the colours of the national flag, tents selling watermelon, and armed guards at the gate. The report set out what the organisers were trying to do: preserve the oral tradition, fill a cultural vacuum left by two decades of collapse, and give young people something other than khat and recruitment by al-Shabaab. It described the work of setting up reading clubs and libraries across six regions.&lt;/p&gt;</description>
 			</item>
 	</channel>

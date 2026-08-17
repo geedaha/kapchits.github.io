@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Reviews on Kapchits.Online</title>
-		<link>http://localhost:1313/en/categories/reviews/</link>
+		<link>https://www.kapchits.online/en/categories/reviews/</link>
 		<description>Recent content in Reviews on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/en/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.kapchits.online/en/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Reviews</title>
-				<link>http://localhost:1313/en/publications/reviews/</link>
+				<link>https://www.kapchits.online/en/publications/reviews/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/publications/reviews/</guid>
+				<guid>https://www.kapchits.online/en/publications/reviews/</guid>
 				<description>&lt;p&gt;This page gathers information about responses to Dr. Kapchits&amp;rsquo;s books and about the work of colleagues connected with his research. Copyright in these reviews and articles belongs to their authors and publishers, so the full texts are not reproduced here: each item is given with its bibliographic details and a summary of its contents. Short quotations appear in quotation marks with the author named.&lt;/p&gt;&#xA;&lt;h2 id=&#34;reviews-of-the-books&#34;&gt;Reviews of the books&lt;/h2&gt;&#xA;&lt;h3 id=&#34;b-w-andrzejewski&#34;&gt;B. W. Andrzejewski&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Review of: G. L. Kapchits. Somali Proverbs and Sayings in Somali and Russian with Russian Equivalents. Moscow: Nauka, 1983. 283 pp.&lt;/em&gt;&#xA;&lt;em&gt;Published in: Bulletin of the School of Oriental and African Studies, Vol. XLIX, Part 2, 1986, pp. 420–422.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
