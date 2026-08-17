@@ -730,6 +730,50 @@ mark.pravka-applied{
   .book-cover{ float:none; margin:0 auto 1.2rem; width:170px; }
 }
 
+/* ---- Бейджи рецензий у книги (17.08.2026) ----------------------------
+   Короткое превью отзыва рядом с книгой; ведёт якорной ссылкой на полный
+   разбор на странице рецензий. Ставится только там, где такая страница
+   есть (en, ru): в сомалийской версии раздела отзывов пока нет. */
+.book-reviews{ display:flex; flex-wrap:wrap; gap:.5rem; margin:.7rem 0 0; clear:none; }
+.review-badge{
+  display:block;
+  /* 18rem: две рецензии у одной книги встают в один ряд, а не столбиком */
+  max-width:18rem;
+  padding:.45rem .6rem .5rem;
+  border:1px solid #dde3ea;
+  border-left:3px solid #c8a96a;
+  border-radius:3px;
+  background:#fbfcfd;
+  text-decoration:none;
+  transition:border-color .15s, background .15s;
+}
+.right-content .review-badge{ border-bottom:1px solid #dde3ea; }
+.review-badge:hover{ background:#f4f8fc; border-color:#2b95ff; }
+.right-content .review-badge:hover{ border-bottom-color:#2b95ff; }
+.review-badge .rb-src{
+  display:block;
+  color:#64748b;
+  font-size:.78rem;
+  letter-spacing:.02em;
+}
+.review-badge .rb-quote{
+  display:block;
+  margin-top:.15rem;
+  color:#33404f;
+  font-size:.9rem;
+  font-style:italic;
+  line-height:1.4;
+}
+.review-badge .rb-who{
+  display:block;
+  margin-top:.2rem;
+  color:#0b62a4;
+  font-size:.8rem;
+}
+@media (max-width:700px){
+  .review-badge{ max-width:100%; }
+}
+
 /* ---- Список пословиц (страница selection, 11.08.2026) ---------------- */
 .proverb-list{ margin:1.6rem 0 2rem; }
 .proverb-loading{ color:#9aa5b1; font-style:italic; }
