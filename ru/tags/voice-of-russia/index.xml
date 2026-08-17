@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Voice-of-Russia on Kapchits.Online</title>
-		<link>https://www.kapchits.online/ru/tags/voice-of-russia/</link>
+		<link>http://localhost:1313/ru/tags/voice-of-russia/</link>
 		<description>Recent content in Voice-of-Russia on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -12,47 +12,47 @@
 		
 			<lastBuildDate>Wed, 28 Oct 2009 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/ru/tags/voice-of-russia/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ru/tags/voice-of-russia/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>«Пусть Иновещание вернётся на отметку 1964 года»: интервью с А. К. Жолковским</title>
-				<link>https://www.kapchits.online/ru/news/intervyu-zholkovskogo/</link>
+				<link>http://localhost:1313/ru/news/intervyu-zholkovskogo/</link>
 				<pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/intervyu-zholkovskogo/</guid>
+				<guid>http://localhost:1313/ru/news/intervyu-zholkovskogo/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Интервью, взятое Георгием Капчицем у Александра Константиновича Жолковского и опубликованное «Голосом России» 28 октября 2009 года. Здесь Капчиц выступает не автором очерка, а интервьюером: его собеседник — профессор славистики Университета Южной Калифорнии, первый русскоязычный диктор сомалийской редакции Московского радио и учитель Капчица.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Предлагаем слушателям «Голоса России» интервью с учёным и писателем Александром Жолковским. Он живёт в Санта Монике (США), является профессором славистики в Университете Южной Калифорнии. Жолковский — пионер изучения языка сомали в России, первый русскоязычный диктор этого языка на Московском радио. Наш обозреватель Георгий Капчиц, ученик и друг Жолковского, попросил его откликнуться на юбилей Иновещания. Вот их беседа, записанная по телефону.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Очерки о Сомали (2009)</title>
-				<link>https://www.kapchits.online/ru/news/ocherki-o-somali-2009/</link>
+				<link>http://localhost:1313/ru/news/ocherki-o-somali-2009/</link>
 				<pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/ocherki-o-somali-2009/</guid>
+				<guid>http://localhost:1313/ru/news/ocherki-o-somali-2009/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Оглавление цикла путевых очерков Георгия Капчица о поездке в Сомали в мае 2009 года.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;В мае 2009 года обозреватель «Голоса России» Георгий Капчиц побывал в Сомали в качестве переводчика и консультанта съёмочной группы одной из российских телевизионных компаний — руководителя группы Владимира Синельникова и оператора Александра Кублицкого. За две недели они проехали все три части некогда единой страны: Сомали на юге, Сомалиленд на севере и разместившийся между ними Пунтленд. Капчиц встречался с президентами и министрами, рыбаками и пиратами, жителями городов и поселков, побывал в Могадишо, рыбацком поселке Эйль, столице Пунтленда Гароуэ и портовом городе Босасо.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Очерки о Сомали. Встречи</title>
-				<link>https://www.kapchits.online/ru/news/ocherki-o-somali-vstrechi/</link>
+				<link>http://localhost:1313/ru/news/ocherki-o-somali-vstrechi/</link>
 				<pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/ocherki-o-somali-vstrechi/</guid>
+				<guid>http://localhost:1313/ru/news/ocherki-o-somali-vstrechi/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Четвёртый, заключительный очерк цикла Георгия Капчица о поездке в Сомали в мае 2009 года. В качестве переводчика и консультанта съёмочной группы российской телекомпании он побывал в Сомали, Сомалиленде и Пунтленде.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Обозреватель «Голоса России» Георгий Капчиц недавно вернулся из Сомали. В качестве переводчика и консультанта съемочной группы одной из российских телевизионных компаний он побывал во всех трех частях этой некогда единой страны: в Сомали — на юге, Сомалиленде — на севере и разместившемся между ними Пунтленде. Встречался с президентами и министрами, рыбаками и пиратами, жителями городов и поселков. По итогам поездки он написал серию очерков о Сомали. В нашем эфире уже прозвучали три из них — «Страна поэтов и пиратов», «Могадишо. Двадцать лет спустя» и «Пираты 21 века». Предлагаем вашему вниманию четвертый, заключительный очерк серии — «Встречи».&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Пираты 21 века</title>
-				<link>https://www.kapchits.online/ru/news/piraty-21-veka/</link>
+				<link>http://localhost:1313/ru/news/piraty-21-veka/</link>
 				<pubDate>Wed, 10 Jun 2009 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/piraty-21-veka/</guid>
+				<guid>http://localhost:1313/ru/news/piraty-21-veka/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Третий очерк цикла Георгия Капчица о поездке в Сомали в мае 2009 года. В качестве переводчика и консультанта съёмочной группы российской телекомпании он побывал в Сомали, Сомалиленде и Пунтленде.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Обозреватель «Голоса России» Георгий Капчиц недавно вернулся из Сомали. В качестве переводчика и консультанта съемочной группы одной из российских телевизионных компаний он побывал во всех трех частях этой некогда единой страны: в Сомали — на юге, Сомалиленде — на севере и разместившемся между ними Пунтленде. Встречался с президентами и министрами, рыбаками и пиратами, жителями городов и поселков. По итогам поездки он написал серию очерков о Сомали. Первый — «Страна поэтов и пиратов», второй — «Могадишо. Двадцать лет спустя», третий очерк — «Пираты 21 века».&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Могадишо. 20 лет спустя</title>
-				<link>https://www.kapchits.online/ru/news/mogadisho-20-let-spustya/</link>
+				<link>http://localhost:1313/ru/news/mogadisho-20-let-spustya/</link>
 				<pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/mogadisho-20-let-spustya/</guid>
+				<guid>http://localhost:1313/ru/news/mogadisho-20-let-spustya/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Второй очерк цикла Георгия Капчица о поездке в Сомали в мае 2009 года. В качестве переводчика и консультанта съёмочной группы российской телекомпании он побывал в Сомали, Сомалиленде и Пунтленде.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Обозреватель «Голоса России» Георгий Капчиц только что вернулся из Сомали. В качестве переводчика и консультанта съемочной группы одной из российских телевизионных компаний он побывал во всех трех частях этой некогда единой страны. По итогам поездки он написал серию очерков о Сомали. Предлагаем вашему вниманию второй его очерк — «Могадишо. Двадцать лет спустя».&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Сомали: «страна поэтов и пиратов»</title>
-				<link>https://www.kapchits.online/ru/news/somali-strana-poetov-i-piratov/</link>
+				<link>http://localhost:1313/ru/news/somali-strana-poetov-i-piratov/</link>
 				<pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/somali-strana-poetov-i-piratov/</guid>
+				<guid>http://localhost:1313/ru/news/somali-strana-poetov-i-piratov/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Первый очерк цикла Георгия Капчица о поездке в Сомали в мае 2009 года. В качестве переводчика и консультанта съёмочной группы российской телекомпании он побывал в Сомали, Сомалиленде и Пунтленде.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Обозреватель «Голоса России» Георгий Капчиц вернулся из Сомали. В качестве переводчика и консультанта съемочной группы одной из российских телевизионных компаний он побывал во всех трех частях этой некогда единой страны. Встречался с президентами и министрами, рыбаками и пиратами, жителями городов и поселков. Наш сотрудник — автор книг и статей о Сомали (с ними можно познакомиться на его сайте kapchits.narod.ru). Поэтому, кроме увиденного в этой стране в течение двух недель, он поделится с вами сведениями об образе жизни, культуре и традициях сомалийцев, переживающих сейчас один из самый сложных периодов своей истории. Первый из очерков Георгия Капчица о Сомали — «Страна поэтов и пиратов».&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
