@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Diaspora on Kapchits.Online</title>
-		<link>https://www.kapchits.online/en/tags/diaspora/</link>
+		<link>http://localhost:1313/en/tags/diaspora/</link>
 		<description>Recent content in Diaspora on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,20 +12,20 @@
 		
 			<lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/en/tags/diaspora/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/en/tags/diaspora/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Introduction to Aliqeyr Mohamed Nur&#39;s &#34;Dhibkii Dheef Baa Ka Dambaysay&#34;</title>
-				<link>https://www.kapchits.online/en/publications/articles/introduction-well-being-after-suffering/</link>
+				<link>http://localhost:1313/en/publications/articles/introduction-well-being-after-suffering/</link>
 				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/publications/articles/introduction-well-being-after-suffering/</guid>
+				<guid>http://localhost:1313/en/publications/articles/introduction-well-being-after-suffering/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Kapchits&amp;rsquo;s introduction to the book&lt;/em&gt; Dhibkii Dheef Baa Ka Dambaysay &lt;em&gt;(«Well-being after&#xA;suffering») by the Somali writer Aliqeyr Mohamed Nur — Caliqeyr Muxumed Nuur in Somali&#xA;orthography. Published by Omhassan Publisher, Spånga, Sweden; ISBN 91-976661-3-0.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;On the old site this introduction existed only as a scanned image, which means it could&#xA;not be read by search engines, quoted or cited. It is transcribed here from that scan,&#xA;which is reproduced below. The text carries no date of its own; the scanned file dates&#xA;from February 2014.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The WardheerNews Interview (2006): Selected Passages</title>
-				<link>https://www.kapchits.online/en/news/wardheer-interview/</link>
+				<link>http://localhost:1313/en/news/wardheer-interview/</link>
 				<pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/news/wardheer-interview/</guid>
-				<description>&lt;p&gt;On 25 January 2006 the website &lt;strong&gt;WardheerNews.com&lt;/strong&gt; published a long interview with Dr. Georgi Kapchits, conducted in Somali by &lt;strong&gt;Isamail A. Hassan (“Khaliil”)&lt;/strong&gt;. Dr. Kapchits was staying in Berlin at the time, working on his dictionary of Somali proverbs. The interview was picked up by other Somali websites and became one of the most widely read pieces WardheerNews published that year.&lt;/p&gt;&#xA;&lt;p&gt;The full Somali original is reproduced here: &lt;strong&gt;&lt;a href=&#34;https://www.kapchits.online/so/news/wareysi-wardheernews/&#34;&gt;Wareysigii ay mareegtada WardheerNews la yeelatay Dr. Georgi Kapchits&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/en/news/wardheer-interview/</guid>
+				<description>&lt;p&gt;On 25 January 2006 the website &lt;strong&gt;WardheerNews.com&lt;/strong&gt; published a long interview with Dr. Georgi Kapchits, conducted in Somali by &lt;strong&gt;Isamail A. Hassan (“Khaliil”)&lt;/strong&gt;. Dr. Kapchits was staying in Berlin at the time, working on his dictionary of Somali proverbs. The interview was picked up by other Somali websites and became one of the most widely read pieces WardheerNews published that year.&lt;/p&gt;&#xA;&lt;p&gt;The full Somali original is reproduced here: &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/so/news/wareysi-wardheernews/&#34;&gt;Wareysigii ay mareegtada WardheerNews la yeelatay Dr. Georgi Kapchits&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

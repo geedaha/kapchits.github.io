@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Kapchits.Online</title>
-		<link>https://www.kapchits.online/en/categories/</link>
+		<link>http://localhost:1313/en/categories/</link>
 		<description>Recent content in Categories on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,82 +12,82 @@
 		
 			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/en/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Reviews</title>
-				<link>https://www.kapchits.online/en/categories/reviews/</link>
+				<link>http://localhost:1313/en/categories/reviews/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/reviews/</guid>
+				<guid>http://localhost:1313/en/categories/reviews/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Articles</title>
-				<link>https://www.kapchits.online/en/categories/articles/</link>
+				<link>http://localhost:1313/en/categories/articles/</link>
 				<pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/articles/</guid>
+				<guid>http://localhost:1313/en/categories/articles/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cultural-Events</title>
-				<link>https://www.kapchits.online/en/categories/cultural-events/</link>
+				<link>http://localhost:1313/en/categories/cultural-events/</link>
 				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/cultural-events/</guid>
+				<guid>http://localhost:1313/en/categories/cultural-events/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>International-Press</title>
-				<link>https://www.kapchits.online/en/categories/international-press/</link>
+				<link>http://localhost:1313/en/categories/international-press/</link>
 				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/international-press/</guid>
+				<guid>http://localhost:1313/en/categories/international-press/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Interviews</title>
-				<link>https://www.kapchits.online/en/categories/interviews/</link>
+				<link>http://localhost:1313/en/categories/interviews/</link>
 				<pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/interviews/</guid>
+				<guid>http://localhost:1313/en/categories/interviews/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Essays</title>
-				<link>https://www.kapchits.online/en/categories/essays/</link>
+				<link>http://localhost:1313/en/categories/essays/</link>
 				<pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/essays/</guid>
+				<guid>http://localhost:1313/en/categories/essays/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Anthropology</title>
-				<link>https://www.kapchits.online/en/categories/anthropology/</link>
+				<link>http://localhost:1313/en/categories/anthropology/</link>
 				<pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/anthropology/</guid>
+				<guid>http://localhost:1313/en/categories/anthropology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cushitic-Studies</title>
-				<link>https://www.kapchits.online/en/categories/cushitic-studies/</link>
+				<link>http://localhost:1313/en/categories/cushitic-studies/</link>
 				<pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/cushitic-studies/</guid>
+				<guid>http://localhost:1313/en/categories/cushitic-studies/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Linguistics</title>
-				<link>https://www.kapchits.online/en/categories/linguistics/</link>
+				<link>http://localhost:1313/en/categories/linguistics/</link>
 				<pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/linguistics/</guid>
+				<guid>http://localhost:1313/en/categories/linguistics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Paremiology</title>
-				<link>https://www.kapchits.online/en/categories/paremiology/</link>
+				<link>http://localhost:1313/en/categories/paremiology/</link>
 				<pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/paremiology/</guid>
+				<guid>http://localhost:1313/en/categories/paremiology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Conferences</title>
-				<link>https://www.kapchits.online/en/categories/conferences/</link>
+				<link>http://localhost:1313/en/categories/conferences/</link>
 				<pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/en/categories/conferences/</guid>
+				<guid>http://localhost:1313/en/categories/conferences/</guid>
 				<description></description>
 			</item>
 	</channel>

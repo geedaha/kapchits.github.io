@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>About the author on Kapchits.Online</title>
+		<link>http://localhost:1313/en/drkapchits/</link>
+		<description>Recent content in About the author on Kapchits.Online</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/drkapchits/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Books</title>
+				<link>http://localhost:1313/en/drkapchits/books/</link>
+				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/drkapchits/books/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Twelve books in chronological order: the title as printed, the imprint, and the reviews each received. The full catalogue with covers and annotations is on the [main site](/en/publications/monographs/).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Articles</title>
+				<link>http://localhost:1313/en/drkapchits/articles/</link>
+				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/drkapchits/articles/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;The bibliography below is the one kept on the main site, shown here without the pages around it; where a full text is on the site, the entry links to it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reviews</title>
+				<link>http://localhost:1313/en/drkapchits/reviews/</link>
+				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/drkapchits/reviews/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Every review and response known to the project, one line each; the line links to the full summary with bibliographic details.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

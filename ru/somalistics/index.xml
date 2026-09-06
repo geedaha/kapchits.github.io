@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Сомалистика on Kapchits.Online</title>
-		<link>https://www.kapchits.online/ru/somalistics/</link>
+		<link>http://localhost:1313/ru/somalistics/</link>
 		<description>Recent content in Сомалистика on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/ru/somalistics/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ru/somalistics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Лексические глоссарии</title>
-				<link>https://www.kapchits.online/ru/somalistics/lexicon/</link>
+				<link>http://localhost:1313/ru/somalistics/lexicon/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/somalistics/lexicon/</guid>
+				<guid>http://localhost:1313/ru/somalistics/lexicon/</guid>
 				<description>&lt;p&gt;Лексикологическая работа занимает в сомалистике Г. Л. Капчица особое место. Наряду с изучением грамматики и паремиологии он собрал и опубликовал глоссарии тех семантических полей, которые прежде были описаны лишь в общих чертах, — прежде всего терминологию родства и архаичную лексику дробей, сохранившуюся в традиционных текстах.&lt;/p&gt;&#xA;&lt;h2 id=&#34;терминология-родства&#34;&gt;Терминология родства&lt;/h2&gt;&#xA;&lt;p&gt;Наиболее полный из этих глоссариев — свод сомалийских терминов родства, составленный Г. Л. Капчицем совместно с В. Я. Порхомовским и опубликованный в «Semito-Hamitic Festschrift» (Berlin: Dietrich Reimer Verlag, 2008, с. 155–160). Свод насчитывает от 34 до 38 терминов.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Медиа и радио</title>
-				<link>https://www.kapchits.online/ru/somalistics/videos/</link>
+				<link>http://localhost:1313/ru/somalistics/videos/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/somalistics/videos/</guid>
+				<guid>http://localhost:1313/ru/somalistics/videos/</guid>
 				<description>&lt;p&gt;Рядом с академической работой большая часть профессиональной жизни Г. Л. Капчица прошла в эфире — и многое из написанного им о Сомали адресовалось не коллегам, а слушателям. Эта страница собирает то, что относится к этой стороне дела.&lt;/p&gt;&#xA;&lt;h2 id=&#34;радио&#34;&gt;Радио&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Сомалийская редакция Московского радио, 1967–1994.&lt;/strong&gt; Двадцать семь лет ежедневной работы на сомалийском — диктором и переводчиком, для аудитории, которая мгновенно заметила бы небрежность. Редакцию закрыли в 1994 году.&lt;/p&gt;&#xA;&lt;p&gt;Слушатели были не только аудиторией. Многие пословицы в собраниях пришли по почте от людей, слышавших передачи, — привычка к переписке пережила саму редакцию и продолжается до сих пор.&lt;/p&gt;</description>
 			</item>
 	</channel>

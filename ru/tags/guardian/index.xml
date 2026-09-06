@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Guardian on Kapchits.Online</title>
-		<link>https://www.kapchits.online/ru/tags/guardian/</link>
+		<link>http://localhost:1313/ru/tags/guardian/</link>
 		<description>Recent content in Guardian on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 16 Jul 2012 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/ru/tags/guardian/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ru/tags/guardian/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Guardian о книжной ярмарке в Харгейсе</title>
-				<link>https://www.kapchits.online/ru/news/guardian-hargeisa-book-fair/</link>
+				<link>http://localhost:1313/ru/news/guardian-hargeisa-book-fair/</link>
 				<pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/news/guardian-hargeisa-book-fair/</guid>
+				<guid>http://localhost:1313/ru/news/guardian-hargeisa-book-fair/</guid>
 				<description>&lt;p&gt;В июле 2012 года газета &lt;em&gt;The Guardian&lt;/em&gt; напечатала репортаж с пятой Международной книжной ярмарки в Харгейсе под заголовком &lt;strong&gt;«Somaliland&amp;rsquo;s Hargeisa book festival celebrates fifth year»&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Фестиваль, основанный Джамой Муссе Джамой, назван в репортаже ответом Африканского Рога на Хей-он-Уай. Он проходил в рабочем клубе в центре города — ленты цветов национального флага, палатки с арбузами, вооружённая охрана у входа. Репортёр изложил и то, ради чего всё это затевалось: сохранить устную традицию, заполнить культурный вакуум, оставшийся после двух десятилетий распада, и дать молодёжи занятие, отличное от ката и вербовки в «Аш-Шабаб». Отдельно описана работа по созданию читательских клубов и библиотек в шести областях страны.&lt;/p&gt;</description>
 			</item>
 	</channel>

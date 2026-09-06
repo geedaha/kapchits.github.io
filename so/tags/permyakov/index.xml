@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Permyakov on Kapchits.Online</title>
-		<link>https://www.kapchits.online/so/tags/permyakov/</link>
+		<link>http://localhost:1313/so/tags/permyakov/</link>
 		<description>Recent content in Permyakov on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -12,13 +12,13 @@
 		
 			<lastBuildDate>Fri, 26 Feb 2016 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/so/tags/permyakov/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/so/tags/permyakov/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Gacan gadaal ka baqaysaa geed ma goyso!</title>
-				<link>https://www.kapchits.online/so/publications/articles/gacan-gadaal-ka-baqaysaa-geed-ma-goyso/</link>
+				<link>http://localhost:1313/so/publications/articles/gacan-gadaal-ka-baqaysaa-geed-ma-goyso/</link>
 				<pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/publications/articles/gacan-gadaal-ka-baqaysaa-geed-ma-goyso/</guid>
-				<description>&lt;p&gt;&lt;em&gt;Qoraal uu Dr. Georgi Kapchits ku daabacay WardheerNews 26 Febraayo 2016, isagoo ka jawaabaya maqaalka Cabdirisaaq Baraag &amp;ldquo;Ayax teg, eelna reeb&amp;rdquo;. Baraag wuxuu ugu jawaabay &lt;a href=&#34;https://wardheernews.com/hubsiino-hal-baa-la-siistaa/&#34;&gt;&amp;ldquo;Hubsiino hal baa la siistaa&amp;rdquo;&lt;/a&gt; (WardheerNews, 27 Maarso 2016), qoraaguna doodda wuxuu ku soo gabagabeeyey qoraalka &lt;a href=&#34;https://www.kapchits.online/so/publications/articles/nin-habari-dhashay-hal-ma-seegi-waayo/&#34;&gt;&amp;ldquo;Nin habari dhashay hal ma seegi waayo&amp;rdquo;&lt;/a&gt; (6 Abriil 2016), kaasoo uu ku saxay hadalka halkan ku jira ee ku saabsan buugga Sh. Maxamed Cabdi Makaahiil. Qoraalku halkan wuxuu u yaal sidii uu qoraagu u qoray, waxbana lagama beddelin.&lt;/em&gt;&lt;/p&gt;</description>
+				<guid>http://localhost:1313/so/publications/articles/gacan-gadaal-ka-baqaysaa-geed-ma-goyso/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Qoraal uu Dr. Georgi Kapchits ku daabacay WardheerNews 26 Febraayo 2016, isagoo ka jawaabaya maqaalka Cabdirisaaq Baraag &amp;ldquo;Ayax teg, eelna reeb&amp;rdquo;. Baraag wuxuu ugu jawaabay &lt;a href=&#34;https://wardheernews.com/hubsiino-hal-baa-la-siistaa/&#34;&gt;&amp;ldquo;Hubsiino hal baa la siistaa&amp;rdquo;&lt;/a&gt; (WardheerNews, 27 Maarso 2016), qoraaguna doodda wuxuu ku soo gabagabeeyey qoraalka &lt;a href=&#34;http://localhost:1313/so/publications/articles/nin-habari-dhashay-hal-ma-seegi-waayo/&#34;&gt;&amp;ldquo;Nin habari dhashay hal ma seegi waayo&amp;rdquo;&lt;/a&gt; (6 Abriil 2016), kaasoo uu ku saxay hadalka halkan ku jira ee ku saabsan buugga Sh. Maxamed Cabdi Makaahiil. Qoraalku halkan wuxuu u yaal sidii uu qoraagu u qoray, waxbana lagama beddelin.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

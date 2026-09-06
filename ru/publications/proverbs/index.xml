@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Исследование сомалийских пословиц on Kapchits.Online</title>
-		<link>https://www.kapchits.online/ru/publications/proverbs/</link>
+		<link>http://localhost:1313/ru/publications/proverbs/</link>
 		<description>Recent content in Исследование сомалийских пословиц on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -12,13 +12,13 @@
 		
 			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/ru/publications/proverbs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ru/publications/proverbs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Пословицы, которые показываются на сайте</title>
-				<link>https://www.kapchits.online/ru/publications/proverbs/selection/</link>
+				<link>http://localhost:1313/ru/publications/proverbs/selection/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/publications/proverbs/selection/</guid>
-				<description>&lt;p&gt;Одна из них показывается на &lt;a href=&#34;https://www.kapchits.online/ru/&#34;&gt;главной странице&lt;/a&gt; при каждом заходе. Здесь — весь набор.&lt;/p&gt;&#xA;&lt;p&gt;Двести сорок девять из них составляют сомалийский паремиологический минимум: пословицы, которые &lt;a href=&#34;https://www.kapchits.online/ru/research/projects/&#34;&gt;паремиологический эксперимент&lt;/a&gt; обнаружил известными более чем половине опрошенных носителей. Они идут в том порядке, который установил эксперимент, — от единственной пословицы, которую знали все до одного, до тех, кого знает чуть больше половины. &lt;strong&gt;Этот процент и есть результат&lt;/strong&gt;, он и отличает список от простой антологии.&lt;/p&gt;&#xA;&lt;p&gt;Корпус взят из собрания «Hubsiimo hal baa la siistaa» (Москва, 2002). Ещё четыре пословицы процитированы в работах, опубликованных на этом сайте, и там их можно прочесть в контексте.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/ru/publications/proverbs/selection/</guid>
+				<description>&lt;p&gt;Одна из них показывается на &lt;a href=&#34;http://localhost:1313/ru/&#34;&gt;главной странице&lt;/a&gt; при каждом заходе. Здесь — весь набор.&lt;/p&gt;&#xA;&lt;p&gt;Двести сорок девять из них составляют сомалийский паремиологический минимум: пословицы, которые &lt;a href=&#34;http://localhost:1313/ru/research/projects/&#34;&gt;паремиологический эксперимент&lt;/a&gt; обнаружил известными более чем половине опрошенных носителей. Они идут в том порядке, который установил эксперимент, — от единственной пословицы, которую знали все до одного, до тех, кого знает чуть больше половины. &lt;strong&gt;Этот процент и есть результат&lt;/strong&gt;, он и отличает список от простой антологии.&lt;/p&gt;&#xA;&lt;p&gt;Корпус взят из собрания «Hubsiimo hal baa la siistaa» (Москва, 2002). Ещё четыре пословицы процитированы в работах, опубликованных на этом сайте, и там их можно прочесть в контексте.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

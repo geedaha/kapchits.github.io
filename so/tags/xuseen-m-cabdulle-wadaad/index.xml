@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Xuseen-M-Cabdulle-Wadaad on Kapchits.Online</title>
-		<link>https://www.kapchits.online/so/tags/xuseen-m-cabdulle-wadaad/</link>
+		<link>http://localhost:1313/so/tags/xuseen-m-cabdulle-wadaad/</link>
 		<description>Recent content in Xuseen-M-Cabdulle-Wadaad on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>so-so</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.kapchits.online/so/tags/xuseen-m-cabdulle-wadaad/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/so/tags/xuseen-m-cabdulle-wadaad/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Gorfeynta buugga «Godob iyo Gallad»</title>
-				<link>https://www.kapchits.online/so/publications/articles/gorfeynta-buugga-godob-iyo-gallad/</link>
+				<link>http://localhost:1313/so/publications/articles/gorfeynta-buugga-godob-iyo-gallad/</link>
 				<pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/so/publications/articles/gorfeynta-buugga-godob-iyo-gallad/</guid>
+				<guid>http://localhost:1313/so/publications/articles/gorfeynta-buugga-godob-iyo-gallad/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Gorfeyn uu Dr. Georgi Kapchits ku daabacay WardheerNews 24 Abriil 2021. Buugga la gorfeeyey waa qisada «Godob iyo Gallad» ee Xuseen M. Cabdulle (Wadaad). Qoraalku halkan wuxuu u yaal sidii uu qoraagu u qoray, waxbana lagama beddelin.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Godob iyo Gallad&amp;rdquo; waa qiso ka sheekeyneysa wixii ka dhacay magaalo hebla sanooyinkii toddobaatameeyadii ee qarnigii la soo dhaafay. Hase yeeshee in ay magaaladaasi ahayd Muqdisho shaki kuma jiro, maadaama si fudud loogu aqoonsan karo astaamo dhowr ah. Waxaa ka mid ah afguriga buuggani uu ku qoran yahay, ayna ku hadlaan dadka uu ku saabsan yahay.&lt;/p&gt;</description>
 			</item>
 	</channel>
