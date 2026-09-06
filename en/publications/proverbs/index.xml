@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Somali Proverbs Research on Kapchits.Online</title>
-		<link>http://localhost:1313/en/publications/proverbs/</link>
+		<link>https://www.kapchits.online/en/publications/proverbs/</link>
 		<description>Recent content in Somali Proverbs Research on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,13 +12,13 @@
 		
 			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/en/publications/proverbs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.kapchits.online/en/publications/proverbs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The proverbs shown on this site</title>
-				<link>http://localhost:1313/en/publications/proverbs/selection/</link>
+				<link>https://www.kapchits.online/en/publications/proverbs/selection/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/publications/proverbs/selection/</guid>
-				<description>&lt;p&gt;One of these appears on the &lt;a href=&#34;http://localhost:1313/en/&#34;&gt;front page&lt;/a&gt; each time it is loaded. The whole set is listed here.&lt;/p&gt;&#xA;&lt;p&gt;Two hundred and forty-nine of them are the Somali paremiological minimum: the proverbs that the &lt;a href=&#34;http://localhost:1313/en/research/projects/&#34;&gt;paremiological experiment&lt;/a&gt; found to be known to more than half of the speakers questioned. They are given below in the order the experiment established, from the one proverb every single respondent knew down to those known to just over half. &lt;strong&gt;That percentage is the finding&lt;/strong&gt;, and it is what makes this list something other than an anthology.&lt;/p&gt;</description>
+				<guid>https://www.kapchits.online/en/publications/proverbs/selection/</guid>
+				<description>&lt;p&gt;One of these appears on the &lt;a href=&#34;https://www.kapchits.online/en/&#34;&gt;front page&lt;/a&gt; each time it is loaded. The whole set is listed here.&lt;/p&gt;&#xA;&lt;p&gt;Two hundred and forty-nine of them are the Somali paremiological minimum: the proverbs that the &lt;a href=&#34;https://www.kapchits.online/en/research/projects/&#34;&gt;paremiological experiment&lt;/a&gt; found to be known to more than half of the speakers questioned. They are given below in the order the experiment established, from the one proverb every single respondent knew down to those known to just over half. &lt;strong&gt;That percentage is the finding&lt;/strong&gt;, and it is what makes this list something other than an anthology.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

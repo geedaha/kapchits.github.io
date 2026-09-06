@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Об авторе on Kapchits.Online</title>
-		<link>http://localhost:1313/ru/drkapchits/</link>
+		<link>https://www.kapchits.online/ru/drkapchits/</link>
 		<description>Recent content in Об авторе on Kapchits.Online</description>
 		<generator>Hugo</generator>
 		<language>ru-ru</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/ru/drkapchits/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.kapchits.online/ru/drkapchits/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Книги</title>
-				<link>http://localhost:1313/ru/drkapchits/books/</link>
+				<link>https://www.kapchits.online/ru/drkapchits/books/</link>
 				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/ru/drkapchits/books/</guid>
+				<guid>https://www.kapchits.online/ru/drkapchits/books/</guid>
 				<description>&lt;p class=&#34;v-lead&#34;&gt;Двенадцать книг в хронологическом порядке: название как на титуле, выходные данные и рецензии на каждую. Полный каталог с обложками и аннотациями — на [основном сайте](/ru/publications/monographs/).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Статьи</title>
-				<link>http://localhost:1313/ru/drkapchits/articles/</link>
+				<link>https://www.kapchits.online/ru/drkapchits/articles/</link>
 				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/ru/drkapchits/articles/</guid>
+				<guid>https://www.kapchits.online/ru/drkapchits/articles/</guid>
 				<description>&lt;p class=&#34;v-lead&#34;&gt;Ниже — та же библиография, что ведётся на основном сайте, без окружающих её страниц; там, где полный текст есть на сайте, из позиции стоит ссылка.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Отзывы</title>
-				<link>http://localhost:1313/ru/drkapchits/reviews/</link>
+				<link>https://www.kapchits.online/ru/drkapchits/reviews/</link>
 				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/ru/drkapchits/reviews/</guid>
+				<guid>https://www.kapchits.online/ru/drkapchits/reviews/</guid>
 				<description>&lt;p class=&#34;v-lead&#34;&gt;Все известные проекту рецензии и отклики, по строке на каждый; строка ведёт к полному изложению с выходными данными.&lt;/p&gt;</description>
 			</item>
 	</channel>
