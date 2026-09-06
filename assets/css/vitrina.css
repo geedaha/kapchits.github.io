@@ -83,3 +83,8 @@ mark { background: #fff2a8; color: inherit; }
   .v-top, .v-nav, .v-foot { display: none; }
   body { font-size: 11pt; background: #fff; }
 }
+
+/* переключатель версий сайта */
+.view-switch { display: flex; gap: .35rem; margin: .9rem 0 0; font-size: .78rem; letter-spacing: .04em; }
+.view-switch a { color: #5b6470; padding: .15rem .6rem; border: 1px solid #d9dcd6; border-radius: 999px; background: #fff; text-decoration: none; }
+.view-switch a.active { background: #1f2429; color: #fff; border-color: #1f2429; }

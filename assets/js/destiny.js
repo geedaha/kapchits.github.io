@@ -20,11 +20,12 @@
   events.forEach(function (e) { e.inbound = []; });
   events.forEach(function (e) { (e.related || []).forEach(function (r) { if (byId[r]) byId[r].inbound.push(e.id); }); });
 
-  var state = { layer: null, q: "", event: null };
+  var state = { layer: null, q: "", event: null, place: null };
   var $tl = document.getElementById("d-timeline"), $layers = document.getElementById("d-layers"),
       $panel = document.getElementById("d-panel"), $count = document.getElementById("d-count"),
       $search = document.getElementById("d-search"), $app = document.getElementById("d-app"),
-      $map = document.getElementById("d-map");
+      $places = document.getElementById("d-places");
+  var placeKey = function (e) { return e.place ? (e.place.lat + "," + e.place.lon) : null; };
 
   function fmtDate(d) {
     d = String(d); var p = d.split("-");
@@ -54,6 +55,7 @@
   // ---------- лента
   function visible(e) {
     if (state.layer && e.layer !== state.layer) return false;
+    if (state.place && placeKey(e) !== state.place) return false;
     if (state.q) {
       var hay = (L(e.title) + " " + (e.place ? L(e.place.name) : "") + " " + L(e.note) + " " + e.year).toLowerCase();
       if (hay.indexOf(state.q) < 0) return false;
@@ -108,8 +110,9 @@
       li.classList.toggle("sel", state.event === e.id);
     });
     Array.prototype.forEach.call($tl.querySelectorAll(".d-decade"), function (li) { li.hidden = !decadeHas[li.getAttribute("data-decade")]; });
-    $count.textContent = ui.stops.replace("{n}", shown) + (state.layer ? " · " + byLayer[state.layer].label : "") + (state.q ? ' · «' + state.q + '»' : "");
-    renderLayers(); drawMap();
+    var pl = state.place && events.filter(function (x) { return placeKey(x) === state.place; })[0];
+    $count.textContent = ui.stops.replace("{n}", shown) + (state.layer ? " · " + byLayer[state.layer].label : "") + (pl ? " · " + L(pl.place.name) : "") + (state.q ? ' · «' + state.q + '»' : "");
+    renderLayers(); renderPlaces();
     if (shown === 0) $count.textContent += " — " + ui.nothing;
   }
 
@@ -164,6 +167,7 @@
     var p = [];
     if (state.layer) p.push("layer=" + state.layer);
     if (state.event) p.push("event=" + encodeURIComponent(state.event));
+    if (state.place) p.push("place=" + encodeURIComponent(state.place));
     if (state.q) p.push("q=" + encodeURIComponent(state.q));
     var h = p.length ? "#" + p.join("&") : location.pathname + location.search;
     if (location.hash !== (p.length ? h : "")) history.replaceState(null, "", h);
@@ -172,12 +176,41 @@
     var m = {}; location.hash.replace(/^#/, "").split("&").forEach(function (kv) { var i = kv.indexOf("="); if (i > 0) m[kv.slice(0, i)] = decodeURIComponent(kv.slice(i + 1)); });
     state.layer = byLayer[m.layer] ? m.layer : null;
     state.event = byId[m.event] ? m.event : null;
+    state.place = (m.place && events.some(function (e) { return placeKey(e) === m.place; })) ? m.place : null;
     state.q = (m.q || "").toLowerCase(); $search.value = m.q || "";
   }
   window.addEventListener("hashchange", function () { readHash(); renderPanel(); apply(); });
 
-  // ---------- карта: геометки и пунктирный маршрут (без береговых линий)
+  // ---------- перечень мест: клик фильтрует остановки по месту; числа — с учётом слоя и поиска
+  function renderPlaces() {
+    if (!$places) return;
+    var acc = {};
+    events.forEach(function (e) {
+      var k = placeKey(e); if (!k) return;
+      var a = acc[k] || (acc[k] = { key: k, name: L(e.place.name), lat: e.place.lat, lon: e.place.lon, total: 0, n: 0, years: [] });
+      a.total++; a.years.push(e.year);
+      var save = state.place; state.place = null; if (visible(e)) a.n++; state.place = save;
+    });
+    var list = Object.keys(acc).map(function (k) { return acc[k]; }).sort(function (a, b) { return b.n - a.n || b.total - a.total || a.name.localeCompare(b.name); });
+    var selE = state.event && byId[state.event], selKey = selE ? placeKey(selE) : null;
+    var html = '<li><button class="d-place' + (state.place ? "" : " active") + '" data-place=""><span>' + esc(ui.all_places) + '</span><span class="n">' + list.length + '</span></button></li>';
+    list.forEach(function (p) {
+      var y0 = Math.min.apply(null, p.years), y1 = Math.max.apply(null, p.years);
+      html += '<li><button class="d-place' + (state.place === p.key ? " active" : "") + (p.n ? "" : " zero") + (selKey === p.key ? " here" : "") + '" data-place="' + p.key + '">' +
+        '<span>' + esc(p.name) + '</span><span class="n">' + p.n + '</span>' +
+        '<span class="yrs">' + (y0 === y1 ? y0 : y0 + "–" + y1) + '</span><span class="geo">' + p.lat.toFixed(2) + ", " + p.lon.toFixed(2) + '</span></button></li>';
+    });
+    $places.innerHTML = html;
+  }
+  if ($places) $places.addEventListener("click", function (ev) {
+    var b = ev.target.closest(".d-place"); if (!b) return;
+    var k = b.getAttribute("data-place") || null;
+    state.place = (state.place === k) ? null : k; apply(); pushHash();
+  });
+
+  // ---------- карта (не используется: слева перечень мест; оставлена на случай возврата к канвасу)
   function drawMap() {
+    var $map = document.getElementById("d-map");
     if (!$map || !$map.getContext) return;
     var ctx = $map.getContext("2d"), dpr = window.devicePixelRatio || 1;
     var cssW = $map.clientWidth || 300, cssH = cssW; $map.width = cssW * dpr; $map.height = cssH * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
@@ -213,7 +246,7 @@
       ctx.fillText(L(p.e.place.name), X(p.lon) + 7, Y(p.lat) + 3.5);
     });
   }
-  window.addEventListener("resize", drawMap);
+  if (document.getElementById("d-map")) window.addEventListener("resize", drawMap);
 
   // ---------- старт
   renderTimeline(); readHash(); renderPanel(); apply();

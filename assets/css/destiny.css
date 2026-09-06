@@ -35,8 +35,16 @@ button { font: inherit; color: inherit; }
 
 .d-search input { width: 100%; padding: .45rem .6rem; border: 1px solid #cfd3cc; border-radius: 3px; background: #fff; font: inherit; font-size: .9rem; }
 
-.d-map canvas { width: 100%; height: auto; display: block; background: #f7f7f4; border: 1px solid #dfe2dd; border-radius: 3px; }
-.d-map-hint { font-size: .74rem; color: #6b737c; margin: .4rem 0 0; }
+/* перечень мест: клик фильтрует остановки по месту */
+.d-h { font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; color: #6b737c; font-weight: 600; margin-bottom: .3rem; }
+.d-places ol { list-style: none; margin: 0; padding: 0; }
+.d-place { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 0 .5rem; width: 100%; text-align: left; padding: .28rem .5rem; border: 0; border-radius: 3px; background: transparent; cursor: pointer; font-size: .86rem; line-height: 1.25; }
+.d-place:hover { background: #e8eae4; }
+.d-place.active { background: #fff; box-shadow: inset 3px 0 0 #2e7d6b; font-weight: 600; }
+.d-place.zero { opacity: .4; }
+.d-place .yrs { grid-column: 1; font-size: .74rem; color: #6b737c; font-variant-numeric: tabular-nums; }
+.d-place .n { font-variant-numeric: tabular-nums; font-size: .76rem; color: #6b737c; grid-row: 1; grid-column: 2; }
+.d-place .geo { font-size: .7rem; color: #9aa2ab; font-variant-numeric: tabular-nums; grid-column: 1; }
 
 .d-links { margin-top: auto; display: flex; flex-direction: column; gap: .3rem; font-size: .85rem; }
 
@@ -104,10 +112,17 @@ mark { background: #fff2a8; color: inherit; }
   .d-left { position: static; height: auto; border-right: 0; border-bottom: 1px solid #dfe2dd; }
   .d-layers { flex-direction: row; flex-wrap: wrap; gap: .3rem; }
   .d-layer { width: auto; grid-template-columns: .7rem auto auto; padding: .25rem .5rem; border: 1px solid #dfe2dd; background: #fff; }
-  .d-map { display: none; }
+  .d-places ol { display: flex; flex-wrap: wrap; gap: .3rem; }
+  .d-place { width: auto; display: flex; gap: .4rem; border: 1px solid #dfe2dd; background: #fff; padding: .2rem .5rem; }
+  .d-place .yrs, .d-place .geo { display: none; }
   .d-links { flex-direction: row; gap: 1rem; }
   .d-main { padding: 1rem 1rem 3rem; }
   .d-right { position: fixed; inset: auto 0 0 0; height: 70vh; border-left: 0; border-top: 1px solid #dfe2dd; box-shadow: 0 -8px 24px rgba(0,0,0,.08); z-index: 5; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 @media print { .d-left, .d-right, .d-keys { display: none; } .d-app { display: block; } }
+
+/* переключатель версий сайта */
+.view-switch { display: flex; gap: .35rem; margin: .9rem 0 0; font-size: .78rem; letter-spacing: .04em; }
+.view-switch a { color: #5b6470; padding: .15rem .6rem; border: 1px solid #d9dcd6; border-radius: 999px; background: #fff; text-decoration: none; }
+.view-switch a.active { background: #1f2429; color: #fff; border-color: #1f2429; }

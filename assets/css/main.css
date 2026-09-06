@@ -797,3 +797,11 @@ mark.pravka-applied{
 .proverb-en, .proverb-ru{ display:block; line-height:1.5; }
 .proverb-en{ color:#33404f; }
 .proverb-ru{ color:#7b8794; font-size:.95rem; margin-top:.15rem; }
+
+/* ====================================================================
+   VIEW SWITCH — основной сайт · витрина · хронология (06.09.2026)
+   ==================================================================== */
+.view-switch { display: flex; justify-content: center; gap: .35rem; margin: -22px auto 18px; font-size: .8rem; letter-spacing: .04em; }
+.view-switch a { color: #5b6470; text-decoration: none; padding: .2rem .7rem; border: 1px solid #d9dcd6; border-radius: 999px; background: #fff; }
+.view-switch a:hover { border-color: #0b62a4; color: #0b62a4; }
+.view-switch a.active { background: #1f2429; color: #fff; border-color: #1f2429; }

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.kapchits.online/so/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reviews</title>
+				<link>https://www.kapchits.online/so/categories/reviews/</link>
+				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/categories/reviews/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Wareysiyo</title>
 				<link>https://www.kapchits.online/so/categories/wareysiyo/</link>
