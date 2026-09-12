@@ -96,6 +96,7 @@ mark { background: #fff2a8; color: inherit; }
 .vitrina-material main blockquote { margin: 1rem 0; padding: .4rem 1rem; border-left: 3px solid #c8a96a; color: #3c454f; }
 .vitrina-material main table { border-collapse: collapse; font-size: .92rem; }
 .vitrina-material main th, .vitrina-material main td { border-bottom: 1px solid #e6e8e3; padding: .35rem .6rem; text-align: left; vertical-align: top; }
+.vitrina-material h2, .vitrina-material h3 { clear: both; }
 .vitrina-material .book-cover { float: right; margin: 0 0 1rem 1.2rem; max-width: 9rem; }
 .vitrina-material .book-cover img { max-width: 100%; height: auto; border: 1px solid #dfe2dd; }
 .vitrina-material .book-reviews { display: flex; flex-wrap: wrap; gap: .5rem; margin: .6rem 0 1.4rem; padding: 0; }
