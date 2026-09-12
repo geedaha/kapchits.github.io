@@ -169,3 +169,7 @@ mark { background: #fff2a8; color: inherit; }
 .proverb-so { margin: 0; font-weight: 600; font-style: normal; border: 0; padding: 0; }
 .proverb-en, .proverb-ru { display: block; color: #3c454f; }
 .proverb-note { display: block; margin-top: .3rem; color: #7b8794; font-size: .88rem; line-height: 1.45; }
+
+/* кнопка внутри строки библиографии */
+.v-articles .v-btn { margin-left: .35rem; }
+.v-articles li { margin-bottom: .55rem; }
