@@ -1076,6 +1076,24 @@
     <loc>https://www.kapchits.online/en/tags/wiil-waal/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.kapchits.online/en/publications/reviews/alto-2011/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/reviews/alto-2011/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/reviews/alto-2011/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/reviews/alto-2011/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/en/tags/goosh/</loc>
     <lastmod>2009-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -1471,5 +1489,23 @@
   </url><url>
     <loc>https://www.kapchits.online/en/tags/somali-studies/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/publications/reviews/andrzejewski-1986/</loc>
+    <lastmod>1986-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/reviews/andrzejewski-1986/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/reviews/andrzejewski-1986/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/reviews/andrzejewski-1986/"
+                />
   </url>
 </urlset>

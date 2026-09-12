@@ -980,6 +980,24 @@
                 href="https://www.kapchits.online/ru/tags/somalilandsun/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/ru/publications/reviews/alto-2011/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/reviews/alto-2011/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/reviews/alto-2011/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/reviews/alto-2011/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/ru/news/intervyu-zholkovskogo/</loc>
     <lastmod>2009-10-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -1329,5 +1347,23 @@
   </url><url>
     <loc>https://www.kapchits.online/ru/tags/%D1%81%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/ru/publications/reviews/andrzejewski-1986/</loc>
+    <lastmod>1986-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/reviews/andrzejewski-1986/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/reviews/andrzejewski-1986/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/reviews/andrzejewski-1986/"
+                />
   </url>
 </urlset>

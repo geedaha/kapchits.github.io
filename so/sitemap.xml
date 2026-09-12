@@ -933,6 +933,24 @@
                 href="https://www.kapchits.online/so/publications/reviews/aliqeyr-2012/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/so/publications/reviews/alto-2011/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/reviews/alto-2011/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/reviews/alto-2011/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/reviews/alto-2011/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/so/publications/reviews/banti-2008/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1064,5 +1082,23 @@
   </url><url>
     <loc>https://www.kapchits.online/so/publications/articles/buuggii-aan-sugeyey/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/so/publications/reviews/andrzejewski-1986/</loc>
+    <lastmod>1986-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/publications/reviews/andrzejewski-1986/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/publications/reviews/andrzejewski-1986/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/publications/reviews/andrzejewski-1986/"
+                />
   </url>
 </urlset>
