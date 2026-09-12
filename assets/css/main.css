@@ -742,3 +742,20 @@ footer a{color:#222;text-decoration:underline;margin:0 5px;}
 .view-switch a { color: #5b6470; text-decoration: none; padding: .2rem .7rem; border: 1px solid #d9dcd6; border-radius: 999px; background: #fff; }
 .view-switch a:hover { border-color: #0b62a4; color: #0b62a4; }
 .view-switch a.active { background: #1f2429; color: #fff; border-color: #1f2429; }
+
+/* Кнопка «Полный текст (EN)» и подобные. Один класс на все три облика: в витрине и
+   хронологии у него своя гамма, здесь — гамма основного сайта (12.09.2026). */
+.v-btn{
+  display:inline-block;
+  padding:2px 9px;
+  border:1px solid #cbd5e0;
+  border-radius:2px;
+  background:#f7f9fb;
+  color:#2c5282;
+  font-size:.86rem;
+  line-height:1.4;
+  text-decoration:none;
+  white-space:nowrap;
+}
+.v-btn:hover{background:#edf2f7;color:#1a365d;}
+.v-btn-out{color:#52606d;}

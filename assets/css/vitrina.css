@@ -133,12 +133,12 @@ mark { background: #fff2a8; color: inherit; }
 }
 
 /* фотогалерея — та же разметка, что на основном сайте, свои правила */
-.v-photos .photo-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); gap: .7rem; margin: 1rem 0; }
-.v-photos .photo-item { margin: 0; }
-.v-photos .photo-item img { width: 100%; height: auto; border: 1px solid #dfe2dd; }
-.v-photos .photo-item figcaption { font-size: .8rem; color: #6b737c; margin-top: .25rem; }
-.v-photos .photo-lead { margin: 0 0 1.2rem; }
-.v-photos .photo-lead img { max-width: 100%; height: auto; }
+.v-photos .photo-gallery, .vitrina-material .photo-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); gap: .7rem; margin: 1rem 0; }
+.v-photos .photo-item, .vitrina-material .photo-item { margin: 0; }
+.v-photos .photo-item img, .vitrina-material .photo-item img { width: 100%; height: auto; border: 1px solid #dfe2dd; }
+.v-photos .photo-item figcaption, .vitrina-material .photo-item figcaption { font-size: .8rem; color: #6b737c; margin-top: .25rem; }
+.v-photos .photo-lead, .vitrina-material .photo-lead { margin: 0 0 1.2rem; }
+.v-photos .photo-lead img, .vitrina-material .photo-lead img { max-width: 100%; height: auto; }
 
 /* все материалы: раздел — заголовок, страницы — строка с кнопкой */
 .v-mats { margin-top: 1rem; }
@@ -174,3 +174,20 @@ mark { background: #fff2a8; color: inherit; }
 /* кнопка внутри строки библиографии */
 .v-articles .v-btn { margin-left: .35rem; }
 .v-articles li { margin-bottom: .55rem; }
+
+/* Разметка из контента, которой в витрине ещё не было (12.09.2026): цитата в бейдже,
+   портрет в биографии, вторая галерея вертикальных снимков, пара сканов. */
+.vitrina-material .photo-gallery-tall, .v-photos .photo-gallery-tall { grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); margin-top: 1.8rem; padding-top: 1.2rem; border-top: 1px solid #e6e8e3; }
+.vitrina-material .photo-gallery figcaption, .v-photos .photo-gallery figcaption { margin-top: .3rem; color: #6b737c; font-size: .82rem; line-height: 1.4; }
+.vitrina-material .review-badge .rb-quote, .v-reviews .rb-quote { display: block; margin-top: .15rem; color: #33404f; font-size: .88rem; font-style: italic; line-height: 1.4; }
+.vitrina-material .bio-portrait { float: right; margin: 0 0 1.2rem 1.4rem; max-width: 16rem; text-align: center; }
+.vitrina-material .bio-portrait img { display: block; width: 100%; height: auto; border: 1px solid #dfe2dd; }
+.vitrina-material .bio-portrait figcaption, .vitrina-material .scan-pair figcaption { margin-top: .4rem; color: #6b737c; font-size: .84rem; line-height: 1.45; }
+.vitrina-material .scan-pair { margin: 1.2rem 0 1.8rem; }
+.vitrina-material .scan-pair img { display: block; width: 100%; height: auto; border: 1px solid #dfe2dd; }
+@media (max-width: 640px) { .vitrina-material .bio-portrait { float: none; margin: 0 auto 1.2rem; max-width: 18rem; } }
+
+/* На узком экране плавающая обложка забирает почти половину ширины — ставим её в строку */
+@media (max-width: 480px) {
+  .vitrina-material .book-cover { float: none; margin: .4rem 0 1rem; max-width: 10rem; }
+}

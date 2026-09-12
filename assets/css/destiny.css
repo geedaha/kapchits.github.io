@@ -150,3 +150,25 @@ mark { background: #fff2a8; color: inherit; }
 .d-kids { list-style: none; padding: 0; }
 .d-kids li { padding: .5rem 0; border-top: 1px solid #e6e8e3; max-width: none; }
 @media (max-width: 900px) { .d-app-material { grid-template-columns: 1fr; } }
+
+/* Разметка из контента в облике хронологии: галереи, портрет, сканы, цитата в бейдже.
+   main.css здесь не грузится, поэтому правила свои (12.09.2026). */
+.d-material .photo-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); gap: .7rem; margin: 1.2rem 0 1.8rem; }
+.d-material .photo-gallery-tall { grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); margin-top: 1.8rem; padding-top: 1.2rem; border-top: 1px solid #e6e8e3; }
+.d-material .photo-item { margin: 0; }
+.d-material .photo-item img { display: block; width: 100%; height: auto; border: 1px solid #dfe2dd; }
+.d-material .photo-gallery figcaption, .d-material .photo-item figcaption { margin-top: .3rem; color: #6b737c; font-size: .82rem; line-height: 1.4; }
+.d-material .photo-lead { margin: 0 0 1.4rem; max-width: 34rem; }
+.d-material .photo-lead img { display: block; width: 100%; height: auto; border: 1px solid #dfe2dd; }
+.d-material .review-badge .rb-quote { display: block; margin-top: .15rem; color: #33404f; font-size: .88rem; font-style: italic; line-height: 1.4; }
+.d-material .review-badge .rb-who { display: block; margin-top: .2rem; color: #9a7a3a; font-size: .8rem; }
+.d-material .bio-portrait { float: right; margin: 0 0 1.2rem 1.4rem; max-width: 16rem; text-align: center; }
+.d-material .bio-portrait img { display: block; width: 100%; height: auto; border: 1px solid #dfe2dd; }
+.d-material .bio-portrait figcaption, .d-material .scan-pair figcaption { margin-top: .4rem; color: #6b737c; font-size: .84rem; line-height: 1.45; }
+.d-material .scan-pair { margin: 1.2rem 0 1.8rem; }
+.d-material .scan-pair img { display: block; width: 100%; height: auto; border: 1px solid #dfe2dd; }
+@media (max-width: 640px) { .d-material .bio-portrait { float: none; margin: 0 auto 1.2rem; max-width: 18rem; } }
+
+@media (max-width: 480px) {
+  .d-material .book-cover { float: none; margin: .4rem 0 1rem; max-width: 10rem; }
+}
