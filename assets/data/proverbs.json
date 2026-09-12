@@ -105,7 +105,7 @@
   "known": 91.11,
   "n": null,
   "note": "",
-  "russian": "Либо откажись сразу, либо потом терпи",
+  "russian": "Либо откажись сразу, либо потом терпи.",
   "somali": "Ama afeef hore lahow, ama adkeysi dambe lahow",
   "source": "hubsiimo"
  },
@@ -142,7 +142,7 @@
   "known": 91.11,
   "n": null,
   "note": "",
-  "russian": "Там, где шакал привык к жирной грудинке, он когда-нибудь подохнет от истощения",
+  "russian": "Там, где шакал привык к жирной грудинке, он когда-нибудь подохнет от истощения.",
   "somali": "Dawaco meeshay macal uga baratay ayay macaluul ugu baqtidaa",
   "source": "hubsiimo"
  },
@@ -214,7 +214,8 @@
   "known": 88.89,
   "n": null,
   "note": "This means: One has to be patient with an unrestrained person.",
-  "russian": "Под страдающим недержанием мочи приходится часто менять циновку. \tУпотребляется в значении: с несдержанным человеком, приходится быть особенно терпеливым.",
+  "note_ru": "Употребляется в значении: с несдержанным человеком, приходится быть особенно терпеливым.",
+  "russian": "Под страдающим недержанием мочи приходится часто менять циновку.",
   "somali": "Kaadi-badane waa loo gogol badiyaa",
   "source": "hubsiimo"
  },
@@ -753,7 +754,7 @@
   "known": 77.81,
   "n": null,
   "note": "",
-  "russian": "Ты говоришь одно, а он слышит другое",
+  "russian": "Ты говоришь одно, а он слышит другое.",
   "somali": "Hadal nin si u yiri, ninna si u qaaday",
   "source": "hubsiimo"
  },
@@ -886,7 +887,7 @@
   "source": "hubsiimo"
  },
  {
-  "english": "You will not remain (on earth) – let a good memory of you remain.",
+  "english": "You will not remain (on earth) — let a good memory of you remain.",
   "known": 75.59,
   "n": null,
   "note": "",
@@ -955,7 +956,7 @@
   "known": 73.37,
   "n": 105,
   "note": "",
-  "russian": "Женщина создана из кривого ребра",
+  "russian": "Женщина создана из кривого ребра.",
   "somali": "Naag feedh qalloocan baa laga abuuray",
   "source": "hubsiimo"
  },
@@ -973,7 +974,7 @@
   "known": 73.37,
   "n": 107,
   "note": "",
-  "russian": "Вор у вора не крадёт",
+  "russian": "Вор у вора не крадёт.",
   "somali": "Tuug tuug ma xado",
   "source": "hubsiimo"
  },
@@ -982,7 +983,7 @@
   "known": 71.15,
   "n": 108,
   "note": "",
-  "russian": "Закрытый рот — золото",
+  "russian": "Закрытый рот — золото.",
   "somali": "Af daboolan waa dahab",
   "source": "hubsiimo"
  },
@@ -1014,10 +1015,10 @@
   "source": "hubsiimo"
  },
  {
-  "english": "The arrow will not fall out of your body however hard you may shake [i.e. no excuse will help you if you have been exposed].",
+  "english": "No matter how hard you shake yourself, the arrow will not come out of your body [i.e. if you have been found out, no excuses will help].",
   "known": 71.15,
   "n": 112,
-  "note": "No matter how hard you shake yourself, the arrow will not come out of your body [i.e. if you have been found out, no excuses will help].",
+  "note": "",
   "russian": "Как ни трясись, стрела из тела не вывалится [т.е. если тебя уличили, оправдания не помогут].",
   "somali": "Fallaadhi gilgilasho kaagama go'do",
   "source": "hubsiimo"
@@ -1082,7 +1083,7 @@
   "known": 71.15,
   "n": 119,
   "note": "",
-  "russian": "У больного сто советчиков",
+  "russian": "У больного сто советчиков.",
   "somali": "Nin bukaa boqol u talisay",
   "source": "hubsiimo"
  },
@@ -1402,7 +1403,7 @@
   "known": 64.49,
   "n": 154,
   "note": "",
-  "russian": "Мокрый воды не боится",
+  "russian": "Мокрый воды не боится.",
   "somali": "Nin qoyani biyo iskama dhowro",
   "source": "hubsiimo"
  },
@@ -1520,7 +1521,7 @@
   "known": 62.27,
   "n": 167,
   "note": "",
-  "russian": "Чужая одежда не греет",
+  "russian": "Чужая одежда не греет.",
   "somali": "Dhar aanad lahayni dhaxan kaama cesho",
   "source": "hubsiimo"
  },
@@ -1791,7 +1792,7 @@
   "known": 57.83,
   "n": 197,
   "note": "",
-  "russian": "Мать труса сына не теряет",
+  "russian": "Мать труса сына не теряет.",
   "somali": "Fuley habartii ma gablanto",
   "source": "hubsiimo"
  },
@@ -1847,7 +1848,7 @@
   "known": 57.83,
   "n": 203,
   "note": "",
-  "russian": "Ты ему шьёшь сандалии, а он тебе — саван",
+  "russian": "Ты ему шьёшь сандалии, а он тебе — саван.",
   "somali": "Nin aad kabtiisa toleysid oo kafantaada tolaya",
   "source": "hubsiimo"
  },
@@ -2229,7 +2230,7 @@
   "known": 51.17,
   "n": 245,
   "note": "",
-  "russian": "Несправедливому удачи не будет [т. е. несправедливость не приводит к благополучию].",
+  "russian": "Несправедливому удачи не будет [т. е. несправедливость не приведёт к благополучию].",
   "somali": "Nin gardaran ma guuleysto",
   "source": "hubsiimo"
  },
@@ -2280,7 +2281,7 @@
   "source": "articles"
  },
  {
-  "english": "Woman is a disaster one cannot do without",
+  "english": "Woman is a disaster one cannot do without.",
   "known": null,
   "n": null,
   "note": "",

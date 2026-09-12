@@ -18,7 +18,17 @@
     el.hidden = false;
     el.textContent = '“' + text + '”';
   };
+  // Пояснение автора — не цитата, поэтому без кавычек (правка автора 12.09.2026)
+  var putPlain = function (id, text) {
+    var el = document.getElementById(id);
+    if (!el) return;
+    if (!text) { el.hidden = true; return; }
+    el.hidden = false;
+    el.textContent = text;
+  };
   put("proverb-somali", p.somali);
   put("proverb-english", p.english);
   put("proverb-russian", p.russian);
+  putPlain("proverb-note", p.note);
+  putPlain("proverb-note-ru", p.note_ru);
 })();
