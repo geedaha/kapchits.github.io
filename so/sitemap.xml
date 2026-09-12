@@ -92,6 +92,24 @@
                 href="https://www.kapchits.online/so/drkapchits/reviews/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/so/drkapchits/photos/</loc>
+    <lastmod>2026-09-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/drkapchits/photos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/drkapchits/photos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/drkapchits/photos/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/so/publications/proverbs/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -110,6 +128,24 @@
                 href="https://www.kapchits.online/so/publications/proverbs/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/so/drkapchits/research/</loc>
+    <lastmod>2026-09-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/drkapchits/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/drkapchits/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/drkapchits/research/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/so/publications/reviews/</loc>
     <lastmod>2026-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -126,6 +162,24 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/publications/reviews/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/so/drkapchits/materials/</loc>
+    <lastmod>2026-09-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/drkapchits/materials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/drkapchits/materials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/drkapchits/materials/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/so/somalistics/lexicon/</loc>

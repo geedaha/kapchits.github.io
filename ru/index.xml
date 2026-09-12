@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.kapchits.online/ru/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -33,6 +33,27 @@
 				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://www.kapchits.online/ru/drkapchits/reviews/</guid>
 				<description>&lt;p class=&#34;v-lead&#34;&gt;Все известные проекту рецензии и отклики, по строке на каждый; строка ведёт к полному изложению с выходными данными.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Фотографии</title>
+				<link>https://www.kapchits.online/ru/drkapchits/photos/</link>
+				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/ru/drkapchits/photos/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Тридцать снимков из архива автора: Могадишо, Пунтленд, Джибути, Огайо. Те же, что на основном сайте, — подписи и права описаны там же.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Исследования</title>
+				<link>https://www.kapchits.online/ru/drkapchits/research/</link>
+				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/ru/drkapchits/research/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Четыре многолетние линии работы, и первая из них — паремиологический эксперимент, которым установлен сомалийский паремиологический минимум.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Все материалы</title>
+				<link>https://www.kapchits.online/ru/drkapchits/materials/</link>
+				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/ru/drkapchits/materials/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Полный список страниц сайта. Каждая открывается здесь же, в оформлении витрины; внизу каждой страницы — ссылка на неё же на основном сайте.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Лексические глоссарии</title>

@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.kapchits.online/so/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -33,6 +33,27 @@
 				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://www.kapchits.online/so/drkapchits/reviews/</guid>
 				<description>&lt;p class=&#34;v-lead&#34;&gt;Faallooyinka iyo jawaabaha oo dhan, xariiq kasta hal; xariiqdu waxay u tilmaamaysaa koobitaanka buuxa.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sawirro</title>
+				<link>https://www.kapchits.online/so/drkapchits/photos/</link>
+				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/drkapchits/photos/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Soddon sawir oo kayd qoraaga ah: Muqdisho, Puntland, Jabuuti, Ohio. Waa isla kuwii mareegta weyn; qoraallada iyo xuquuqda halkaas lagu sharraxay.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cilmi-baadhis</title>
+				<link>https://www.kapchits.online/so/drkapchits/research/</link>
+				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/drkapchits/research/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Afar xariiq shaqo oo sannado badan qaadatay; tan ugu horreysa waa tijaabinta maahmaaheed ee lagu dejiyey xaddiga ugu yar ee maahmaahda Soomaaliyeed.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Agabka oo dhan</title>
+				<link>https://www.kapchits.online/so/drkapchits/materials/</link>
+				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.kapchits.online/so/drkapchits/materials/</guid>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Liiska dhammaystiran ee bogagga mareegta. Mid kastaa halkan ku furmayaa qaabkan; bog kasta hoostiisa waxaa ku yaal xiriiriye u socda bogga isla mid ah ee mareegta weyn.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Liisaska Ereyada</title>
