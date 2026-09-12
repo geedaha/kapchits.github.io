@@ -14,11 +14,11 @@
 		
 			<atom:link href="https://www.kapchits.online/ru/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Книги</title>
+				<title>Издания</title>
 				<link>https://www.kapchits.online/ru/drkapchits/books/</link>
 				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://www.kapchits.online/ru/drkapchits/books/</guid>
-				<description>&lt;p class=&#34;v-lead&#34;&gt;Двенадцать книг в хронологическом порядке: название как на титуле, выходные данные и рецензии на каждую. Полный каталог с обложками и аннотациями — на &lt;a href=&#34;https://www.kapchits.online/ru/publications/monographs/vitrina.html&#34;&gt;основном сайте&lt;/a&gt;.&lt;/p&gt;</description>
+				<description>&lt;p class=&#34;v-lead&#34;&gt;Хронологический указатель: двенадцать книг и редакторская работа, с 1983 по 2022 год. У каждой позиции — название как на титуле, выходные данные, ISBN и рецензии. Обложки и аннотации — в каталоге, где книги сгруппированы по темам.&lt;/p&gt;&#xA;&lt;p class=&#34;v-btns&#34;&gt;&lt;a class=&#34;v-btn&#34; href=&#34;https://www.kapchits.online/ru/publications/monographs/vitrina.html&#34;&gt;Аннотированный каталог&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Статьи</title>

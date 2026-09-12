@@ -122,8 +122,8 @@ mark { background: #fff2a8; color: inherit; }
 .v-btn-out:hover { background: #eef0ea; color: #333b45; }
 
 /* книги: обложка слева от выходных данных */
-.v-books li { display: grid; grid-template-columns: 4rem 7.5rem minmax(0, 1fr); gap: 0 1rem; }
-.v-books li > div { grid-column: 3; }
+.v-books li { display: grid; grid-template-columns: 4rem minmax(0, 1fr); gap: 0 1rem; }
+.v-books li > div { grid-column: 2; }
 .v-cover { grid-column: 2; margin: 0; }
 .v-cover img { width: 100%; height: auto; border: 1px solid #dfe2dd; background: #fff; }
 @media (max-width: 640px) {
@@ -191,3 +191,10 @@ mark { background: #fff2a8; color: inherit; }
 @media (max-width: 480px) {
   .vitrina-material .book-cover { float: none; margin: .4rem 0 1rem; max-width: 10rem; }
 }
+
+/* хлебные крошки витрины (13.09.2026) */
+.v-crumbs { margin: 0 0 .9rem; font-size: .84rem; color: #6b737c; line-height: 1.5; }
+.v-crumbs a { color: #5b6470; text-decoration: none; border-bottom: 1px solid #d8dcd6; }
+.v-crumbs a:hover { color: #1f2429; border-bottom-color: #c8a96a; }
+.v-crumb-sep { margin: 0 .3rem; color: #a0a7ae; }
+.v-crumbs [aria-current="page"] { color: #3c454f; }
