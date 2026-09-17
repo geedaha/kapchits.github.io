@@ -962,6 +962,16 @@
   </url><url>
     <loc>https://www.kapchits.online/so/tags/tiroley/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/tiroley/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/tiroley/"
+                />
   </url><url>
     <loc>https://www.kapchits.online/so/publications/articles/tol-waa-nin-qumman-qabanqaabadiis/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>

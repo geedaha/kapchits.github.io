@@ -155,6 +155,9 @@
                 href="https://www.kapchits.online/so/publications/proverbs/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/en/publications/articles/somali-paremias-based-on-numbers/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kapchits.online/en/publications/articles/paremias-without-particles/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -193,6 +196,9 @@
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/publications/reviews/"
                 />
+  </url><url>
+    <loc>https://www.kapchits.online/en/publications/articles/european-proverbs-introduction/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kapchits.online/en/drkapchits/materials/</loc>
     <lastmod>2026-09-12T00:00:00+00:00</lastmod>
@@ -801,6 +807,84 @@
                 href="https://www.kapchits.online/so/publications/reviews/baraag-2020/"
                 />
   </url><url>
+    <loc>https://www.kapchits.online/en/tags/european-proverbs/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/language-teaching/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/logico-semiotic-classification/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/matti-kuusi/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/paremiological-types/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/categories/paremiology/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/paremiology/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/permyakov/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/permyakov/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/permyakov/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/somali-proverbs/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/somali-proverbs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/somali-proverbs/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://www.kapchits.online/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/"
+                />
+  </url><url>
+    <loc>https://www.kapchits.online/en/tags/tiroley/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.kapchits.online/en/tags/tiroley/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="so-so"
+                href="https://www.kapchits.online/so/tags/tiroley/"
+                />
+  </url><url>
     <loc>https://www.kapchits.online/en/publications/reviews/khaliil-2017/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -898,24 +982,6 @@
   </url><url>
     <loc>https://www.kapchits.online/en/tags/somali-literature/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/en/tags/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/tags/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/tags/utopia/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
@@ -1392,9 +1458,6 @@
     <loc>https://www.kapchits.online/en/publications/articles/peculiarities-of-somali/</loc>
     <lastmod>2007-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/en/tags/paremiology/</loc>
-    <lastmod>2007-03-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.kapchits.online/en/tags/san-diego/</loc>
     <lastmod>2007-03-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -1412,19 +1475,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://www.kapchits.online/ru/tags/somali-language/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/en/tags/somali-proverbs/</loc>
-    <lastmod>2007-03-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/tags/somali-proverbs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/tags/somali-proverbs/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/tags/women/</loc>
@@ -1473,9 +1523,6 @@
     <loc>https://www.kapchits.online/en/tags/paremiological-minimum/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/en/categories/paremiology/</loc>
-    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.kapchits.online/en/tags/past-independent-tense/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -1493,19 +1540,6 @@
   </url><url>
     <loc>https://www.kapchits.online/en/tags/field-experiment/</loc>
     <lastmod>2003-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/en/tags/permyakov/</loc>
-    <lastmod>2003-04-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/tags/permyakov/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/tags/permyakov/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/reviews/deeq-2002/</loc>
     <lastmod>2002-09-12T00:00:00+00:00</lastmod>
