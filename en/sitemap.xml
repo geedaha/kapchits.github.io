@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kapchits.online/en/drkapchits/books/</loc>
-    <lastmod>2026-09-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/drkapchits/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/drkapchits/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/drkapchits/books/"
-                />
-  </url><url>
     <loc>https://www.kapchits.online/en/publications/monographs/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,24 +22,6 @@
   </url><url>
     <loc>https://www.kapchits.online/en/publications/articles/paremiological-experiment/</loc>
     <lastmod>2003-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/en/drkapchits/articles/</loc>
-    <lastmod>2026-09-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/drkapchits/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/drkapchits/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/drkapchits/articles/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/articles/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
@@ -80,44 +44,8 @@
     <loc>https://www.kapchits.online/en/publications/articles/kinship-terms-comparative/</loc>
     <lastmod>2008-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/en/drkapchits/reviews/</loc>
-    <lastmod>2026-09-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/drkapchits/reviews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/drkapchits/reviews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/drkapchits/reviews/"
-                />
-  </url><url>
     <loc>https://www.kapchits.online/en/publications/articles/variants-and-variations/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/en/drkapchits/photos/</loc>
-    <lastmod>2026-09-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/drkapchits/photos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/drkapchits/photos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/drkapchits/photos/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/proverbs/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
@@ -143,24 +71,6 @@
     <loc>https://www.kapchits.online/en/publications/articles/paremias-without-particles/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kapchits.online/en/drkapchits/research/</loc>
-    <lastmod>2026-09-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/drkapchits/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/drkapchits/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/drkapchits/research/"
-                />
-  </url><url>
     <loc>https://www.kapchits.online/en/publications/reviews/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -181,24 +91,6 @@
   </url><url>
     <loc>https://www.kapchits.online/en/publications/articles/european-proverbs-introduction/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kapchits.online/en/drkapchits/materials/</loc>
-    <lastmod>2026-09-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/drkapchits/materials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/drkapchits/materials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/drkapchits/materials/"
-                />
   </url><url>
     <loc>https://www.kapchits.online/en/publications/folklore/out-of-the-mouth-of-babes/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
@@ -301,42 +193,6 @@
                 rel="alternate"
                 hreflang="so-so"
                 href="https://www.kapchits.online/so/research/projects/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/en/drkapchits/</loc>
-    <lastmod>2026-09-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/drkapchits/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/drkapchits/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/drkapchits/"
-                />
-  </url><url>
-    <loc>https://www.kapchits.online/en/destiny/</loc>
-    <lastmod>2026-09-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.kapchits.online/en/destiny/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://www.kapchits.online/ru/destiny/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="so-so"
-                href="https://www.kapchits.online/so/destiny/"
                 />
   </url><url>
     <loc>https://www.kapchits.online/en/categories/</loc>

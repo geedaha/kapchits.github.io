@@ -10,51 +10,9 @@
 		
 		
 		
-			<lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.kapchits.online/ru/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Все издания по годам</title>
-				<link>https://www.kapchits.online/ru/drkapchits/books/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/drkapchits/books/</guid>
-				<description>&lt;p class=&#34;v-lead&#34;&gt;Хронологический указатель: двенадцать книг и редакторская работа, с 1983 по 2022 год. У каждой позиции — название как на титуле, выходные данные, ISBN и рецензии. Обложки и аннотации — в каталоге, где книги сгруппированы по темам.&lt;/p&gt;&#xA;&lt;p class=&#34;v-btns&#34;&gt;&lt;a class=&#34;v-btn&#34; href=&#34;https://www.kapchits.online/ru/publications/monographs/vitrina.html&#34;&gt;Аннотированный каталог&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Статьи</title>
-				<link>https://www.kapchits.online/ru/drkapchits/articles/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/drkapchits/articles/</guid>
-				<description>&lt;p class=&#34;v-lead&#34;&gt;Ниже — та же библиография, что ведётся на основном сайте, без окружающих её страниц; там, где полный текст есть на сайте, из позиции стоит ссылка.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Отзывы</title>
-				<link>https://www.kapchits.online/ru/drkapchits/reviews/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/drkapchits/reviews/</guid>
-				<description>&lt;p class=&#34;v-lead&#34;&gt;Все известные проекту рецензии и отклики, по строке на каждый; строка ведёт к полному изложению с выходными данными.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Фотографии</title>
-				<link>https://www.kapchits.online/ru/drkapchits/photos/</link>
-				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/drkapchits/photos/</guid>
-				<description>&lt;p class=&#34;v-lead&#34;&gt;Тридцать снимков из архива автора: Могадишо, Пунтленд, Джибути, Огайо. Те же, что на основном сайте, — подписи и права описаны там же.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Исследования</title>
-				<link>https://www.kapchits.online/ru/drkapchits/research/</link>
-				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/drkapchits/research/</guid>
-				<description>&lt;p class=&#34;v-lead&#34;&gt;Четыре многолетние линии работы, и первая из них — паремиологический эксперимент, которым установлен сомалийский паремиологический минимум.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Все материалы</title>
-				<link>https://www.kapchits.online/ru/drkapchits/materials/</link>
-				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.kapchits.online/ru/drkapchits/materials/</guid>
-				<description>&lt;p class=&#34;v-lead&#34;&gt;Полный список страниц сайта. Каждая открывается здесь же, в оформлении витрины; внизу каждой страницы — ссылка на неё же на основном сайте.&lt;/p&gt;</description>
-			</item>
 			<item>
 				<title>Устами младенцев</title>
 				<link>https://www.kapchits.online/ru/publications/folklore/ustami-mladentsev/</link>
