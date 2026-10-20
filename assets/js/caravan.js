@@ -306,6 +306,7 @@
 
   /* ---------- пословица по нажатию на караван ---------- */
   var pIdx = 0, hideT = 0;
+  function hideBubble() { clearTimeout(hideT); bubble.classList.remove("on"); }
   function onCaravan(e) {
     if (!hits) return false;
     var r = cv.getBoundingClientRect(), x = e.clientX - r.left, y = e.clientY - r.top;
@@ -314,6 +315,7 @@
   cv.addEventListener("mousemove", function (e) { cv.style.cursor = onCaravan(e) ? "pointer" : ""; });
   cv.addEventListener("click", function (e) {
     if (!onCaravan(e) || !PROVERBS.length) return;
+    e.stopPropagation();               // клик по каравану — новая пословица; любой другой клик её прячет
     var pr = PROVERBS[pIdx++ % PROVERBS.length];
     bubble.innerHTML = "<i></i><span></span>";
     bubble.querySelector("i").textContent = pr[0]; bubble.querySelector("span").textContent = pr[1] || "";
@@ -322,8 +324,10 @@
     bubble.style.width = bw + "px";
     bubble.style.bottom = (H - hits.y0 + 8) + "px";
     bubble.classList.add("on");
-    clearTimeout(hideT); hideT = setTimeout(function () { bubble.classList.remove("on"); }, 9000);
+    clearTimeout(hideT); hideT = setTimeout(hideBubble, 6000);
   });
+  document.addEventListener("click", function () { if (bubble.classList.contains("on")) hideBubble(); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") hideBubble(); });
 
   /* ---------- запуск ---------- */
   function start() {
@@ -334,6 +338,7 @@
   }
   new IntersectionObserver(function (es) {
     var was = visible; visible = es[0].isIntersecting;
+    if (!visible) hideBubble();
     if (visible && !was) start();
   }).observe(root);
   document.addEventListener("visibilitychange", function () { if (!document.hidden) start(); });
