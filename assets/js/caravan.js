@@ -221,6 +221,20 @@
       var x = -20 + i * 7, X = (x - vpX) * z / f + camX, p = proj(X, ridgeH(X, z, k), z);
       pts.push({ x: p.x, y: p.y + noise(i, k) * .7, crest: ridgeH(X, z, k) > Math.min(4.5, 1.1 + .05 * z) * .28 });
     }
+    /* Гребень не должен подниматься выше ног каравана, идущего за этой дюной:
+       ложбина считается в экранных координатах по всему пути (он неподвижен),
+       с пологими склонами, чтобы линия не ломалась уступом. */
+    var floor = new Array(n + 1).fill(-1e9);
+    for (var j = 0; j < track.length; j += 2) {
+      var tp = track[j];
+      if (tp.z <= z + .3) continue;
+      var q = proj(tp.X, 0, tp.z), half = 40 * U * f / tp.z + 4;
+      var i0 = Math.max(0, Math.floor((q.x - half + 20) / 7)), i1 = Math.min(n, Math.ceil((q.x + half + 20) / 7));
+      for (i = i0; i <= i1; i++) floor[i] = Math.max(floor[i], q.y + 1.5);
+    }
+    for (i = 1; i <= n; i++) floor[i] = Math.max(floor[i], floor[i - 1] - 2.5);
+    for (i = n - 1; i >= 0; i--) floor[i] = Math.max(floor[i], floor[i + 1] - 2.5);
+    for (i = 0; i <= n; i++) if (pts[i].y < floor[i]) pts[i].y = floor[i];
     var t = depthT(z), fillC = mix([251, 246, 236], [243, 232, 210], clamp((pts[0].y - horizon) / (H - horizon), 0, 1));
     var body = new Path2D(); body.moveTo(pts[0].x, pts[0].y);
     for (i = 1; i < pts.length; i++) body.lineTo(pts[i].x, pts[i].y);
